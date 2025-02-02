@@ -1,0 +1,4 @@
+INSTRUCCIONES EJECUCION:
+- Te tienes que ubicar en ANACONDA PROMPT en la carpeta dónde se encuentra el proceso main.py
+- instalar librerías -> pip install streamlit pymongo fpdf ultralytics
+- Ejecutar -> streamlit run main.py
