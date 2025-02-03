@@ -8,16 +8,6 @@ collection_clientes = db['asegurados']
 collection_piezas = db['coste_reparaciones']
 
 def verificar_cliente(nombre, apellido):
-    """
-    Verifica si un cliente está registrado en la base de datos MongoDB.
-
-    Args:
-        nombre (str): Nombre del cliente.
-        apellido (str): Apellido del cliente.
-
-    Returns:
-        dict: Datos del cliente si está registrado, None en caso contrario.
-    """
     cliente = collection_clientes.find_one({
         "nombre": {"$regex": f"^{nombre.strip()}$", "$options": "i"},
         "apellido": {"$regex": f"^{apellido.strip()}$", "$options": "i"}
@@ -25,15 +15,6 @@ def verificar_cliente(nombre, apellido):
     return cliente  # Devuelve los datos completos si se encuentra, None si no existe
 
 def ejecutar_flujo(entradas):
-    """
-    Busca información relevante en MongoDB basado en las entradas proporcionadas.
-
-    Args:
-        entradas (list of dict): Lista de diccionarios con 'Componente'.
-
-    Returns:
-        list of dict: Información detallada de los componentes encontrados.
-    """
     contenido = []
     for entrada in entradas:
         pieza = collection_piezas.find_one({"Componente": entrada["Componente"]})
