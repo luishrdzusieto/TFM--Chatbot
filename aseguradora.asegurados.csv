@@ -1,0 +1,1001 @@
+_id,dni,nombre,apellido,edad,experiencia_vehiculo,numero_poliza,tipo_poliza,prima,marca_vehiculo,modelo_vehiculo,edad_vehiculo,color,direccion,provincia,ciudad
+67a0f8228d8acdc8201d7713,34895920K,Otilia,Santamaria,24,2,175-998-762,terceros ampliado,750,Jaguar,XE,5,Rosa,Via de Gala Cortes 36\nTeruel 34779,Palencia,Villamuriel de Cerrato
+67a0f8228d8acdc8201d7714,33012467S,Lorena,Ibanez,33,15,629-705-750,terceros ampliado,940,BMW,X3,18,Azul,Alameda Lucio Fiol 488\nCeuta 09300,Las Palmas,Arrecife
+67a0f8228d8acdc8201d7715,98129590K,Segismundo,Baena,58,4,705-653-057,todo riesgo,580,Renault,Megane,6,Rosa,Pasadizo Bartolome Pages 59\nLugo 24696,Santa Cruz de Tenerife,Arona
+67a0f8228d8acdc8201d7716,54369517R,Leopoldo,Aramburu,51,19,692-605-794,todo riesgo con franquicia,1000,Citroen,C3,20,Rojo,Via de Agustina Ferrera 57\nLa Coruna 23708,A Coruna,Naron
+67a0f8228d8acdc8201d7717,12901920R,Juana,Torre,26,4,191-646-654,todo riesgo con franquicia,640,Fiat,Punto,8,Rosa,Camino de Geraldo Montes 71\nHuelva 08263,Huelva,Almonte
+67a0f8228d8acdc8201d7718,18913584V,Rodrigo,Contreras,49,3,035-936-774,todo riesgo,820,Renault,Megane,14,Blanco,Urbanizacion de Pili Prada 10 Piso 6 \nLas Palmas 51676,Pontevedra,Cangas
+67a0f8228d8acdc8201d7719,80878284A,Carmelita,Vilar,34,5,166-643-954,terceros ampliado,550,Mitsubishi,Mirage,5,Verde,Pasaje de Olivia Baeza 99 Piso 6 \nHuelva 32999,Las Palmas,Las Palmas de Gran Canaria
+67a0f8228d8acdc8201d771a,59170927T,Bonifacio,Alegria,41,23,660-896-436,todo riesgo con franquicia,580,Toyota,Corolla,6,Rosa,Acceso Sergio Linares 61\nValladolid 38634,Murcia,Lorca
+67a0f8228d8acdc8201d771b,38437342H,Ricardo,Cuesta,18,0,428-311-610,todo riesgo con franquicia,1080,Jeep,Compass,16,Blanco,Via de Anunciacion Pons 58 Puerta 7 \nAvila 12144,Murcia,Cartagena
+67a0f8228d8acdc8201d771c,72745474Q,Sol,Suarez,66,1,681-054-777,todo riesgo con franquicia,970,Renault,Kadjar,19,Marron,Via de Maria Angeles Ramirez 79\nPontevedra 36329,Toledo,Toledo
+67a0f8228d8acdc8201d771d,47325798D,Vidal,Lluch,64,39,825-551-824,terceros,640,Volvo,XC60,8,Marron,Cuesta Inigo Villegas 210 Puerta 9 \nCaceres 36989,Vizcaya,Getxo
+67a0f8228d8acdc8201d771e,90531982A,Erasmo,Arco,41,20,973-008-131,todo riesgo con franquicia,970,Tesla,Roadster,19,Verde,Ronda de Demetrio Jerez 1 Apt 46 \nCeuta 29056,Toledo,Talavera de la Reina
+67a0f8228d8acdc8201d771f,78051328T,Calista,Carretero,55,26,529-010-892,todo riesgo,1000,Kia,Soul,20,Blanco,Urbanizacion Adoracion Bonilla 1\nLa Rioja 01080,Alicante,Benidorm
+67a0f8228d8acdc8201d7720,55996174Y,Florinda,Sarabia,20,1,231-154-373,todo riesgo con franquicia,720,Lamborghini,Urus,4,Marron,Urbanizacion German Mateu 44\nGuipuzcoa 17425,Badajoz,Merida
+67a0f8228d8acdc8201d7721,25933492A,Moreno,Ortuno,22,4,171-085-994,todo riesgo,660,Honda,Civic,2,Marron,Camino de Rufina Hidalgo 5\nBaleares 16883,Cantabria,Torrelavega
+67a0f8228d8acdc8201d7722,63766222X,Ofelia,Belmonte,28,1,472-386-727,todo riesgo con franquicia,850,Jeep,Wrangler,15,Verde,Rambla Oscar Pena 6 Puerta 1 \nSegovia 23774,Alicante,Elche
+67a0f8228d8acdc8201d7723,44019608T,Desiderio,Puga,66,41,781-308-889,todo riesgo,610,Subaru,Impreza,7,Plata,Camino de Edu Oller 33 Puerta 5 \nVizcaya 43854,Murcia,Molina de Segura
+67a0f8228d8acdc8201d7724,50499755N,Victoria,Jaume,53,16,977-029-414,todo riesgo con franquicia,580,Ferrari,Portofino,6,Beige,Urbanizacion de Nayara Cuervo 99 Piso 0 \nSevilla 40080,Segovia,Cantalejo
+67a0f8228d8acdc8201d7725,81442511V,Eli,Catala,21,1,980-446-722,terceros ampliado,690,Ford,Explorer,3,Gris,Paseo Guadalupe Nino 50 Apt 56 \nCuenca 04252,Guipuzcoa,Irun
+67a0f8228d8acdc8201d7726,70343290K,Vera,Rozas,40,7,715-338-535,terceros,940,Subaru,Outback,18,Verde,Camino de Chelo Pont 77 Puerta 0 \nLleida 28689,Valencia,Valencia
+67a0f8228d8acdc8201d7727,13945909C,Gregorio,Zapata,38,12,404-206-676,terceros,910,Porsche,Macan,17,Negro,Ronda Diana Julia 88 Apt 66 \nSegovia 11249,La Rioja,Alfaro
+67a0f8228d8acdc8201d7728,93227604W,Tiburcio,Leal,43,20,848-662-371,todo riesgo con franquicia,460,Bentley,Flying Spur,2,Blanco,Canada Elisa Mari 429 Piso 8 \nTeruel 40911,Toledo,Torrijos
+67a0f8228d8acdc8201d7729,92994827P,Osvaldo,Valles,24,4,362-667-603,terceros ampliado,1110,Kia,Sportage,17,Plata,Pasadizo Narcisa Valle 6\nCastellon 51310,Pontevedra,Cangas
+67a0f8228d8acdc8201d772a,63288140Y,Juana,Guillen,47,11,137-307-101,todo riesgo con franquicia,850,Suzuki,SX4,15,Beige,Pasadizo de Andres Zorrilla 39 Puerta 9 \nBaleares 51543,Guipuzcoa,Irun
+67a0f8228d8acdc8201d772b,11375488X,Rosalia,Ros,37,16,276-371-914,todo riesgo,940,Subaru,Legacy,18,Plata,Plaza Rafael Sola 2 Puerta 2 \nToledo 51408,Valencia,Sagunto
+67a0f8228d8acdc8201d772c,67731679Z,Tristan,Costa,29,4,307-238-290,todo riesgo con franquicia,760,Opel,Astra,12,Azul,Cuesta de Oriana Cerdan 610 Apt 35 \nTeruel 32083,Caceres,Coria
+67a0f8228d8acdc8201d772d,55788119D,Lupe,Espinosa,37,12,921-918-606,terceros,640,Suzuki,Vitara,8,Verde,C de Nicanor Rosado 5 Puerta 8 \nCiudad 15789,Burgos,Medina de Pomar
+67a0f8228d8acdc8201d772e,29634466R,Ruperta,Andreu,27,2,399-248-664,terceros,580,Volkswagen,Passat,6,Azul,Alameda Amor Escribano 26 Apt 93 \nMadrid 11406,Cantabria,Camargo
+67a0f8228d8acdc8201d772f,67484233W,Carlota,Puga,57,17,886-821-715,terceros,1000,Volvo,XC60,20,Azul,Avenida Amando Iniguez 53\nLugo 37850,Alicante,Benidorm
+67a0f8228d8acdc8201d7730,79352685V,Adela,Acero,60,30,432-877-764,todo riesgo con franquicia,940,Volkswagen,Passat,18,Blanco,Calle Cintia Palomares 24\nCuenca 06749,Valencia,Gandia
+67a0f8228d8acdc8201d7731,89422073M,Ana Belen,Delgado,20,2,181-402-010,terceros ampliado,630,Jeep,Compass,1,Rojo,Callejon Benito Rosa 2 Apt 32 \nBaleares 35443,Jaen,Ubeda
+67a0f8228d8acdc8201d7732,58005626V,Isidora,Gutierrez,59,38,982-177-845,todo riesgo,1000,Peugeot,2008,20,Rosa,Via Candela Garrido 78\nValencia 34931,Madrid,Mostoles
+67a0f8228d8acdc8201d7733,89889705R,Narcisa,Canovas,57,20,202-572-951,todo riesgo con franquicia,730,Lexus,UX,11,Plata,Canada Ainara Rios 800\nCordoba 40507,Cantabria,Castro Urdiales
+67a0f8228d8acdc8201d7734,75602705A,Adora,Minguez,24,6,842-499-738,todo riesgo,990,Suzuki,Jimny,13,Marron,Acceso Natalio Gargallo 54\nPalencia 52051,Vizcaya,Getxo
+67a0f8228d8acdc8201d7735,61775495W,Nando,Quevedo,47,16,380-375-241,todo riesgo,490,Mini,Cooper,3,Verde,Camino de Amelia Chaparro 72\nLeon 03687,Huesca,Fraga
+67a0f8228d8acdc8201d7736,49982590W,Amando,Acedo,25,7,833-352-080,terceros ampliado,700,Lamborghini,Urus,10,Negro,Ronda Luis Solano 4\nCantabria 03832,Toledo,Toledo
+67a0f8228d8acdc8201d7737,27058093L,Rico,Bravo,42,7,816-867-454,terceros ampliado,910,Alfa Romeo,Giulia,17,Rosa,Rambla de Herminia Millan 72 Apt 07 \nZamora 38298,Murcia,Alcantarilla
+67a0f8228d8acdc8201d7738,57433240D,Arcelia,Alberto,27,9,078-029-131,terceros ampliado,580,Tesla,Model 3,6,Negro,C de Luciana Jimenez 61\nPontevedra 01838,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+67a0f8228d8acdc8201d7739,45279076B,Aitor,Contreras,45,23,495-396-819,todo riesgo,580,Porsche,Panamera,6,Rojo,Cuesta de Nelida Nunez 79 Puerta 0 \nAlbacete 51719,Valencia,Sagunto
+67a0f8228d8acdc8201d773a,80866212Y,Victor,Buendia,40,8,146-798-506,todo riesgo,490,Subaru,Outback,3,Gris,Urbanizacion Urbano Robledo 36 Puerta 3 \nLa Rioja 23168,Guipuzcoa,Eibar
+67a0f8228d8acdc8201d773b,99009882B,Sancho,Palau,63,39,225-300-603,terceros ampliado,460,Subaru,Outback,2,Verde,Avenida de Luisina Huertas 397\nToledo 29201,Albacete,La Roda
+67a0f8228d8acdc8201d773c,35394343B,Adelia,Gimenez,23,1,710-490-758,terceros,1020,Nissan,X-Trail,14,Rosa,Via Ariadna Cornejo 91\nCordoba 05015,Soria,San Esteban de Gormaz
+67a0f8228d8acdc8201d773d,12347702Z,Ovidio,Salcedo,35,10,041-539-843,terceros ampliado,850,Mercedes-Benz,Clase C,15,Azul,Canada Esperanza Cabanillas 90\nAlicante 22997,A Coruna,Santiago de Compostela
+67a0f8228d8acdc8201d773e,68300609Q,Marisol,Frutos,44,15,343-959-847,terceros,700,BMW,X5,10,Marron,Acceso de Lara Goni 29 Apt 99 \nSalamanca 41359,Almeria,Almeria
+67a0f8228d8acdc8201d773f,35896950E,Victorino,Trillo,30,1,336-412-992,todo riesgo,610,Toyota,Prius,7,Beige,Pasadizo Jose Manuel Jaen 201 Apt 97 \nCuenca 43341,Sevilla,Sevilla
+67a0f8228d8acdc8201d7740,78708105N,Tomasa,Bernat,57,22,622-294-888,todo riesgo con franquicia,670,Porsche,911,9,Plata,Ronda Lalo Calatayud 4 Puerta 0 \nToledo 49493,Asturias,Langreo
+67a0f8228d8acdc8201d7741,95535280L,Haroldo,Cortina,64,14,419-054-001,todo riesgo,1000,Toyota,Camry,20,Azul,Canada de Celia Leiva 96 Apt 35 \nCeuta 35577,Avila,Arenas de San Pedro
+67a0f8228d8acdc8201d7742,14413830Y,Joan,Arregui,61,22,894-695-093,todo riesgo con franquicia,670,Jeep,Grand Cherokee,9,Gris,Cuesta de Balduino Mesa 2 Piso 3 \nLleida 24473,Las Palmas,Arrecife
+67a0f8228d8acdc8201d7743,10990415A,Silvio,Acevedo,47,8,730-888-528,todo riesgo con franquicia,430,Volkswagen,Golf,1,Marron,Alameda Dionisia Toledo 51\nNavarra 45618,Malaga,Fuengirola
+67a0f8228d8acdc8201d7744,59590338Y,Pablo,Acuna,39,10,625-406-918,terceros,550,Nissan,Juke,5,Blanco,Alameda Quique Rius 30\nJaen 46333,Ciudad Real,Ciudad Real
+67a0f8228d8acdc8201d7745,40512309V,Remigio,Raya,50,30,675-761-624,todo riesgo con franquicia,820,Bentley,Mulsanne,14,Plata,Paseo Ruben Zorrilla 44\nNavarra 42463,Avila,Las Navas del Marques
+67a0f8228d8acdc8201d7746,81178678V,Ligia,Criado,70,25,360-559-794,terceros ampliado,880,Rolls-Royce,Ghost,16,Beige,Pasadizo de Amada Uriarte 25 Piso 1 \nToledo 19972,Malaga,Malaga
+67a0f8228d8acdc8201d7747,14126471D,Nestor,Pujadas,22,4,977-309-620,todo riesgo con franquicia,1110,Kia,Sorento,17,Beige,C Reyes Cabrera 758 Apt 10 \nMalaga 21567,Guipuzcoa,Eibar
+67a0f8228d8acdc8201d7748,89087841D,Violeta,Jimenez,24,4,885-700-694,terceros,1140,Opel,Insignia,18,Rosa,Pasaje de Rosario Pazos 74 Piso 4 \nNavarra 32399,Jaen,Linares
+67a0f8228d8acdc8201d7749,64647840S,Jacinto,Mate,39,1,756-852-050,todo riesgo,550,BMW,Serie 3,5,Rosa,Paseo Rosa Maria Martin 71\nValencia 01110,Las Palmas,Puerto del Rosario
+67a0f8228d8acdc8201d774a,63995269T,Rosendo,Hidalgo,57,22,561-015-663,terceros,910,Mitsubishi,Lancer,17,Plata,Camino Artemio Ibarra 78 Puerta 7 \nNavarra 46260,Badajoz,Almendralejo
+67a0f8228d8acdc8201d774b,94044349V,Laura,Ruiz,55,19,728-343-533,todo riesgo con franquicia,490,Volvo,S60,3,Rojo,Rambla de Aaron Cano 8 Puerta 2 \nLleida 35299,Zaragoza,Utebo
+67a0f8228d8acdc8201d774c,17934834D,Consuela,Andreu,43,14,625-035-806,terceros ampliado,430,Subaru,Forester,1,Verde,Calle de Carlos Yanez 86\nAlbacete 40108,Guipuzcoa,Eibar
+67a0f8228d8acdc8201d774d,94122532T,Paula,Esteve,34,5,710-691-726,todo riesgo,970,Rolls-Royce,Dawn,19,Beige,Pasadizo Kike Duarte 30\nVizcaya 05730,Valladolid,Valladolid
+67a0f8228d8acdc8201d774e,55847700C,Zaida,Somoza,55,21,644-105-587,terceros,700,Honda,Civic,10,Plata,Acceso de Mireia Aranda 15 Piso 2 \nLugo 32740,Vizcaya,Portugalete
+67a0f8228d8acdc8201d774f,25252435E,Lorenza,Rius,62,38,753-063-834,todo riesgo con franquicia,820,Volkswagen,Tiguan,14,Blanco,Rambla Claudio Godoy 97\nCeuta 11897,Madrid,Alcala de Henares
+67a0f8228d8acdc8201d7750,28919528H,Yaiza,Coello,63,18,080-513-006,todo riesgo con franquicia,430,Tesla,Roadster,1,Azul,Rambla de Vilma Pintor 38\nGuadalajara 45419,Cuenca,Quintanar del Rey
+67a0f8228d8acdc8201d7751,62293921P,Ruperto,Ayllon,70,21,105-740-250,terceros,760,Land Rover,Defender,12,Negro,Pasadizo de Celia Exposito 75\nAlbacete 21492,Badajoz,Merida
+67a0f8228d8acdc8201d7752,28141637X,Ana Belen,Vilaplana,36,7,304-650-099,todo riesgo con franquicia,520,Subaru,Forester,4,Gris,Pasaje Raul Salvador 89 Apt 03 \nToledo 40598,La Rioja,Alfaro
+67a0f8228d8acdc8201d7753,53537627K,Maxi,Bejarano,56,31,100-918-932,todo riesgo con franquicia,820,Kia,Rio,14,Beige,Avenida de Ricardo Quintana 41 Puerta 0 \nToledo 45651,Zaragoza,Calatayud
+67a0f8228d8acdc8201d7754,82417641Q,Griselda,Castellanos,45,10,494-316-753,todo riesgo,910,Chevrolet,Malibu,17,Negro,Canada de Enrique Vicens 65 Puerta 2 \nCuenca 04033,Asturias,Aviles
+67a0f8228d8acdc8201d7755,63113527D,Lisandro,Arnal,30,7,749-498-383,todo riesgo con franquicia,520,Porsche,Cayenne,4,Blanco,Plaza de Leyre Llano 14 Apt 53 \nLleida 39695,Tarragona,Reus
+67a0f8228d8acdc8201d7756,37124643K,Rafa,Bernal,63,35,218-596-345,terceros ampliado,430,BMW,Serie 3,1,Verde,Camino de Dani Valera 77 Piso 2 \nSalamanca 28778,Castellon,Burriana
+67a0f8228d8acdc8201d7757,46803055X,Lisandro,Losa,28,8,828-052-167,terceros ampliado,610,Mitsubishi,Pajero,7,Plata,Vial de Constanza Prats 4 Piso 1 \nValencia 02718,Asturias,Langreo
+67a0f8228d8acdc8201d7758,13591081J,Mariana,Company,35,4,810-422-865,todo riesgo,580,Volvo,XC40,6,Beige,Vial Josue Giner 86\nMalaga 25125,Ciudad Real,Tomelloso
+67a0f8228d8acdc8201d7759,31436417V,Marta,Bayo,46,24,197-864-731,terceros ampliado,460,Land Rover,Defender,2,Gris,Cuesta Carlito Montana 69 Puerta 7 \nLa Coruna 42004,Castellon,Burriana
+67a0f8228d8acdc8201d775a,56362147A,Vilma,Navarro,21,2,156-871-694,terceros ampliado,660,Bentley,Bentayga,2,Plata,Acceso Teobaldo Tapia 96 Apt 34 \nAsturias 36697,Tarragona,Reus
+67a0f8228d8acdc8201d775b,23958783M,Emma,Sebastian,37,19,812-709-493,terceros ampliado,550,Skoda,Octavia,5,Marron,Callejon Mateo Garriga 14\nGirona 12029,Huesca,Fraga
+67a0f8228d8acdc8201d775c,91336513V,Rico,Montesinos,38,6,512-186-518,todo riesgo,670,Kia,Optima,9,Plata,Pasaje Amada Caceres 981\nBurgos 02685,Navarra,Pamplona
+67a0f8228d8acdc8201d775d,90506966B,Andrea,Viana,67,44,723-136-779,terceros ampliado,490,Nissan,Micra,3,Azul,Rambla de Manu Diez 36 Apt 40 \nMadrid 28769,Las Palmas,Telde
+67a0f8228d8acdc8201d775e,61769358Y,Xavier,Vera,65,16,685-280-938,todo riesgo con franquicia,910,Dacia,Sandero,17,Rojo,Pasaje Jose Francisco Valenzuela 16\nLugo 27077,Valladolid,Tordesillas
+67a0f8228d8acdc8201d775f,12581083Z,Lupita,Padilla,44,1,761-917-685,terceros,760,Audi,Q7,12,Gris,Cuesta de Lourdes Garrido 74 Puerta 7 \nCordoba 50913,Malaga,Mijas
+67a0f8228d8acdc8201d7760,99753214Y,Oriana,Flor,58,28,898-998-751,todo riesgo con franquicia,490,Jeep,Wrangler,3,Gris,Plaza de Cosme Barrera 11\nLas Palmas 47654,Huesca,Jaca
+67a0f8228d8acdc8201d7761,35332925A,Dan,Baeza,20,2,736-263-586,terceros,870,Dacia,Stepway,9,Beige,Cuesta de Adolfo Marmol 14 Puerta 3 \nBadajoz 42977,Murcia,Murcia
+67a0f8228d8acdc8201d7762,95591562C,Primitivo,Baron,50,30,139-708-650,terceros ampliado,610,Renault,Twingo,7,Blanco,Avenida Guiomar Vila 2 Apt 53 \nAvila 35401,Ourense,Barbadas
+67a0f8228d8acdc8201d7763,91533620Z,Noe,Poza,51,14,242-716-106,todo riesgo con franquicia,460,Renault,Kadjar,2,Beige,Via de Maria Angeles Franch 314 Puerta 3 \nSalamanca 37755,Cadiz,Jerez de la Frontera
+67a0f8228d8acdc8201d7764,75421908D,Carmelo,Rey,24,5,330-953-542,terceros ampliado,1140,Land Rover,Discovery Sport,18,Azul,Camino de Ramona Villena 97\nValladolid 17098,Huesca,Monzon
+67a0f8228d8acdc8201d7765,57246966N,Maria Jesus,Balaguer,40,1,162-382-828,terceros,580,Mazda,3,6,Blanco,Glorieta Bernardita Borrego 74\nLa Rioja 22294,Soria,Soria
+67a0f8228d8acdc8201d7766,15088183E,Noelia,Verdu,19,1,912-877-127,terceros ampliado,870,Audi,Q5,9,Negro,Pasadizo Basilio Manuel 6\nAlicante 27277,Jaen,Jaen
+67a0f8228d8acdc8201d7767,83827598G,Lope,Santamaria,34,12,214-064-509,todo riesgo,880,Ford,Focus,16,Gris,Canada Ainoa Becerra 1 Apt 79 \nPontevedra 26137,Guipuzcoa,San Sebastian
+67a0f8228d8acdc8201d7768,74182266K,Espiridion,Amo,67,11,159-684-185,terceros,760,Fiat,Punto,12,Rosa,Calle Jose Luis Abellan 4 Piso 9 \nGuipuzcoa 15363,Vizcaya,Getxo
+67a0f8228d8acdc8201d7769,90679880B,Maria,Lastra,45,13,466-760-648,terceros,610,Land Rover,Range Rover,7,Negro,Acceso de Gabino Menendez 20\nJaen 47948,Valladolid,Arroyo de la Encomienda
+67a0f8228d8acdc8201d776a,28234821K,Mario,Blanco,44,5,456-349-030,todo riesgo,970,BMW,Serie 3,19,Beige,Plaza Cesar Villalobos 24\nTeruel 08402,Malaga,Velez-Malaga
+67a0f8228d8acdc8201d776b,39664166E,Narciso,Gallardo,64,44,986-314-344,terceros ampliado,430,Porsche,Panamera,1,Blanco,Acceso de Leire Robledo 98\nAlava 35690,Sevilla,Utrera
+67a0f8228d8acdc8201d776c,64696456D,Olalla,Guzman,18,0,369-808-343,terceros,720,Citroen,C4,4,Rojo,Ronda Cruz Calderon 95 Piso 9 \nHuesca 24825,Ciudad Real,Ciudad Real
+67a0f8228d8acdc8201d776d,43954555Z,Roldan,Yanez,45,11,101-511-265,terceros,850,Volvo,XC60,15,Blanco,Canada Chelo Penas 3 Piso 3 \nMadrid 42435,Alicante,Alicante
+67a0f8228d8acdc8201d776e,76032916E,Luciano,Miranda,68,33,434-887-273,terceros,490,BMW,Serie 1,3,Azul,Rambla Sandra Gallart 76 Apt 03 \nSevilla 36600,Avila,Arenas de San Pedro
+67a0f8228d8acdc8201d776f,15912399X,Evelia,Tudela,18,0,822-643-252,terceros ampliado,660,Lamborghini,Aventador,2,Blanco,Camino de Edmundo Gelabert 975 Puerta 2 \nZamora 41595,Asturias,Oviedo
+67a0f8228d8acdc8201d7770,11388857Q,Alexandra,Gisbert,42,12,968-342-321,todo riesgo,880,Bugatti,Divo,16,Azul,Camino de Brigida Mateo 6 Puerta 5 \nCiudad 21429,Avila,Arenas de San Pedro
+67a0f8228d8acdc8201d7771,88800191C,Paulina,Torrens,40,16,751-145-151,terceros ampliado,700,Kia,Soul,10,Blanco,Paseo de Sandalio Canet 1\nTarragona 15764,Palencia,Palencia
+67a0f8228d8acdc8201d7772,27584590T,Clotilde,Alsina,44,11,784-850-265,todo riesgo con franquicia,610,Toyota,RAV4,7,Verde,C de Espiridion Valenciano 9 Apt 41 \nZamora 08335,Lleida,Lleida
+67a0f8228d8acdc8201d7773,47712986S,Ani,Davila,49,27,513-060-843,todo riesgo,520,Opel,Insignia,4,Negro,Calle de Heriberto Alfaro 48\nSalamanca 28055,Madrid,Madrid
+67a0f8228d8acdc8201d7774,48306254K,Chus,Fortuny,57,9,695-142-915,todo riesgo,490,BMW,Serie 1,3,Azul,Cuesta de Claudio Hervas 1 Puerta 4 \nBurgos 31886,Guipuzcoa,Renteria
+67a0f8228d8acdc8201d7775,16525546T,Flavio,Salazar,70,14,621-760-973,todo riesgo,670,Mazda,CX-5,9,Blanco,Pasadizo de Lilia Sanchez 300\nMadrid 13535,Tarragona,El Vendrell
+67a0f8228d8acdc8201d7776,87507968Y,Narciso,Giralt,42,1,026-517-427,todo riesgo,700,Skoda,Kodiaq,10,Verde,Callejon de Panfilo Soria 72\nGranada 12280,Avila,Avila
+67a0f8248d8acdc8201d7777,77909925R,Marino,Martin,29,1,336-227-326,todo riesgo con franquicia,730,Rolls-Royce,Dawn,11,Rojo,Calle de Ruth Rosello 704 Apt 68 \nMelilla 36563,Castellon,Villarreal
+67a0f8248d8acdc8201d7778,86385886W,Chema,Serrano,48,29,619-613-964,terceros,550,BMW,X5,5,Rojo,Callejon Cayetano Alcantara 230 Apt 46 \nSalamanca 47895,Murcia,Molina de Segura
+67a0f8248d8acdc8201d7779,51315013N,Rafaela,Agudo,35,10,878-164-292,todo riesgo con franquicia,760,Hyundai,Kona,12,Gris,Pasaje Inocencio Revilla 15 Piso 4 \nVizcaya 29652,Ourense,Verin
+67a0f8248d8acdc8201d777a,91742624V,Marcial,Marco,27,2,814-810-632,todo riesgo,610,Jaguar,XF,7,Plata,Avenida de Alma Valentin 83\nCastellon 21635,Vizcaya,Santurtzi
+67a0f8248d8acdc8201d777b,69189545W,Nuria,Bayo,50,31,763-952-586,todo riesgo con franquicia,580,Volkswagen,Arteon,6,Azul,Plaza de Jose Miguel Coloma 48 Apt 82 \nAsturias 11706,Avila,Candeleda
+67a0f8248d8acdc8201d777c,52022384H,Eliseo,Domenech,54,1,005-538-025,terceros,790,Ferrari,F8 Tributo,13,Rojo,Avenida Alcides Andreu 713\nMurcia 51700,Malaga,Velez-Malaga
+67a0f8248d8acdc8201d777d,77671200Q,Moises,Barroso,39,11,544-188-238,todo riesgo con franquicia,910,Opel,Corsa,17,Azul,Paseo Jessica Canellas 242\nCeuta 07043,Alicante,Alicante
+67a0f8248d8acdc8201d777e,51807355Q,Prudencia,Pelaez,31,10,680-527-209,terceros ampliado,820,Bugatti,Veyron,14,Beige,Avenida Marcos Falco 70 Piso 4 \nLugo 35979,Alicante,Elche
+67a0f8248d8acdc8201d777f,32505785T,Amilcar,Pablo,63,25,717-824-815,todo riesgo con franquicia,700,Fiat,500,10,Beige,Pasaje de Pancho Aroca 67\nLas Palmas 50495,Sevilla,Dos Hermanas
+67a0f8248d8acdc8201d7780,89216122L,Romulo,Galan,44,9,647-722-674,todo riesgo,460,Chevrolet,Bolt,2,Negro,Alameda Marc Badia 4\nAsturias 22794,Guipuzcoa,Zarautz
+67a0f8248d8acdc8201d7781,26365885L,Rufina,Cobo,49,9,226-635-228,terceros,610,Mini,Clubman,7,Rojo,Canada Ernesto Aguirre 837 Piso 5 \nLas Palmas 44526,Cadiz,Jerez de la Frontera
+67a0f8248d8acdc8201d7782,10678208K,Angelina,Navarrete,39,12,733-340-524,terceros ampliado,520,Lexus,NX,4,Negro,Calle Jenaro Garate 849\nAvila 29252,Salamanca,Salamanca
+67a0f8248d8acdc8201d7783,22249141E,Virginia,Pozo,50,3,536-536-611,todo riesgo con franquicia,790,Mercedes-Benz,Clase S,13,Verde,Callejon de Bernardino Castejon 84 Piso 3 \nAvila 28739,Caceres,Navalmoral de la Mata
+67a0f8248d8acdc8201d7784,70734901B,Arsenio,Mena,38,16,564-461-241,terceros ampliado,910,Honda,Accord,17,Beige,Urbanizacion Vicenta Cordero 9\nPontevedra 07685,Lugo,Sarria
+67a0f8248d8acdc8201d7785,43566774J,Felicia,Acuna,45,16,938-182-703,terceros,460,Subaru,Forester,2,Beige,Acceso de Zoraida Salas 60 Puerta 3 \nToledo 03864,Guadalajara,Molina de Aragon
+67a0f8248d8acdc8201d7786,49522270G,Roldan,Talavera,36,9,808-325-529,terceros,730,Suzuki,Ciaz,11,Verde,Callejon de Graciela Baez 81\nNavarra 31128,Leon,Leon
+67a0f8248d8acdc8201d7787,26030789X,Luisa,Lobo,24,1,881-105-927,terceros ampliado,1020,Jeep,Grand Cherokee,14,Blanco,Plaza de Irene Escamilla 15\nLas Palmas 42456,Pontevedra,Redondela
+67a0f8248d8acdc8201d7788,47287555S,Angel,Zabaleta,45,10,410-315-988,terceros ampliado,790,Audi,Q5,13,Plata,Vial de Noelia Martin 10\nAlmeria 22838,Teruel,Andorra
+67a0f8248d8acdc8201d7789,55841631T,Maria,Dominguez,43,9,791-525-710,todo riesgo,640,Lamborghini,Urus,8,Marron,Alameda de Feliciano Cobo 4 Puerta 0 \nCeuta 13375,Cuenca,Quintanar del Rey
+67a0f8248d8acdc8201d778a,30606708X,Maximiliano,Paez,70,35,124-802-010,terceros,1000,Fiat,500X,20,Verde,Camino de Eva Maria Dieguez 829 Puerta 3 \nMurcia 46629,Soria,Soria
+67a0f8248d8acdc8201d778b,14219845A,Matias,Leon,27,5,757-607-113,todo riesgo,910,Volkswagen,Polo,17,Negro,Avenida de Luisina Cortes 27 Puerta 2 \nTeruel 20044,Valencia,Gandia
+67a0f8248d8acdc8201d778c,97063306V,Juana,Cabrero,57,35,719-806-717,todo riesgo con franquicia,490,Alfa Romeo,Giulietta,3,Verde,Paseo Cloe Dalmau 29 Piso 0 \nHuelva 07548,Teruel,Teruel
+67a0f8248d8acdc8201d778d,97742221H,Alma,Cerro,57,37,787-628-822,terceros ampliado,640,Audi,Q7,8,Verde,Rambla Herminia Diez 9 Puerta 4 \nMadrid 49169,Valencia,Gandia
+67a0f8248d8acdc8201d778e,12836041V,Jose Manuel,Chico,50,26,778-734-217,terceros,700,Renault,Clio,10,Plata,Paseo Custodio Jove 32\nLeon 23030,Avila,Avila
+67a0f8248d8acdc8201d778f,23676344Y,Maria Cristina,Vilaplana,49,3,328-813-933,todo riesgo con franquicia,820,Alfa Romeo,4C,14,Beige,Canada Victorino Ariza 496 Puerta 2 \nBadajoz 49024,Burgos,Medina de Pomar
+67a0f8248d8acdc8201d7790,60619514R,Ignacio,Chaparro,52,29,078-028-833,terceros ampliado,520,Nissan,Juke,4,Beige,Canada Cintia Crespi 73 Piso 7 \nHuelva 42609,Girona,Girona
+67a0f8248d8acdc8201d7791,26155800Q,Amelia,Tejera,45,24,333-542-830,terceros ampliado,520,Rolls-Royce,Phantom,4,Gris,Glorieta Ofelia Hierro 33 Piso 3 \nNavarra 29665,Alava,Vitoria-Gasteiz
+67a0f8248d8acdc8201d7792,88048056P,Juan,Romeu,49,9,663-507-056,todo riesgo,640,Jaguar,F-Pace,8,Negro,Pasaje Concha Ferrero 16\nPalencia 11394,Ourense,Carballino
+67a0f8248d8acdc8201d7793,56800081V,Asdrubal,Marco,22,1,352-487-764,todo riesgo,900,Rolls-Royce,Wraith,10,Rosa,Vial de Dora Cabanillas 227 Piso 7 \nMelilla 15346,Ourense,Carballino
+67a0f8248d8acdc8201d7794,75245520P,Dolores,Mora,56,14,338-651-605,terceros,640,Skoda,Superb,8,Negro,Avenida de Angeles Jorda 50 Puerta 8 \nLa Coruna 18321,Islas Baleares,Ibiza
+67a0f8248d8acdc8201d7795,41840022D,Nereida,Andres,42,24,651-431-595,terceros ampliado,580,Porsche,911,6,Blanco,Alameda de Jose Luis Arino 51 Puerta 0 \nJaen 18313,Cadiz,El Puerto de Santa Maria
+67a0f8248d8acdc8201d7796,74140206M,Eva Maria,Vigil,59,19,380-306-810,terceros ampliado,580,Porsche,Cayenne,6,Plata,Via Nicolasa Bustos 54\nTeruel 49654,Huesca,Jaca
+67a0f8248d8acdc8201d7797,77002412E,Sebastian,Sanmiguel,59,23,570-669-825,todo riesgo con franquicia,730,Porsche,911,11,Verde,Pasadizo Perla Casanovas 3\nAlava 13972,Jaen,Jaen
+67a0f8248d8acdc8201d7798,95681639Y,Adalberto,Cornejo,41,12,270-243-744,todo riesgo con franquicia,700,Seat,Alhambra,10,Marron,Avenida de Ciriaco Aznar 533\nAlmeria 35313,Cantabria,Torrelavega
+67a0f8248d8acdc8201d7799,33373198Z,Esteban,Ribes,61,23,934-382-081,terceros,520,BMW,X3,4,Plata,C Heriberto Alarcon 99\nLleida 26698,Palencia,Palencia
+67a0f8248d8acdc8201d779a,39881847P,Hortensia,Trujillo,44,3,388-251-891,todo riesgo con franquicia,820,Bentley,Mulsanne,14,Beige,Calle Nicodemo Canas 52\nCaceres 10307,Huesca,Barbastro
+67a0f8248d8acdc8201d779b,38675168R,Noemi,Elias,26,8,872-591-119,todo riesgo con franquicia,790,Seat,Alhambra,13,Rojo,Vial Maria Manuela Palacio 4 Puerta 5 \nBarcelona 48007,Huelva,Almonte
+67a0f8248d8acdc8201d779c,78096445Z,Francisca,Nieto,30,2,370-513-685,terceros ampliado,610,Volkswagen,Arteon,7,Azul,Pasadizo de Pacifica Vendrell 86 Piso 3 \nSegovia 05234,Malaga,Marbella
+67a0f8248d8acdc8201d779d,13298585P,Delfina,Salgado,26,8,403-809-981,terceros ampliado,760,Citroen,C4,12,Blanco,Glorieta Pascual Marques 9\nMelilla 29189,Huesca,Fraga
+67a0f8248d8acdc8201d779e,72177147L,Elba,Castaneda,56,19,403-964-084,todo riesgo con franquicia,490,Kia,Soul,3,Rojo,Urbanizacion de Andres Felipe Bustos 82 Puerta 2 \nAlicante 07963,Huelva,Ayamonte
+67a0f8248d8acdc8201d779f,40847112D,Lope,Alegria,53,35,660-235-593,terceros,970,Seat,Ibiza,19,Blanco,Pasaje de Imelda Manrique 9 Piso 3 \nSalamanca 47937,Murcia,Molina de Segura
+67a0f8248d8acdc8201d77a0,18565796N,Renato,Murcia,24,6,634-456-837,todo riesgo con franquicia,1110,Alfa Romeo,Tonale,17,Azul,Glorieta Felix Ochoa 27\nValencia 19547,Sevilla,Sevilla
+67a0f8248d8acdc8201d77a1,82499402N,Jaime,Macias,55,13,085-964-204,terceros ampliado,520,Honda,Fit,4,Negro,Ronda Custodio Rios 10\nVizcaya 15388,Huesca,Barbastro
+67a0f8248d8acdc8201d77a2,31670529N,Gracia,Miralles,61,43,438-896-348,terceros ampliado,820,Jeep,Cherokee,14,Blanco,Paseo Lucas Silva 46\nSevilla 31532,Sevilla,Sevilla
+67a0f8248d8acdc8201d77a3,99719917J,Laura,Olivera,28,8,879-070-073,terceros,760,Alfa Romeo,Tonale,12,Gris,Alameda Asdrubal Pujadas 4 Apt 89 \nVizcaya 29157,Castellon,Villarreal
+67a0f8248d8acdc8201d77a4,71646212Q,Elisabet,Varela,57,23,100-263-561,terceros,520,Bugatti,Chiron,4,Beige,Avenida Nadia Agudo 44\nCadiz 50692,Cordoba,Palma del Rio
+67a0f8248d8acdc8201d77a5,81129411Q,Eustaquio,Carnero,58,34,780-607-920,todo riesgo con franquicia,790,Volvo,XC90,13,Rosa,Cuesta Ernesto Padilla 987 Apt 44 \nGuadalajara 12771,A Coruna,A Coruna
+67a0f8248d8acdc8201d77a6,59441714P,Horacio,Suarez,61,34,171-907-492,terceros,550,Peugeot,3008,5,Negro,Paseo de Aaron Padilla 66\nAlava 10305,Caceres,Coria
+67a0f8248d8acdc8201d77a7,31057047D,Viviana,Cornejo,65,31,422-259-278,terceros ampliado,520,Ferrari,F8 Tributo,4,Negro,Vial de Zaida Valdes 2 Puerta 0 \nAvila 32779,Navarra,Baranain
+67a0f8248d8acdc8201d77a8,15791549W,Carmela,Castell,45,27,235-289-972,terceros,820,Bugatti,Chiron Super Sport,14,Beige,Paseo de Mario Lara 969 Puerta 7 \nValencia 03007,La Rioja,Arnedo
+67a0f8248d8acdc8201d77a9,44632789R,Paloma,Manrique,69,26,089-518-080,todo riesgo con franquicia,430,Hyundai,i10,1,Gris,Acceso de Bonifacio Tudela 52 Puerta 8 \nTarragona 42515,Almeria,Roquetas de Mar
+67a0f8248d8acdc8201d77aa,30813622Q,Ariel,Diaz,24,4,667-130-422,terceros ampliado,780,Opel,Mokka,6,Plata,Vial Blas Paredes 72\nZaragoza 21209,Teruel,Alcaniz
+67a0f8248d8acdc8201d77ab,44199784V,Evelia,Contreras,18,0,345-010-563,todo riesgo,870,Bugatti,Chiron,9,Negro,Via Alvaro Pi 83\nZaragoza 51954,Huesca,Jaca
+67a0f8248d8acdc8201d77ac,43397133C,Diana,Jurado,28,7,834-852-827,todo riesgo,760,Nissan,Leaf,12,Rojo,Ronda de Artemio Alvarez 17\nOurense 28232,Segovia,San Ildefonso
+67a0f8248d8acdc8201d77ad,68160093F,Pili,Boada,39,6,136-363-277,terceros ampliado,910,Bentley,Flying Spur,17,Blanco,Plaza Florencia Girona 59 Piso 3 \nLleida 29607,Malaga,Velez-Malaga
+67a0f8248d8acdc8201d77ae,15359692Q,Bibiana,Gallego,44,22,663-683-622,todo riesgo con franquicia,910,Bugatti,Chiron Super Sport,17,Beige,Plaza Felicia Calleja 7 Apt 68 \nCiudad 10386,La Rioja,Calahorra
+67a0f8248d8acdc8201d77af,18571084X,Jose,Huguet,66,19,522-301-434,todo riesgo con franquicia,670,Opel,Astra,9,Blanco,Plaza de Chelo Otero 50 Apt 89 \nSegovia 47229,Madrid,Alcala de Henares
+67a0f8248d8acdc8201d77b0,25949158Y,Matias,Pina,65,44,535-705-076,todo riesgo con franquicia,880,Lexus,ES,16,Blanco,Callejon de Gala Cerdan 34\nValladolid 07047,Castellon,Almazora
+67a0f8248d8acdc8201d77b1,17226428A,Amarilis,Cortina,52,4,248-932-515,terceros ampliado,1000,Bentley,Flying Spur,20,Rosa,Avenida Mireia Marmol 671\nHuesca 07245,La Rioja,Arnedo
+67a0f8248d8acdc8201d77b2,32435908C,Alvaro,Machado,52,30,629-614-790,todo riesgo con franquicia,670,Ferrari,Roma,9,Blanco,Vial Tadeo Ortuno 23 Puerta 7 \nJaen 48044,Granada,Loja
+67a0f8248d8acdc8201d77b3,24408639G,Mauricio,Aranda,39,21,162-979-999,todo riesgo,760,BMW,X3,12,Negro,Glorieta Jordi Portillo 57 Puerta 6 \nTarragona 26965,Soria,Almazan
+67a0f8248d8acdc8201d77b4,76158820R,Marisela,Criado,20,1,627-923-423,terceros,780,Bentley,Flying Spur,6,Verde,Pasadizo Nazaret Moraleda 51\nBurgos 45467,Cadiz,Jerez de la Frontera
+67a0f8248d8acdc8201d77b5,38077086B,Jaime,Segarra,56,10,353-834-366,todo riesgo,880,Seat,Ibiza,16,Rosa,Alameda de Renato Conesa 5\nLeon 38708,Ciudad Real,Ciudad Real
+67a0f8248d8acdc8201d77b6,46259908P,Aureliano,Pastor,50,15,155-843-024,todo riesgo con franquicia,880,Jaguar,XF,16,Negro,Callejon Maximiano Valles 8\nCordoba 45935,Guipuzcoa,San Sebastian
+67a0f8248d8acdc8201d77b7,62835492K,Bernardo,Carrion,60,30,319-551-093,terceros ampliado,700,Peugeot,3008,10,Marron,Camino Fanny Pina 60\nTarragona 35024,Murcia,Murcia
+67a0f8248d8acdc8201d77b8,45008124E,Rafaela,Galan,32,9,998-166-690,terceros,520,Citroen,Berlingo,4,Negro,Acceso de Bernardino Estrada 89 Piso 7 \nTeruel 30701,Zaragoza,Ejea de los Caballeros
+67a0f8248d8acdc8201d77b9,79704655H,Tito,Almagro,22,1,352-561-059,todo riesgo,990,Chevrolet,Bolt,13,Rosa,Cuesta Rosalina Macias 81\nCeuta 02265,Tarragona,Tortosa
+67a0f8248d8acdc8201d77ba,32152141G,Emigdio,Canellas,70,45,346-478-440,terceros ampliado,670,Bugatti,Bolide,9,Marron,Calle de Tomasa Hoyos 8 Puerta 1 \nValencia 18300,Albacete,Albacete
+67a0f8248d8acdc8201d77bb,15594746X,Sabina,Duran,31,10,133-970-361,todo riesgo,520,Skoda,Fabia,4,Azul,Acceso Jose Ripoll 84 Apt 83 \nAvila 50187,Salamanca,Penaranda de Bracamonte
+67a0f8248d8acdc8201d77bc,90904634D,Remedios,Casanova,46,2,698-416-875,terceros,880,Suzuki,SX4,16,Marron,Pasadizo Ricardo Jauregui 2 Piso 5 \nVizcaya 05933,Cuenca,San Clemente
+67a0f8248d8acdc8201d77bd,94395453A,Angelina,Dominguez,58,40,256-593-221,terceros ampliado,700,Tesla,Model X,10,Blanco,Pasaje de Clotilde Aguilo 398 Apt 34 \nSoria 44908,Cordoba,Montilla
+67a0f8248d8acdc8201d77be,92818110T,Silvio,Huguet,31,13,357-370-162,todo riesgo con franquicia,460,Mercedes-Benz,GLE,2,Beige,Camino de Emiliana Rios 29\nToledo 36055,Toledo,Toledo
+67a0f8248d8acdc8201d77bf,93976213F,Heraclio,Domenech,44,5,879-696-773,terceros,760,Peugeot,2008,12,Verde,Cuesta de Nacio Flor 62\nSegovia 31310,Almeria,Adra
+67a0f8248d8acdc8201d77c0,75282885K,Encarnacion,Pelayo,41,12,319-717-081,todo riesgo con franquicia,580,Subaru,Impreza,6,Gris,Glorieta Oriana Pujadas 22\nAsturias 14179,Lleida,Lleida
+67a0f8248d8acdc8201d77c1,77950785J,Amaro,Macias,48,22,814-144-709,terceros ampliado,550,Seat,Ibiza,5,Rosa,Avenida Chema Cepeda 15 Puerta 2 \nCantabria 48465,Navarra,Baranain
+67a0f8248d8acdc8201d77c2,28540983F,Nazaret,Morillo,58,26,880-428-370,terceros,790,Alfa Romeo,Stelvio,13,Azul,Acceso de Lorena Ferran 82 Apt 01 \nLleida 33341,Salamanca,Ciudad Rodrigo
+67a0f8248d8acdc8201d77c3,45408415K,Hernan,Martinez,24,5,912-233-803,todo riesgo,780,Ford,Focus,6,Rojo,Canada Sebastian Marmol 69\nZamora 08354,Cuenca,Quintanar del Rey
+67a0f8248d8acdc8201d77c4,54478410N,Amaya,Soto,50,22,706-960-850,terceros ampliado,580,Volvo,XC90,6,Rojo,Ronda Juliana Pozuelo 802\nPontevedra 10790,Ciudad Real,Valdepenas
+67a0f8248d8acdc8201d77c5,31990684F,Jenny,Fabregat,39,21,263-887-641,terceros,820,Ford,Focus,14,Marron,Cuesta Amancio Escolano 66\nTeruel 33854,Palencia,Guardo
+67a0f8248d8acdc8201d77c6,59473315F,Tomasa,Gimenez,49,15,967-177-809,terceros,430,Ferrari,812 Superfast,1,Gris,Pasadizo de Jose Ramon Alcalde 60\nOurense 49863,Albacete,Albacete
+67a0f8248d8acdc8201d77c7,46234807T,Abril,Palomo,63,42,562-036-475,todo riesgo con franquicia,610,Honda,CR-V,7,Gris,Alameda Eusebia Martin 59\nHuesca 39648,Lugo,Monforte de Lemos
+67a0f8248d8acdc8201d77c8,30586835D,Faustino,Clavero,60,21,590-222-201,todo riesgo,820,Jaguar,F-Pace,14,Rojo,Cuesta de Irma Cornejo 85 Puerta 3 \nZamora 01268,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+67a0f8248d8acdc8201d77c9,94247841M,Isidoro,Cordero,67,41,662-796-818,terceros ampliado,490,Jeep,Cherokee,3,Marron,Ronda de Ruth Contreras 90\nAsturias 16531,Murcia,Alcantarilla
+67a0f8248d8acdc8201d77ca,74952754D,Rolando,Navarrete,39,16,726-786-544,terceros,970,Peugeot,3008,19,Beige,C Trinidad Urrutia 17\nGranada 08860,Huelva,Almonte
+67a0f8248d8acdc8201d77cb,72692894Z,Paola,Pedraza,53,17,493-526-630,terceros ampliado,490,Hyundai,i20,3,Azul,Pasadizo Leopoldo Guzman 9\nVizcaya 10719,Burgos,Medina de Pomar
+67a0f8248d8acdc8201d77cc,64512780B,Eugenia,Macias,33,2,448-317-588,terceros ampliado,580,Peugeot,308,6,Verde,Callejon de Noelia Benitez 4 Piso 5 \nMelilla 34998,Guipuzcoa,San Sebastian
+67a0f8248d8acdc8201d77cd,52167838C,Roberto,Olivares,34,6,685-141-861,todo riesgo,490,Chevrolet,Bolt,3,Beige,Ronda Candelas Garriga 98 Piso 1 \nSalamanca 40401,Zaragoza,Calatayud
+67a0f8248d8acdc8201d77ce,54880125D,Cristobal,Bernat,30,4,521-066-858,terceros ampliado,520,Alfa Romeo,Giulia,4,Rojo,Calle de Jordi Moll 16\nAlava 24217,A Coruna,Oleiros
+67a0f8248d8acdc8201d77cf,15638475Q,Matilde,Donaire,24,2,598-310-011,todo riesgo,960,Renault,Clio,12,Blanco,Vial de Anastasio Vera 3\nGuadalajara 14521,Cantabria,Santander
+67a0f8248d8acdc8201d77d0,66632682A,Benigno,Antunez,44,13,020-140-708,todo riesgo con franquicia,430,Lamborghini,Murcielago,1,Rojo,Rambla Noa Herranz 9 Piso 8 \nOurense 08885,Leon,Villaquilambre
+67a0f8248d8acdc8201d77d1,37700465S,Yesica,Quintanilla,54,8,829-103-833,terceros ampliado,850,Lamborghini,Huracán,15,Negro,Cuesta de Zaida Calzada 48 Puerta 5 \nBadajoz 47789,Murcia,Molina de Segura
+67a0f8248d8acdc8201d77d2,25363362C,Fabiola,Rebollo,38,17,329-422-546,todo riesgo con franquicia,580,Toyota,Corolla,6,Plata,Rambla de Marisol Amaya 710 Puerta 6 \nCuenca 07003,Malaga,Marbella
+67a0f8248d8acdc8201d77d3,80444468J,Nando,Solis,24,2,976-738-387,terceros,870,Land Rover,Defender,9,Azul,C Duilio Herrero 38 Puerta 7 \nSanta Cruz de Tenerife 15045,Zaragoza,Utebo
+67a0f8248d8acdc8201d77d4,82113897X,Rolando,Becerra,51,18,763-939-334,terceros ampliado,1000,Volvo,V60,20,Verde,Ronda Luisina Mur 701\nAlava 21463,Cadiz,Cadiz
+67a0f8248d8acdc8201d77d5,12430970E,Maria Jesus,Marco,62,28,822-330-865,terceros,730,Ferrari,Roma,11,Rosa,Via de Anastasio Solsona 236\nSegovia 33987,Burgos,Medina de Pomar
+67a0f8248d8acdc8201d77d6,28941476R,Raul,Bernad,51,21,876-054-199,terceros,490,Mitsubishi,Eclipse Cross,3,Beige,Acceso Clementina Soto 6\nMalaga 40043,Valencia,Valencia
+67a0f8248d8acdc8201d77d7,53529415C,Lisandro,Belmonte,61,10,208-342-780,todo riesgo,880,McLaren,720S,16,Beige,Urbanizacion Felipe Grau 6 Apt 90 \nHuesca 35142,Vizcaya,Barakaldo
+67a0f8248d8acdc8201d77d8,64274226J,Rufino,Arnaiz,65,47,164-760-795,todo riesgo con franquicia,490,Rolls-Royce,Wraith,3,Plata,Pasaje de Raimundo Escolano 6 Puerta 3 \nAlbacete 11640,Cordoba,Cordoba
+67a0f8248d8acdc8201d77d9,68191048G,Florinda,Valls,55,3,311-206-975,terceros ampliado,730,Toyota,Camry,11,Blanco,Pasadizo de Joel Piquer 37\nTarragona 43331,Lleida,Balaguer
+67a0f8248d8acdc8201d77da,77111494S,Nelida,Julian,45,19,861-201-006,todo riesgo,850,Lamborghini,Gallardo,15,Gris,Rambla de Anabel Fuentes 54\nCordoba 21298,Castellon,Almazora
+67a0f8258d8acdc8201d77db,82648602B,Barbara,Aguilar,33,11,246-923-401,terceros ampliado,490,Lexus,NX,3,Rojo,Ronda de Roque Tovar 576 Puerta 0 \nAlmeria 36985,Cordoba,Montilla
+67a0f8258d8acdc8201d77dc,13543633Z,Amanda,Tellez,42,8,143-828-310,terceros,850,Jaguar,XE,15,Azul,Avenida Anna Gordillo 24 Piso 1 \nMadrid 16073,Almeria,Nijar
+67a0f8258d8acdc8201d77dd,12974468F,Estrella,Carretero,36,7,063-716-465,terceros ampliado,790,Porsche,Taycan,13,Rojo,Plaza de Gilberto Barcelo 12\nLeon 24053,Castellon,Almazora
+67a0f8258d8acdc8201d77de,98210444F,Heliodoro,Alvaro,44,13,858-320-520,terceros,1000,McLaren,GT,20,Rojo,Via Clotilde Polo 554 Puerta 6 \nVizcaya 51276,Jaen,Jaen
+67a0f8258d8acdc8201d77df,80272170P,Mar,Vilanova,29,4,098-170-391,terceros ampliado,520,Ford,Fiesta,4,Marron,Glorieta Cesar Serna 264\nPontevedra 12696,Sevilla,Sevilla
+67a0f8258d8acdc8201d77e0,31834964C,Manu,Tudela,64,3,216-972-567,terceros,940,Toyota,Yaris,18,Beige,Camino Erasmo Rodriguez 21\nCiudad 43003,Guipuzcoa,San Sebastian
+67a0f8258d8acdc8201d77e1,67970880S,Nicodemo,Estrada,24,2,865-822-271,todo riesgo con franquicia,990,Citroen,C4,13,Negro,Plaza de Berto Andres 74 Apt 98 \nZamora 40876,Avila,Avila
+67a0f8258d8acdc8201d77e2,54734942W,Jordi,Montana,27,4,967-491-953,terceros,520,Rolls-Royce,Phantom,4,Gris,Pasadizo de Prudencio Bello 811 Piso 8 \nMalaga 15817,Guipuzcoa,Irun
+67a0f8258d8acdc8201d77e3,67177706L,Edgardo,Barreda,57,13,150-796-256,terceros,670,Seat,Ateca,9,Rojo,Calle Fausto Quintanilla 36\nPalencia 48325,Leon,Ponferrada
+67a0f8258d8acdc8201d77e4,47184883S,Jeremias,Alvarez,51,7,777-106-201,terceros,460,Mercedes-Benz,Clase S,2,Beige,Callejon Cruz Hidalgo 4 Apt 65 \nCeuta 24683,Cadiz,El Puerto de Santa Maria
+67a0f8258d8acdc8201d77e5,78253937W,Luciana,Matas,54,30,267-885-600,todo riesgo con franquicia,670,Mini,Clubman,9,Marron,Ronda de Alberto Baeza 5 Piso 5 \nVizcaya 01535,Teruel,Alcaniz
+67a0f8258d8acdc8201d77e6,82527381T,Rene,Marquez,46,13,154-532-239,todo riesgo,700,Citroen,C5,10,Gris,Pasaje Malena Ferrandez 43\nLugo 27145,Madrid,Alcala de Henares
+67a0f8258d8acdc8201d77e7,29789727N,Serafina,Iglesias,64,10,818-221-605,terceros ampliado,790,Nissan,Leaf,13,Rosa,Ronda Hernando Roman 2 Piso 7 \nCantabria 01445,Huelva,Lepe
+67a0f8258d8acdc8201d77e8,40451223L,Mayte,Casanova,46,21,319-521-661,todo riesgo con franquicia,580,Ferrari,Portofino,6,Beige,Cuesta Yesica Vazquez 24 Puerta 9 \nSevilla 44589,Cadiz,Cadiz
+67a0f8258d8acdc8201d77e9,77326567S,Julia,Guerra,40,16,438-247-911,terceros ampliado,430,Honda,HR-V,1,Gris,Pasadizo de Eugenio Andrade 41 Puerta 1 \nZamora 17581,Zaragoza,Tarazona
+67a0f8258d8acdc8201d77ea,29066983C,Moises,Bautista,42,20,245-361-782,todo riesgo con franquicia,430,Audi,A3,1,Rosa,Acceso de Alcides Vergara 79 Piso 9 \nToledo 08092,Badajoz,Merida
+67a0f8258d8acdc8201d77eb,58536971Q,Pepito,Iriarte,41,15,257-640-808,todo riesgo,820,Audi,Q7,14,Rosa,Ronda Saturnino Pellicer 42\nMadrid 04094,Ciudad Real,Puertollano
+67a0f8258d8acdc8201d77ec,29027724E,Modesta,Feliu,59,40,058-840-194,todo riesgo con franquicia,820,Bugatti,Divo,14,Verde,Canada Belen Collado 60\nCordoba 15393,Zaragoza,Zaragoza
+67a0f8258d8acdc8201d77ed,97223422F,Urbano,Perez,46,11,526-200-954,todo riesgo con franquicia,760,Subaru,Forester,12,Beige,Alameda de Manu Mendez 919\nSalamanca 21270,Las Palmas,Telde
+67a0f8258d8acdc8201d77ee,23819478B,Manuelita,Batlle,39,9,601-896-076,todo riesgo con franquicia,430,Alfa Romeo,4C,1,Marron,Urbanizacion de Baudelio Simo 54 Puerta 1 \nVizcaya 23915,Tarragona,Reus
+67a0f8258d8acdc8201d77ef,53644072E,Selena,Escalona,22,2,620-236-733,terceros,1170,Mercedes-Benz,Clase S,19,Verde,Acceso de Prudencio Posada 821\nCordoba 14856,Soria,Almazan
+67a0f8258d8acdc8201d77f0,82371835A,Vinicio,Montes,38,15,872-950-273,terceros ampliado,520,Porsche,Panamera,4,Plata,Plaza Chita Coloma 6 Puerta 8 \nLas Palmas 32858,A Coruna,Ferrol
+67a0f8258d8acdc8201d77f1,98159820Y,Reyes,Guerra,56,11,988-703-891,terceros,550,Dacia,Stepway,5,Verde,Pasaje Maura Carbo 225 Puerta 6 \nCeuta 21181,Ciudad Real,Puertollano
+67a0f8258d8acdc8201d77f2,20101759N,Che,Canton,65,21,335-099-964,todo riesgo con franquicia,580,Land Rover,Defender,6,Verde,Plaza Chus Maldonado 20\nCantabria 21352,Cordoba,Palma del Rio
+67a0f8258d8acdc8201d77f3,19401051E,Trinidad,Rubio,70,22,701-490-956,todo riesgo,490,Seat,Ateca,3,Azul,Avenida Cecilia Marmol 1\nLa Rioja 21291,Girona,Figueres
+67a0f8258d8acdc8201d77f4,10714522H,Noemi,Morales,65,22,115-447-442,todo riesgo con franquicia,580,Seat,Ibiza,6,Verde,Alameda de Pedro Mateos 70 Puerta 4 \nGuadalajara 12235,Guipuzcoa,Irun
+67a0f8258d8acdc8201d77f5,99608147T,Maria Teresa,Solera,43,11,136-848-291,todo riesgo,550,Mercedes-Benz,Clase S,5,Beige,Paseo de Rosaura Tur 820 Apt 18 \nCiudad 35863,Murcia,Cartagena
+67a0f8258d8acdc8201d77f6,28346515G,Ofelia,Pedro,45,4,538-814-764,terceros ampliado,760,Rolls-Royce,Wraith,12,Rojo,Pasaje Salome Blanes 97\nPalencia 29837,Valladolid,Arroyo de la Encomienda
+67a0f8258d8acdc8201d77f7,63955007B,Roberta,Cuadrado,38,15,413-472-314,todo riesgo con franquicia,820,Tesla,Model 3,14,Rojo,Paseo Vidal Dominguez 95 Apt 31 \nLa Coruna 43851,Cordoba,Puente Genil
+67a0f8258d8acdc8201d77f8,66154422M,Virgilio,Cordero,66,44,122-427-175,todo riesgo,430,Skoda,Karoq,1,Verde,Ronda Martin Roig 40 Apt 01 \nBadajoz 47286,Badajoz,Badajoz
+67a0f8258d8acdc8201d77f9,61993111S,Remedios,Zabala,38,10,458-722-736,todo riesgo,520,Mazda,CX-30,4,Blanco,C de Walter Gutierrez 19\nOurense 41606,Soria,Burgo de Osma-Ciudad de Osma
+67a0f8258d8acdc8201d77fa,43397900M,Maria Angeles,Mulet,67,16,501-501-208,terceros,640,Opel,Insignia,8,Beige,Urbanizacion Aaron Chamorro 24\nMadrid 12798,Barcelona,Badalona
+67a0f8258d8acdc8201d77fb,96359065J,Victorino,Solana,21,1,535-066-984,todo riesgo,870,Chevrolet,Camaro,9,Gris,Glorieta Hugo Rius 93 Apt 13 \nSegovia 21210,Valladolid,Medina del Campo
+67a0f8258d8acdc8201d77fc,75937280C,Priscila,Giner,19,1,545-331-170,todo riesgo con franquicia,960,Mercedes-Benz,GLC,12,Azul,Camino de Alejandra Pla 58\nLleida 30644,Tarragona,Tortosa
+67a0f8258d8acdc8201d77fd,77998860H,Mario,Alberola,20,1,837-598-755,todo riesgo,960,Porsche,Macan,12,Blanco,Ronda de Gaspar Arevalo 907 Piso 7 \nGranada 50449,A Coruna,Santiago de Compostela
+67a0f8258d8acdc8201d77fe,64532666W,Marina,Carvajal,60,9,041-149-974,terceros,970,Mercedes-Benz,Clase E,19,Gris,Cuesta de Alexandra Mariscal 84 Puerta 1 \nMadrid 20162,Burgos,Burgos
+67a0f8258d8acdc8201d77ff,56779261N,Jafet,Aparicio,63,29,106-312-945,todo riesgo,460,Land Rover,Range Rover,2,Blanco,Callejon Estefania Montenegro 916 Piso 4 \nGuadalajara 32828,Huesca,Jaca
+67a0f8258d8acdc8201d7800,12789070N,Rico,Canals,25,5,190-163-698,todo riesgo con franquicia,520,Rolls-Royce,Wraith,4,Gris,Ronda Natividad Nino 786 Apt 74 \nZaragoza 03225,Murcia,Molina de Segura
+67a0f8258d8acdc8201d7801,60967265S,Onofre,Aviles,64,39,043-558-549,todo riesgo,580,Lexus,RX,6,Marron,Vial de Javi Contreras 22 Apt 89 \nAsturias 42214,Lleida,Tarrega
+67a0f8258d8acdc8201d7802,10415506W,Tere,Falcon,35,3,503-219-822,todo riesgo,940,Bentley,Bentayga,18,Rosa,Plaza Maricela Carballo 627\nPalencia 44074,Cantabria,Camargo
+67a0f8258d8acdc8201d7803,16536788H,Isidro,Huertas,47,23,325-577-250,todo riesgo con franquicia,580,Lamborghini,Murcielago,6,Azul,C Susana Cervera 678 Puerta 8 \nValladolid 36680,Alava,Llodio
+67a0f8258d8acdc8201d7804,44311023M,Hernan,Mari,61,29,665-100-174,terceros ampliado,880,McLaren,720S,16,Rosa,Paseo Olivia Salgado 33\nHuesca 10374,Alava,Vitoria-Gasteiz
+67a0f8258d8acdc8201d7805,66606590Q,Julia,Chamorro,36,17,284-312-575,todo riesgo con franquicia,700,Jeep,Renegade,10,Rojo,Glorieta de Reina Cano 85 Apt 13 \nCuenca 17609,Granada,Motril
+67a0f8258d8acdc8201d7806,43354138N,Malena,Costa,50,20,254-740-113,todo riesgo con franquicia,970,Chevrolet,Bolt,19,Plata,Pasaje Elisabet Berrocal 30 Piso 4 \nMadrid 38107,Granada,Granada
+67a0f8258d8acdc8201d7807,59461493F,Felisa,Barco,20,2,661-793-263,todo riesgo con franquicia,990,Mini,Countryman,13,Marron,Rambla de Joaquin Ramis 38\nPalencia 32541,Malaga,Mijas
+67a0f8258d8acdc8201d7808,40128637P,Itziar,Tolosa,54,3,316-287-467,todo riesgo,460,Toyota,Corolla,2,Blanco,Vial de Xavier Palma 23\nValladolid 18251,Girona,Girona
+67a0f8258d8acdc8201d7809,33059213W,Camila,Iglesia,60,27,496-860-889,todo riesgo,730,Kia,Optima,11,Gris,Avenida de Marcial Fortuny 80 Apt 49 \nJaen 45906,Murcia,Murcia
+67a0f8258d8acdc8201d780a,46560119T,Micaela,Ojeda,44,15,887-273-351,terceros ampliado,700,McLaren,720S,10,Rosa,Pasaje Bernardino Diego 16 Apt 49 \nCadiz 25222,Islas Baleares,Manacor
+67a0f8258d8acdc8201d780b,22947365N,Amelia,Carmona,47,29,071-536-334,terceros,760,Rolls-Royce,Ghost,12,Plata,Calle Baltasar Paz 75\nZaragoza 18939,La Rioja,Alfaro
+67a0f8258d8acdc8201d780c,67062870E,Esther,Arnal,43,22,461-612-816,terceros,460,Tesla,Roadster,2,Beige,Canada de Alejandra Guillen 7 Apt 77 \nTarragona 07124,Las Palmas,Arrecife
+67a0f8258d8acdc8201d780d,45772902G,Alejandra,Carbajo,69,43,846-646-797,terceros ampliado,790,McLaren,570S,13,Rosa,Paseo de Zaira Jaume 37 Puerta 2 \nTarragona 37268,Murcia,Cartagena
+67a0f8258d8acdc8201d780e,68487182J,Petrona,Bas,43,17,445-990-314,terceros ampliado,580,Hyundai,i20,6,Negro,Via de Nacio Lerma 897 Piso 3 \nSanta Cruz de Tenerife 16911,Soria,Almazan
+67a0f8258d8acdc8201d780f,26224390C,Amor,Rebollo,43,23,632-026-127,todo riesgo,670,Skoda,Superb,9,Rosa,Ronda de Valentin Huertas 228\nSoria 50176,Cordoba,Cordoba
+67a0f8258d8acdc8201d7810,20526097T,Corona,Tejedor,46,15,694-069-710,todo riesgo,580,Volkswagen,Arteon,6,Azul,Urbanizacion de Adelia Izaguirre 2\nJaen 36034,Cantabria,El Astillero
+67a0f8258d8acdc8201d7811,68015209T,Merche,Roda,67,25,060-948-333,todo riesgo,880,Bugatti,Chiron,16,Blanco,Canada Graciela Carreras 29 Puerta 1 \nValencia 11938,Almeria,Nijar
+67a0f8258d8acdc8201d7812,52902492P,Rosendo,Barba,66,5,906-055-918,todo riesgo,850,Suzuki,Ciaz,15,Rojo,Avenida Ambar Avila 6\nSanta Cruz de Tenerife 43234,Pontevedra,Vilagarcia de Arousa
+67a0f8258d8acdc8201d7813,78379106M,Trini,Cifuentes,57,14,585-685-707,todo riesgo,790,Audi,A6,13,Rosa,Ronda Mamen Benavides 13 Apt 50 \nVizcaya 48695,La Rioja,Calahorra
+67a0f8258d8acdc8201d7814,68625586A,Martin,Tudela,52,29,449-339-203,todo riesgo con franquicia,550,Bentley,Continental GT,5,Rojo,Calle Jesusa Ferrando 3\nPalencia 48395,A Coruna,Oleiros
+67a0f8258d8acdc8201d7815,55606813N,Benita,Vinas,69,17,397-318-720,todo riesgo,520,Citroen,C3,4,Verde,C Benito Llanos 47 Puerta 3 \nJaen 51216,Malaga,Velez-Malaga
+67a0f8258d8acdc8201d7816,27763099Y,Celestino,Montana,45,22,003-753-828,todo riesgo con franquicia,790,Subaru,Legacy,13,Gris,Glorieta Ezequiel Morera 2\nCantabria 29945,Madrid,Leganes
+67a0f8258d8acdc8201d7817,65747459G,Maria Luisa,Garcia,45,16,874-708-811,terceros,670,Renault,Clio,9,Marron,Calle Mohamed Clemente 41 Apt 07 \nBarcelona 12292,A Coruna,Naron
+67a0f8258d8acdc8201d7818,99935882P,Humberto,Martorell,62,8,754-448-207,terceros,850,Opel,Crossland X,15,Beige,Camino de Guiomar Bayon 34 Piso 6 \nNavarra 07044,Santa Cruz de Tenerife,Puerto de la Cruz
+67a0f8258d8acdc8201d7819,55287350L,Amor,Rovira,53,10,341-025-168,terceros ampliado,820,Mazda,MX-5,14,Rosa,Urbanizacion de Lara Galiano 8\nTarragona 45636,Alicante,Benidorm
+67a0f8258d8acdc8201d781a,52627208B,Esther,Barbero,39,20,856-064-674,terceros ampliado,490,Ferrari,Portofino,3,Gris,Plaza Rosaura Paredes 11 Apt 97 \nBarcelona 50085,Asturias,Aviles
+67a0f8258d8acdc8201d781b,60382698Q,Lina,Bayo,18,0,519-308-548,terceros ampliado,720,Subaru,Legacy,4,Plata,Plaza Macario Acero 42\nAlicante 31634,Avila,Las Navas del Marques
+67a0f8258d8acdc8201d781c,22896977V,Maria Teresa,Ordonez,62,11,220-358-332,todo riesgo,670,Skoda,Fabia,9,Gris,Paseo de Jose Arteaga 58\nJaen 49827,Cantabria,Torrelavega
+67a0f8258d8acdc8201d781d,96102857W,Lola,Castell,66,12,637-302-267,terceros,790,Mercedes-Benz,Clase S,13,Verde,Calle Haydee Luque 30 Piso 5 \nPontevedra 24491,Zamora,Toro
+67a0f8258d8acdc8201d781e,45394557D,Severo,Vall,57,22,783-978-820,todo riesgo con franquicia,520,Bentley,Bentayga,4,Negro,Ronda de Moises Prat 916 Apt 50 \nNavarra 30935,Valladolid,Arroyo de la Encomienda
+67a0f8258d8acdc8201d781f,46757462A,Emiliana,Santos,47,27,312-771-296,todo riesgo con franquicia,970,Audi,Q7,19,Rojo,Glorieta Micaela Carro 66\nSalamanca 47713,Salamanca,Penaranda de Bracamonte
+67a0f8258d8acdc8201d7820,63926423Q,Amancio,Bravo,38,16,051-120-963,terceros,460,Jaguar,E-Pace,2,Marron,Ronda Amelia Pascual 68 Apt 06 \nCordoba 06175,Asturias,Mieres
+67a0f8258d8acdc8201d7821,26975082S,Valerio,Saldana,30,12,159-193-734,todo riesgo con franquicia,730,Jaguar,XF,11,Azul,C de Anabel Donaire 74\nCordoba 36593,Sevilla,Sevilla
+67a0f8258d8acdc8201d7822,20075416G,Amarilis,Casals,60,17,483-610-898,terceros ampliado,520,Rolls-Royce,Phantom,4,Rosa,Pasadizo de Daniela Valentin 491 Piso 1 \nBarcelona 39912,Palencia,Aguilar de Campoo
+67a0f8258d8acdc8201d7823,56337538G,Valero,Cervantes,49,11,213-433-541,todo riesgo,910,Chevrolet,Camaro,17,Negro,Via de Alfredo Tapia 6\nNavarra 44214,Islas Baleares,Manacor
+67a0f8258d8acdc8201d7824,86027295G,Jordana,Galvez,48,30,842-284-891,todo riesgo con franquicia,550,Seat,Ateca,5,Azul,Rambla de Jessica Yuste 33\nMalaga 05344,Cantabria,Camargo
+67a0f8258d8acdc8201d7825,22649320R,Debora,Chaparro,56,5,240-592-204,todo riesgo,730,Renault,Captur,11,Gris,Alameda Ismael Moles 29\nSalamanca 36814,Alicante,Torrevieja
+67a0f8258d8acdc8201d7826,16264357E,Soledad,Navas,38,5,764-196-915,terceros,430,Bugatti,Divo,1,Blanco,Pasadizo de Rafaela Lobato 631 Puerta 7 \nBarcelona 08420,Girona,Olot
+67a0f8258d8acdc8201d7827,47621343G,Lupita,Campos,65,14,374-621-527,todo riesgo,550,Alfa Romeo,4C,5,Beige,Via de Graciela Patino 23\nZaragoza 41167,Teruel,Alcaniz
+67a0f8258d8acdc8201d7828,85853540Z,Pia,Bejarano,22,2,880-319-070,todo riesgo con franquicia,1170,Lexus,IS,19,Beige,Ronda Tomas Garces 10\nCiudad 31970,Islas Baleares,Ibiza
+67a0f8258d8acdc8201d7829,84901655F,Agustin,Ibarra,31,11,713-394-560,todo riesgo,490,Alfa Romeo,4C,3,Plata,Acceso Silvestre Valle 294\nPalencia 12050,Lleida,Cervera
+67a0f8258d8acdc8201d782a,18117228J,Amarilis,Gallart,61,19,879-896-845,terceros ampliado,880,Land Rover,Discovery Sport,16,Rojo,Calle Leopoldo Salinas 38 Puerta 1 \nLugo 39867,Alicante,Benidorm
+67a0f8258d8acdc8201d782b,19184321K,Estefania,Pino,22,3,879-538-556,todo riesgo,690,Fiat,Tipo,3,Rojo,Cuesta de Oscar Santamaria 9 Puerta 3 \nAlmeria 46935,La Rioja,Logrono
+67a0f8258d8acdc8201d782c,21007592J,Tecla,Cabo,19,1,430-972-372,terceros,870,Subaru,Forester,9,Blanco,Plaza Eulalia Cabeza 23\nAvila 43152,Valladolid,Laguna de Duero
+67a0f8258d8acdc8201d782d,37291729N,Roberta,Pineda,33,3,105-595-944,todo riesgo,760,BMW,Serie 3,12,Blanco,Avenida de Eutimio Santamaria 11\nGuipuzcoa 39220,Vizcaya,Santurtzi
+67a0f8258d8acdc8201d782e,36130174A,Santiago,Herrero,65,47,167-576-245,todo riesgo,820,Lamborghini,Murcielago,14,Beige,Cuesta de Pepe Alberdi 29\nSalamanca 42527,Murcia,Molina de Segura
+67a0f8258d8acdc8201d782f,62001953W,Julie,Espana,44,2,446-744-183,terceros,730,Land Rover,Discovery,11,Rojo,Cuesta Corona Agusti 25\nNavarra 29943,Alicante,Torrevieja
+67a0f8258d8acdc8201d7830,90146721S,Nayara,Pavon,60,26,714-606-723,terceros ampliado,640,McLaren,P1,8,Marron,Urbanizacion de Jose Antonio Vilalta 6\nGirona 32114,Salamanca,Penaranda de Bracamonte
+67a0f8258d8acdc8201d7831,13328995N,Ruy,Elias,38,14,832-403-011,terceros,460,Renault,Twingo,2,Azul,Rambla de Kike Canales 87\nCastellon 43367,Zaragoza,Tarazona
+67a0f8258d8acdc8201d7832,47479191S,Marianela,Alcalde,25,6,274-423-090,terceros,640,Opel,Mokka,8,Gris,Callejon Samu Cuellar 1\nAlmeria 44047,Pontevedra,Pontevedra
+67a0f8258d8acdc8201d7833,87390611H,Pedro,Alonso,64,31,488-686-796,terceros,640,Hyundai,Kona,8,Rojo,Plaza de Dionisia Ramirez 506 Puerta 3 \nAvila 37538,Ourense,Ourense
+67a0f8258d8acdc8201d7834,11216776K,Isa,Heras,49,23,541-418-248,terceros,550,Tesla,Model Y,5,Azul,Acceso Florencio Aguilera 69\nGirona 20277,A Coruna,Ferrol
+67a0f8258d8acdc8201d7835,33156353J,Tiburcio,Alvarez,23,1,205-091-805,terceros,750,Mazda,6,5,Rojo,Pasadizo de Sarita Alonso 832 Puerta 4 \nSegovia 42272,A Coruna,Oleiros
+67a0f8258d8acdc8201d7836,64320549Z,Encarnacion,Bermudez,18,0,174-881-888,todo riesgo con franquicia,1050,Nissan,Leaf,15,Blanco,Avenida de Maria Lorenzo 34\nCiudad 24177,Las Palmas,Arrecife
+67a0f8258d8acdc8201d7837,89436067S,Benigno,Silva,57,9,962-499-648,todo riesgo,580,Porsche,Panamera,6,Rosa,Cuesta de Luisa Lluch 199\nSegovia 33121,Zamora,Benavente
+67a0f8258d8acdc8201d7838,36554796E,Aura,Arnaiz,19,1,397-901-491,todo riesgo con franquicia,1140,Ferrari,Portofino,18,Marron,Ronda de Almudena Navas 66\nLugo 24572,Caceres,Trujillo
+67a0f8258d8acdc8201d7839,69299070R,Cecilia,Pinto,63,39,077-295-371,todo riesgo,850,Aston Martin,Vantage,15,Azul,Rambla de Leonardo Robles 88\nBadajoz 49366,Cadiz,Algeciras
+67a0f8258d8acdc8201d783a,36587342T,Tecla,Feijoo,30,5,060-950-639,todo riesgo,730,Porsche,Macan,11,Marron,Pasaje Angelica Coca 385\nGuipuzcoa 24845,Burgos,Briviesca
+67a0f8258d8acdc8201d783b,51105764V,Roque,Portero,28,2,515-663-346,todo riesgo,460,BMW,Serie 5,2,Plata,Camino de Ciro Jaen 58 Piso 6 \nGuadalajara 11780,Zaragoza,Zaragoza
+67a0f8258d8acdc8201d783c,62409671E,Arturo,Alvarez,66,27,908-880-844,todo riesgo con franquicia,940,Seat,Ateca,18,Verde,Avenida Paulina Zabaleta 29 Apt 47 \nValencia 31006,Barcelona,Barcelona
+67a0f8258d8acdc8201d783d,59434575E,Malena,Barreda,48,3,197-920-188,todo riesgo con franquicia,850,Porsche,911,15,Plata,Callejon de Fabian Gilabert 507 Puerta 8 \nOurense 39667,Santa Cruz de Tenerife,Arona
+67a0f8258d8acdc8201d783e,59738127C,Lilia,Acedo,23,4,872-903-918,todo riesgo,1050,Opel,Mokka,15,Azul,Camino Alejo Sola 5\nNavarra 37745,A Coruna,Oleiros
+67a0f8268d8acdc8201d783f,45790635G,Benigno,Frutos,67,43,782-819-034,todo riesgo con franquicia,850,Fiat,Tipo,15,Gris,Urbanizacion de Tadeo Cabrero 9\nCadiz 01365,Caceres,Trujillo
+67a0f8268d8acdc8201d7840,51608837B,Maxi,Barrena,61,1,576-037-971,terceros,730,Peugeot,508,11,Gris,Via de Viviana Alamo 500 Puerta 6 \nAlava 23828,A Coruna,Naron
+67a0f8268d8acdc8201d7841,43856330E,Narciso,Teruel,49,9,509-505-906,terceros,730,Tesla,Roadster,11,Beige,Alameda Ximena Castilla 74 Apt 44 \nAvila 44931,Pontevedra,Vigo
+67a0f8268d8acdc8201d7842,26356160T,Toribio,Gras,45,14,333-457-338,terceros ampliado,490,Citroen,C1,3,Azul,Vial Aurelio Jordan 6 Puerta 7 \nCaceres 14586,Ciudad Real,Valdepenas
+67a0f8268d8acdc8201d7843,13056707K,Eladio,Cuadrado,59,18,521-993-381,terceros ampliado,850,Aston Martin,DB9,15,Negro,Avenida Fortunata Domenech 48\nBarcelona 07126,Avila,Arevalo
+67a0f8268d8acdc8201d7844,75318798P,Isidoro,Dieguez,46,2,591-801-749,terceros ampliado,610,Volvo,XC90,7,Rojo,Via de Socorro Agudo 35 Piso 8 \nMurcia 01423,Sevilla,Sevilla
+67a0f8268d8acdc8201d7845,58120829J,Alma,Ojeda,46,3,257-947-347,terceros ampliado,790,Ferrari,Portofino,13,Plata,Glorieta de Estefania Cerdan 79\nLa Coruna 27651,Teruel,Andorra
+67a0f8268d8acdc8201d7846,79518019G,Mariano,Gomez,54,25,063-764-685,terceros,880,Suzuki,Ciaz,16,Plata,C de Daniel Royo 4\nAlbacete 23881,Guipuzcoa,San Sebastian
+67a0f8268d8acdc8201d7847,67505392R,Abilio,Nino,65,9,861-894-842,terceros ampliado,550,Audi,Q5,5,Beige,Via Guiomar Cabo 126\nCiudad 12391,Valladolid,Arroyo de la Encomienda
+67a0f8268d8acdc8201d7848,49953931R,Javiera,Caballero,45,16,364-507-871,terceros ampliado,850,Mazda,3,15,Verde,Camino de Alonso Sanchez 9\nCeuta 43844,Las Palmas,Arrecife
+67a0f8268d8acdc8201d7849,31767649A,Jacinta,Carrion,32,6,799-328-359,todo riesgo,580,Subaru,Ascent,6,Rosa,Pasaje de Baudelio Bayon 58\nAlmeria 29876,Tarragona,Cambrils
+67a0f8268d8acdc8201d784a,80234739K,Rodrigo,Carbo,39,18,788-595-169,todo riesgo con franquicia,970,Dacia,Stepway,19,Marron,Camino de Pacifica Galiano 410 Puerta 1 \nPontevedra 38569,Ourense,Barbadas
+67a0f8268d8acdc8201d784b,97692155T,Baltasar,Falco,23,3,442-099-810,terceros,630,Mini,Convertible,1,Negro,Rambla Alonso Pozuelo 84\nMalaga 35842,Leon,Leon
+67a0f8268d8acdc8201d784c,21095193F,Edu,Porcel,30,3,051-067-217,terceros,910,Renault,Clio,17,Gris,Avenida de Jorge Canton 15 Piso 0 \nLeon 07547,Valencia,Valencia
+67a0f8268d8acdc8201d784d,42521095Y,Juana,Ayllon,27,5,255-783-182,terceros,730,Mini,Cooper,11,Gris,Callejon de Marita Almazan 2 Piso 1 \nValencia 47168,Cuenca,Tarancón
+67a0f8268d8acdc8201d784e,25688472W,Albert,Carmona,39,16,144-410-999,todo riesgo,610,Skoda,Kodiaq,7,Marron,C Leticia Vallejo 62 Apt 03 \nAvila 30522,Badajoz,Villanueva de la Serena
+67a0f8268d8acdc8201d784f,24639004R,Maximiliano,Gimeno,18,0,125-160-603,terceros ampliado,1170,Renault,Kadjar,19,Blanco,Camino Jonatan Sabater 1 Apt 14 \nTeruel 38070,Cantabria,El Astillero
+67a0f8268d8acdc8201d7850,67570693M,Bernardo,Luque,23,4,020-533-769,todo riesgo con franquicia,960,Nissan,Qashqai,12,Negro,Acceso Juan Antonio Diaz 8\nAlicante 31187,Caceres,Plasencia
+67a0f8268d8acdc8201d7851,97096959K,Camilo,Gonzalez,19,1,391-040-948,todo riesgo,1140,Subaru,Ascent,18,Beige,Plaza de Emiliana Ibanez 2\nHuelva 02326,Almeria,Roquetas de Mar
+67a0f8268d8acdc8201d7852,54876219J,Tadeo,Maestre,22,4,147-248-933,todo riesgo con franquicia,1140,Lamborghini,Gallardo,18,Rosa,Avenida Eligio Marques 264\nCantabria 23318,Castellon,Vinaroz
+67a0f8268d8acdc8201d7853,79939098E,Herminio,Franch,62,40,468-470-454,todo riesgo,970,Citroen,C4,19,Plata,Camino Eric Ruano 73 Piso 9 \nAlava 48644,Islas Baleares,Manacor
+67a0f8268d8acdc8201d7854,31103621P,Jaime,Medina,31,9,562-604-813,todo riesgo con franquicia,850,Ford,Escape,15,Plata,Camino Lucio Salvador 25\nTarragona 29710,Alava,Salvatierra/Agurain
+67a0f8268d8acdc8201d7855,35332196X,Primitiva,Jaume,42,17,841-433-258,terceros ampliado,1000,Dacia,Duster,20,Plata,C Filomena Melero 588\nGirona 37703,Navarra,Tafalla
+67a0f8268d8acdc8201d7856,77226048Y,Angela,Torre,21,1,718-485-468,todo riesgo,630,Ferrari,488,1,Verde,Camino Trinidad Alba 37 Apt 96 \nSegovia 32358,Almeria,Roquetas de Mar
+67a0f8268d8acdc8201d7857,24548969B,Duilio,Roca,32,8,469-411-807,todo riesgo con franquicia,430,Volvo,V60,1,Verde,Calle de Jordan Prats 442 Piso 4 \nCeuta 01513,Granada,Loja
+67a0f8268d8acdc8201d7858,93275980D,Juan Luis,Saavedra,52,21,923-249-870,todo riesgo con franquicia,970,Suzuki,SX4,19,Marron,Camino Juan Dominguez 17 Puerta 1 \nZaragoza 29796,Soria,San Esteban de Gormaz
+67a0f8268d8acdc8201d7859,94417167M,Lidia,Pina,42,1,653-903-874,todo riesgo con franquicia,640,Bentley,Arnage,8,Verde,Pasadizo de Goyo Alvarado 2 Piso 9 \nPalencia 33666,A Coruna,A Coruna
+67a0f8268d8acdc8201d785a,87857607E,Vicenta,Jara,23,3,345-040-361,terceros ampliado,870,Citroen,C5,9,Beige,Plaza Casandra Hidalgo 143\nSalamanca 48880,Alava,Llodio
+67a0f8268d8acdc8201d785b,43937532B,Florentino,Pol,60,34,577-745-897,terceros,850,Chevrolet,Equinox,15,Azul,Canada de Bautista Parejo 8\nHuelva 40234,Cantabria,Torrelavega
+67a0f8268d8acdc8201d785c,62933519E,Enrique,Saura,28,10,236-127-381,todo riesgo,640,Peugeot,508,8,Beige,Vial de Agustina Sole 22\nLeon 21932,Segovia,Cuellar
+67a0f8268d8acdc8201d785d,40745611F,Reyna,Aviles,56,35,640-937-902,terceros,550,Mazda,MX-5,5,Rosa,Canada Renato Jimenez 4\nBarcelona 38560,Valencia,Sagunto
+67a0f8268d8acdc8201d785e,89554709T,Estela,Carpio,31,11,339-732-741,terceros,610,Suzuki,Swift,7,Negro,Ronda de Maria Pilar Soler 8 Puerta 7 \nGuadalajara 14787,Las Palmas,Puerto del Rosario
+67a0f8268d8acdc8201d785f,41417023A,Conrado,Gargallo,32,1,393-128-477,terceros,550,Lamborghini,Murcielago,5,Rosa,Cuesta de Abraham Ortuno 11 Puerta 8 \nLas Palmas 35020,Santa Cruz de Tenerife,Adeje
+67a0f8268d8acdc8201d7860,36319483E,Anabel,Trillo,30,8,365-781-837,todo riesgo con franquicia,430,Hyundai,i20,1,Blanco,Via de Claudio Enriquez 1\nBaleares 44253,Badajoz,Merida
+67a0f8268d8acdc8201d7861,51154837P,Julio,Cerdan,45,22,710-176-013,todo riesgo,910,Hyundai,i10,17,Plata,Pasaje Alonso Escribano 114 Piso 2 \nSevilla 19155,Islas Baleares,Manacor
+67a0f8268d8acdc8201d7862,49814008X,Amalia,Avila,50,17,050-631-293,terceros ampliado,760,Aston Martin,Vantage,12,Rosa,Cuesta Eliana Ibanez 9 Puerta 2 \nAlava 49025,Almeria,Roquetas de Mar
+67a0f8268d8acdc8201d7863,18486155C,Maria Del Carmen,Marti,37,7,283-405-537,todo riesgo con franquicia,790,Porsche,911,13,Blanco,Vial Margarita Aznar 16 Piso 4 \nSoria 40251,Albacete,Albacete
+67a0f8268d8acdc8201d7864,13813510D,Ligia,Cases,42,17,769-444-230,todo riesgo con franquicia,880,Mitsubishi,Outlander,16,Beige,Ronda de Teofilo Roma 14 Puerta 4 \nZamora 14941,Valladolid,Valladolid
+67a0f8268d8acdc8201d7865,93304154P,Espiridion,Ros,37,15,918-601-469,todo riesgo con franquicia,790,Jeep,Renegade,13,Marron,Via de Esperanza Crespo 19\nCiudad 33033,Santa Cruz de Tenerife,San Cristobal de La Laguna
+67a0f8268d8acdc8201d7866,74642876X,Lupita,Montoya,53,15,162-220-132,todo riesgo,730,Ford,Explorer,11,Negro,Via Teo Garcia 14 Apt 95 \nTarragona 39012,Murcia,Murcia
+67a0f8268d8acdc8201d7867,66447288N,Lalo,Lucena,54,20,674-694-448,terceros ampliado,790,Mazda,MX-5,13,Rojo,Rambla Isaac Ibanez 9 Puerta 1 \nTarragona 42962,Cantabria,Castro Urdiales
+67a0f8268d8acdc8201d7868,14478009S,Mar,Sanjuan,45,19,097-895-854,terceros ampliado,820,Jaguar,XF,14,Gris,Avenida de Marita Gual 91\nBadajoz 32381,Lugo,Lugo
+67a0f8268d8acdc8201d7869,81833863R,Remedios,Guillen,33,4,074-592-098,todo riesgo con franquicia,610,Alfa Romeo,Stelvio,7,Rojo,Calle de Lucia Cardona 79 Puerta 0 \nMurcia 34142,Avila,Candeleda
+67a0f8268d8acdc8201d786a,57579068V,Julie,Tenorio,60,28,217-494-751,todo riesgo,940,Subaru,Forester,18,Verde,Avenida de Aura Carrasco 8 Apt 16 \nAlava 31720,Cantabria,Camargo
+67a0f8268d8acdc8201d786b,26766889H,Ingrid,Milla,62,33,528-946-330,todo riesgo,640,Nissan,Micra,8,Marron,C Anunciacion Cabeza 804\nAvila 15380,Teruel,Andorra
+67a0f8268d8acdc8201d786c,32204915Q,Anastasio,Bellido,53,18,827-043-795,todo riesgo,460,Aston Martin,DBS Superleggera,2,Beige,Cuesta de Ruth Pastor 85 Apt 50 \nOurense 17699,Barcelona,Barcelona
+67a0f8268d8acdc8201d786d,29908128D,Pastor,Castaneda,50,1,369-551-878,todo riesgo,490,Porsche,Taycan,3,Blanco,Plaza de Sigfrido Dalmau 76 Piso 4 \nHuesca 07585,Pontevedra,Vigo
+67a0f8268d8acdc8201d786e,87251419E,Flavia,Quintanilla,69,44,518-415-216,todo riesgo,610,Alfa Romeo,Stelvio,7,Verde,Urbanizacion de Violeta Ferrandiz 45 Puerta 6 \nZamora 20284,Girona,Lloret de Mar
+67a0f8268d8acdc8201d786f,81958889E,Flor,Montalban,24,3,826-609-027,todo riesgo con franquicia,1080,Subaru,Outback,16,Marron,Acceso Desiderio Aranda 4 Apt 83 \nGirona 07621,Badajoz,Merida
+67a0f8268d8acdc8201d7870,89511164V,Valeria,Pulido,61,37,632-784-970,todo riesgo,880,Chevrolet,Equinox,16,Rojo,Camino Haydee Nunez 40 Piso 8 \nCiudad 38076,Badajoz,Villanueva de la Serena
+67a0f8268d8acdc8201d7871,53862016H,Maria Jose,Rebollo,39,14,231-608-043,terceros ampliado,1000,Volkswagen,Tiguan,20,Gris,Via Elias Verdejo 2 Puerta 3 \nBaleares 30086,Cadiz,San Fernando
+67a0f8268d8acdc8201d7872,31195043M,Natalia,Vera,27,5,912-984-259,terceros,460,Mercedes-Benz,Clase E,2,Negro,Canada Nazario Lorenzo 503 Puerta 5 \nToledo 45809,Alava,Amurrio
+67a0f8268d8acdc8201d7873,81494604S,Chema,Ferrer,35,14,836-119-112,todo riesgo con franquicia,490,Rolls-Royce,Phantom,3,Verde,Pasadizo Gilberto Mas 53\nNavarra 25490,Ourense,Ourense
+67a0f8268d8acdc8201d7874,75016846T,Amparo,Reyes,35,15,462-223-206,terceros ampliado,670,Audi,A3,9,Rosa,Canada de Natanael Benito 342\nSanta Cruz de Tenerife 11972,Guipuzcoa,Zarautz
+67a0f8268d8acdc8201d7875,56588301K,Teresa,Galvez,38,16,064-115-077,terceros,520,Skoda,Octavia,4,Plata,Callejon de Teresita Borja 13\nGuadalajara 16787,Jaen,Linares
+67a0f8268d8acdc8201d7876,62640400S,Joan,Elias,22,2,058-364-356,terceros ampliado,1080,Peugeot,2008,16,Negro,Acceso de Diego Tolosa 348\nCeuta 48986,Leon,Ponferrada
+67a0f8268d8acdc8201d7877,62603222M,Primitivo,Juarez,57,11,604-073-680,todo riesgo,880,Bentley,Bentayga,16,Blanco,Canada de Maxi Ledesma 14\nLeon 48617,Huesca,Fraga
+67a0f8268d8acdc8201d7878,37683023F,Marino,Corominas,65,31,495-845-159,todo riesgo,550,Tesla,Roadster,5,Rosa,Canada Jaime Esparza 17 Puerta 2 \nCaceres 27919,La Rioja,Arnedo
+67a0f8268d8acdc8201d7879,64668883J,Estela,Pera,32,2,892-293-226,terceros,550,Chevrolet,Malibu,5,Azul,Cuesta Reynaldo Alcolea 8 Piso 9 \nVizcaya 36148,Valencia,Gandia
+67a0f8268d8acdc8201d787a,64805217A,Armida,Vega,26,7,053-338-770,terceros,520,Bugatti,Bolide,4,Azul,Paseo Jose Ramos 3 Puerta 5 \nSalamanca 34632,Castellon,Vinaroz
+67a0f8268d8acdc8201d787b,72567703N,Onofre,Hurtado,21,1,277-370-481,terceros ampliado,1200,Suzuki,Ciaz,20,Blanco,Cuesta de Celestino Hervia 84 Puerta 1 \nNavarra 09072,A Coruna,A Coruna
+67a0f8268d8acdc8201d787c,82248110H,Obdulia,Verdejo,50,4,045-325-734,todo riesgo,940,Alfa Romeo,Giulia,18,Marron,Canada Panfilo Linares 184\nMurcia 45692,Albacete,La Roda
+67a0f8268d8acdc8201d787d,63933788K,Luisa,Uria,28,9,399-350-782,todo riesgo con franquicia,670,Mini,Clubman,9,Plata,Acceso de Jordana Moran 4\nCastellon 47612,Alicante,Elche
+67a0f8268d8acdc8201d787e,41861765V,Susana,Pedrosa,40,16,104-046-642,terceros ampliado,670,Hyundai,Santa Fe,9,Marron,Avenida Raquel Castrillo 4 Piso 7 \nValladolid 27674,Alicante,Alicante
+67a0f8268d8acdc8201d787f,46644054P,Cayetana,Miguel,22,4,809-636-337,terceros ampliado,930,Fiat,500X,11,Marron,Pasaje de Esteban Pelayo 6\nBadajoz 19897,Pontevedra,Vilagarcia de Arousa
+67a0f8268d8acdc8201d7880,27833901Z,Panfilo,Sans,57,9,472-640-528,terceros,550,Lamborghini,Aventador,5,Blanco,Glorieta Julio Flores 678 Apt 62 \nZaragoza 28653,Ciudad Real,Valdepenas
+67a0f8268d8acdc8201d7881,21794225T,Xavier,Bayo,21,2,931-294-485,todo riesgo con franquicia,960,Seat,Arona,12,Rosa,C Amarilis Torre 504 Puerta 7 \nAlbacete 10902,Girona,Blanes
+67a0f8268d8acdc8201d7882,90570539N,Azahar,Pol,47,8,656-823-811,terceros,610,Lexus,NX,7,Azul,C Seve Marquez 199 Apt 34 \nLleida 25195,Segovia,Cuellar
+67a0f8268d8acdc8201d7883,62505861A,Veronica,Galindo,30,6,660-720-860,terceros,670,Renault,Kadjar,9,Marron,Vial de Isidora Pons 980\nAlmeria 05744,Valladolid,Arroyo de la Encomienda
+67a0f8268d8acdc8201d7884,97495304Y,Ani,Otero,36,6,159-913-257,terceros ampliado,790,Tesla,Model S,13,Blanco,Plaza de Melania Marti 69\nMadrid 51884,Lleida,Balaguer
+67a0f8268d8acdc8201d7885,40641676D,Bienvenida,Solis,56,35,290-407-525,todo riesgo con franquicia,670,Ford,Escape,9,Beige,Vial Reynaldo Pintor 17 Apt 69 \nTeruel 18297,Segovia,El Espinar
+67a0f8268d8acdc8201d7886,49938920D,Caridad,Reyes,52,14,704-732-670,todo riesgo con franquicia,970,Peugeot,508,19,Plata,Pasaje de Gracia Cantero 35 Puerta 8 \nLa Rioja 31503,Segovia,Segovia
+67a0f8268d8acdc8201d7887,53485487E,Ezequiel,Alba,66,22,950-734-987,todo riesgo con franquicia,550,Alfa Romeo,4C,5,Gris,Calle Paz Quiros 2 Piso 3 \nGuadalajara 41048,Sevilla,Sevilla
+67a0f8268d8acdc8201d7888,79054135F,Pili,Miranda,55,5,897-064-186,terceros ampliado,820,Hyundai,Tucson,14,Plata,Pasaje Alicia Garces 39 Apt 30 \nGuipuzcoa 39042,Soria,Olvega
+67a0f8268d8acdc8201d7889,33805691S,Ignacia,Estevez,63,12,258-951-432,terceros,610,Ford,Focus,7,Rosa,Callejon Bernardino Donoso 231 Piso 7 \nGuipuzcoa 17328,Valladolid,Arroyo de la Encomienda
+67a0f8268d8acdc8201d788a,65230261F,Emiliano,Revilla,22,1,784-453-709,todo riesgo,750,Subaru,Forester,5,Rojo,Via de Angelita Valera 10\nBaleares 40123,Lugo,Viveiro
+67a0f8268d8acdc8201d788b,99840560K,Marcos,Aznar,31,10,769-714-769,terceros ampliado,490,Lexus,NX,3,Blanco,Avenida Sabina Caballero 1 Apt 49 \nTeruel 47137,Las Palmas,Arrecife
+67a0f8268d8acdc8201d788c,39961560A,Jeronimo,Gallardo,36,18,379-827-867,todo riesgo con franquicia,580,Rolls-Royce,Cullinan,6,Verde,Callejon Raimundo Guardia 1 Apt 17 \nZamora 37040,Granada,Loja
+67a0f8268d8acdc8201d788d,84826996Y,Rogelio,Sanabria,47,29,639-161-743,terceros,520,Opel,Crossland X,4,Gris,Urbanizacion Filomena Nunez 85\nLugo 49791,Zamora,Morales del Vino
+67a0f8268d8acdc8201d788e,17219045A,Nicanor,Moran,30,12,739-711-746,todo riesgo,790,Ferrari,F8 Tributo,13,Rosa,Acceso de Jenny Cifuentes 4 Puerta 8 \nCadiz 20957,Malaga,Marbella
+67a0f8268d8acdc8201d788f,74039316Q,Carlito,Berenguer,22,4,298-822-537,todo riesgo,660,Land Rover,Range Rover Evoque,2,Beige,Avenida de Quirino Giron 571 Piso 6 \nSevilla 42349,Guadalajara,El Casar
+67a0f8268d8acdc8201d7890,58936677M,Chelo,Maldonado,53,19,851-851-082,terceros ampliado,910,Mercedes-Benz,Clase S,17,Blanco,Pasaje de Sigfrido Cid 26 Piso 7 \nGuipuzcoa 14880,Malaga,Marbella
+67a0f8268d8acdc8201d7891,66935799A,Lucho,Belmonte,43,11,571-915-233,terceros,640,Suzuki,Swift,8,Gris,Ronda Barbara Mayo 876 Apt 81 \nCastellon 10840,Las Palmas,Las Palmas de Gran Canaria
+67a0f8268d8acdc8201d7892,58066780Z,Placido,Herranz,37,7,926-319-390,terceros ampliado,970,Lamborghini,Urus,19,Azul,Plaza de Elvira Milla 478\nGuipuzcoa 50920,Alicante,Benidorm
+67a0f8268d8acdc8201d7893,91522912R,Anacleto,Gascon,18,0,902-246-495,terceros,690,Peugeot,208,3,Gris,Paseo Guiomar Zamora 18\nBurgos 02882,Madrid,Leganes
+67a0f8268d8acdc8201d7894,39002683L,Donato,Marcos,53,24,501-184-555,todo riesgo con franquicia,460,Chevrolet,Malibu,2,Beige,Paseo Custodia Ibanez 5 Apt 85 \nOurense 22581,Cantabria,Santander
+67a0f8268d8acdc8201d7895,61800496W,Nilo,Arnau,22,3,105-976-895,terceros,1140,Mercedes-Benz,Clase C,18,Negro,Calle Flora Castell 52 Puerta 2 \nMadrid 12489,Teruel,Alcaniz
+67a0f8268d8acdc8201d7896,21335582T,Sabina,Valentin,18,0,391-204-190,todo riesgo,750,Aston Martin,DBS Superleggera,5,Azul,Pasadizo de Basilio Pavon 64\nBadajoz 48051,Madrid,Mostoles
+67a0f8268d8acdc8201d7897,94972404E,Lorenzo,Peral,52,34,629-867-640,todo riesgo con franquicia,640,Volkswagen,Tiguan,8,Rosa,Calle Jovita Catalan 90 Puerta 8 \nLleida 38200,Huesca,Fraga
+67a0f8268d8acdc8201d7898,33306362Q,Leyre,Pastor,33,15,591-705-194,todo riesgo,580,Subaru,Forester,6,Negro,Pasaje Tere Vila 68\nNavarra 38487,Valladolid,Valladolid
+67a0f8268d8acdc8201d7899,74287014G,Reinaldo,Salas,27,5,352-751-138,todo riesgo con franquicia,730,Alfa Romeo,Stelvio,11,Blanco,Acceso Reyes Campo 857 Puerta 3 \nSoria 34999,Ourense,Verin
+67a0f8268d8acdc8201d789a,67779713R,Jacinta,Barros,31,1,811-744-684,todo riesgo con franquicia,1000,Skoda,Superb,20,Marron,Paseo Lucila Canals 2\nAlmeria 40838,Cantabria,Camargo
+67a0f8268d8acdc8201d789b,35327048Z,Ruth,Pineda,50,32,273-788-634,terceros,580,Lamborghini,Aventador,6,Rojo,Callejon de Pilar Moliner 71 Puerta 1 \nCordoba 44785,Guadalajara,Molina de Aragon
+67a0f8268d8acdc8201d789c,30427586N,Moreno,Recio,36,8,491-611-450,terceros,970,Rolls-Royce,Ghost,19,Marron,Via de Febe Casares 91\nAlmeria 16655,Malaga,Fuengirola
+67a0f8268d8acdc8201d789d,82233900E,Joaquin,Espejo,22,3,124-879-401,terceros ampliado,1110,Toyota,Yaris,17,Plata,Alameda de Elpidio Cueto 68 Piso 8 \nAlbacete 10489,Tarragona,El Vendrell
+67a0f8268d8acdc8201d789e,51178875B,Domitila,Galiano,48,2,030-611-637,terceros,970,Rolls-Royce,Dawn,19,Azul,Callejon Maria Jose Parejo 41 Apt 16 \nAlicante 01281,Zamora,Morales del Vino
+67a0f8268d8acdc8201d789f,87846738D,Herberto,Santana,49,18,366-576-331,terceros,850,Porsche,Panamera,15,Rojo,C de Caridad Gomis 9 Apt 80 \nMalaga 21264,Huelva,Ayamonte
+67a0f8268d8acdc8201d78a0,83897934Y,Marisol,Bayon,21,3,397-278-505,todo riesgo,840,Rolls-Royce,Wraith,8,Blanco,Cuesta de Maxi Royo 5 Puerta 1 \nSegovia 29930,A Coruna,Ferrol
+67a0f8268d8acdc8201d78a1,31246145R,Gema,Segura,24,5,296-366-449,terceros,870,Hyundai,i20,9,Negro,Canada de Aurora Perez 53\nCaceres 44707,Barcelona,Barcelona
+67a0f8268d8acdc8201d78a2,71477211L,Luis Angel,Luque,36,15,297-018-566,todo riesgo,730,Nissan,Qashqai,11,Rojo,Vial de Jacinto Ayllon 76\nAvila 40377,Zamora,Morales del Vino
+67a0f8278d8acdc8201d78a3,77393701N,Edelmiro,Gibert,35,15,687-461-733,todo riesgo,790,Toyota,Camry,13,Plata,Rambla de Alejandro Priego 42 Puerta 8 \nGirona 42676,Palencia,Aguilar de Campoo
+67a0f8278d8acdc8201d78a4,60641894W,Noelia,Saura,33,12,717-743-959,todo riesgo,760,Skoda,Kodiaq,12,Azul,Ronda Climaco Nicolas 11\nCuenca 21256,Jaen,Martos
+67a0f8278d8acdc8201d78a5,42449450Y,Ciriaco,Morell,65,44,166-510-405,todo riesgo con franquicia,460,Opel,Crossland X,2,Rojo,Pasaje Rafa Serrano 566 Piso 3 \nLeon 33887,Leon,Leon
+67a0f8278d8acdc8201d78a6,93926046A,Bernardita,Escalona,59,9,541-556-256,terceros,730,Nissan,X-Trail,11,Negro,Urbanizacion de Reynaldo Cespedes 5\nLa Rioja 20456,Granada,Almunecar
+67a0f8278d8acdc8201d78a7,21701080M,Reyes,Mata,64,26,668-213-378,terceros ampliado,850,Jaguar,XF,15,Plata,Urbanizacion Carina Anton 2\nAlava 21915,Islas Baleares,Ibiza
+67a0f8278d8acdc8201d78a8,29392902Y,Lazaro,Melendez,62,34,451-762-872,terceros ampliado,580,Hyundai,Tucson,6,Blanco,Via de Rosaura Escolano 5 Piso 4 \nJaen 04583,Guadalajara,Azuqueca de Henares
+67a0f8278d8acdc8201d78a9,25987704G,Benigno,Cerda,63,42,980-562-895,todo riesgo,820,Chevrolet,Malibu,14,Negro,Vial Adela Donaire 42\nCordoba 33256,Islas Baleares,Calvia
+67a0f8278d8acdc8201d78aa,28161168Z,Gaspar,Benavent,56,26,846-740-750,todo riesgo,640,Nissan,Micra,8,Plata,Pasadizo de Emiliano Escamilla 1 Puerta 6 \nCordoba 32423,Badajoz,Badajoz
+67a0f8278d8acdc8201d78ab,86913475V,Ernesto,Bonilla,36,8,478-219-118,todo riesgo,790,Subaru,Outback,13,Plata,Acceso de Eloy Gonzalez 583 Piso 3 \nZamora 11157,Alicante,Torrevieja
+67a0f8278d8acdc8201d78ac,74769840Z,Amancio,Rozas,66,28,240-050-785,todo riesgo,1000,Toyota,Corolla,20,Azul,C Amado Pablo 85 Apt 08 \nBadajoz 31877,Huelva,Lepe
+67a0f8278d8acdc8201d78ad,70576776B,Diana,Zamorano,61,20,876-507-595,todo riesgo con franquicia,550,Volkswagen,Polo,5,Gris,Vial Saturnino Sandoval 1 Piso 7 \nCadiz 32320,Lleida,Cervera
+67a0f8278d8acdc8201d78ae,48911187P,Isa,Sanabria,20,2,758-302-095,todo riesgo,1200,Ford,Fiesta,20,Verde,Callejon Maristela Checa 23\nGranada 44394,Sevilla,Alcala de Guadaira
+67a0f8278d8acdc8201d78af,83115581K,Rocio,Barriga,38,6,913-535-118,todo riesgo,1000,Citroen,C1,20,Rosa,Urbanizacion de Micaela Botella 86 Puerta 0 \nZamora 14732,Girona,Girona
+67a0f8278d8acdc8201d78b0,94656104H,Maximiliano,Pelayo,21,3,913-589-798,todo riesgo con franquicia,780,Audi,A4,6,Blanco,Camino de Elisa Pina 9 Apt 86 \nLleida 08128,Caceres,Navalmoral de la Mata
+67a0f8278d8acdc8201d78b1,56684961N,Hipolito,Iniesta,65,16,143-046-065,todo riesgo,580,Land Rover,Discovery,6,Blanco,Calle Gala Castell 88\nLas Palmas 49705,Jaen,Ubeda
+67a0f8278d8acdc8201d78b2,53722344W,Consuela,Vinas,48,16,041-796-489,terceros ampliado,820,Mini,Cooper,14,Blanco,Ronda de Bernabe Alfaro 80\nCuenca 48311,Valencia,Valencia
+67a0f8278d8acdc8201d78b3,81523594W,Fortunata,Jurado,62,13,011-120-650,todo riesgo con franquicia,520,Chevrolet,Bolt,4,Marron,Via de Moreno Cozar 92\nCordoba 49808,A Coruna,Ferrol
+67a0f8278d8acdc8201d78b4,71228105A,Victor Manuel,Barrios,61,27,029-408-424,todo riesgo con franquicia,820,Aston Martin,Vantage,14,Marron,Canada de Daniela Vinas 6 Puerta 2 \nSevilla 51029,Zamora,Villaralbo
+67a0f8278d8acdc8201d78b5,41190568Y,Palmira,Pino,62,30,699-784-154,terceros ampliado,580,Volvo,XC40,6,Beige,Paseo Albano Mayol 17\nSalamanca 14490,Vizcaya,Portugalete
+67a0f8278d8acdc8201d78b6,97504777A,Saturnina,Sandoval,46,12,967-837-711,terceros ampliado,940,Seat,Arona,18,Plata,Paseo de Maria Dolores Duran 65 Apt 81 \nCastellon 23640,Caceres,Coria
+67a0f8278d8acdc8201d78b7,63089506T,Anselmo,Tejada,24,1,200-010-958,terceros,1140,Ford,Explorer,18,Azul,Calle de Luna Manzano 82 Puerta 7 \nZamora 47072,A Coruna,Oleiros
+67a0f8278d8acdc8201d78b8,56143642K,Dionisio,Iniesta,44,26,463-058-324,todo riesgo con franquicia,940,Skoda,Fabia,18,Negro,Paseo Dominga Sastre 6 Apt 74 \nHuesca 45514,Burgos,Briviesca
+67a0f8278d8acdc8201d78b9,27024262K,Emilia,Mateo,43,1,314-828-959,todo riesgo con franquicia,970,Mini,Clubman,19,Marron,Pasaje de Mario Cifuentes 3 Apt 54 \nSegovia 04654,Pontevedra,Vigo
+67a0f8278d8acdc8201d78ba,96309892Z,Fabian,Calatayud,48,21,209-272-264,todo riesgo con franquicia,940,Volkswagen,Passat,18,Verde,Acceso Apolonia Villalobos 4\nLa Coruna 47112,Girona,Olot
+67a0f8278d8acdc8201d78bb,95382044D,Climaco,Feijoo,22,3,037-563-165,todo riesgo,780,Lexus,IS,6,Marron,Glorieta de Prudencio Landa 21\nLa Coruna 49144,Malaga,Fuengirola
+67a0f8278d8acdc8201d78bc,74383509Z,Sonia,Gras,53,11,667-353-303,todo riesgo con franquicia,520,Toyota,RAV4,4,Azul,Glorieta de Bartolome Lopez 295\nSegovia 24348,Sevilla,Alcala de Guadaira
+67a0f8278d8acdc8201d78bd,29046500F,Dafne,Palomo,30,3,163-554-483,terceros ampliado,910,Jeep,Wrangler,17,Rojo,Via Alondra Salmeron 7 Piso 8 \nAvila 23532,Huelva,Lepe
+67a0f8278d8acdc8201d78be,68367618A,Jose Miguel,Muniz,35,16,298-671-838,terceros,760,Rolls-Royce,Wraith,12,Rojo,Cuesta Cayetano Rocamora 88\nAlmeria 48678,Guadalajara,Molina de Aragon
+67a0f8278d8acdc8201d78bf,35967758J,Marino,Bru,54,31,270-888-279,todo riesgo con franquicia,490,Lexus,ES,3,Negro,Plaza de Pio Aguado 12\nAlava 04887,Lugo,Lugo
+67a0f8278d8acdc8201d78c0,49707224S,Narcisa,Vara,43,23,217-566-865,terceros ampliado,490,Mitsubishi,Eclipse Cross,3,Azul,Pasaje de Roberta Rossello 51\nCantabria 51105,Jaen,Linares
+67a0f8278d8acdc8201d78c1,70177758C,Jose Luis,Murillo,60,17,320-744-918,terceros ampliado,730,Kia,Rio,11,Marron,C de Jaime Aliaga 1\nBarcelona 09154,Soria,San Esteban de Gormaz
+67a0f8278d8acdc8201d78c2,98848079J,Humberto,Nicolau,20,1,005-273-973,todo riesgo,1170,Mini,Paceman,19,Plata,Cuesta Eric Becerra 1\nSegovia 10201,Navarra,Estella-Lizarra
+67a0f8278d8acdc8201d78c3,70165023G,Mirta,Puente,66,32,794-145-103,todo riesgo con franquicia,520,Mazda,CX-5,4,Negro,Camino Hugo Azorin 60\nAlbacete 16672,La Rioja,Calahorra
+67a0f8278d8acdc8201d78c4,75834029Q,Regina,Pinol,24,3,734-197-754,todo riesgo,630,Peugeot,2008,1,Beige,Acceso de Sancho Guardiola 92 Piso 6 \nMalaga 18021,Badajoz,Almendralejo
+67a0f8278d8acdc8201d78c5,21684078T,Cecilio,Quevedo,50,8,096-201-858,terceros ampliado,520,Land Rover,Defender,4,Blanco,Rambla de Perlita Santos 34 Apt 20 \nVizcaya 05943,Toledo,Torrijos
+67a0f8278d8acdc8201d78c6,42053368F,Mauricio,Albero,70,15,650-126-760,terceros ampliado,790,Hyundai,Santa Fe,13,Negro,Glorieta de Vilma Garcia 88\nMelilla 35648,A Coruna,Oleiros
+67a0f8278d8acdc8201d78c7,22363586L,Natalio,Puig,58,13,565-619-885,terceros,880,Fiat,Panda,16,Blanco,Avenida Maribel Maza 18 Apt 67 \nAlbacete 49669,Granada,Loja
+67a0f8278d8acdc8201d78c8,36053617J,Mariano,Gaya,26,5,126-920-681,todo riesgo,940,Volvo,S60,18,Rosa,Avenida Enrique Gomez 24 Piso 9 \nCordoba 39725,A Coruna,Oleiros
+67a0f8278d8acdc8201d78c9,96929133A,Antonio,Calvet,56,37,798-528-787,terceros,850,Porsche,Macan,15,Marron,Acceso de Julio Cesar Arenas 34 Piso 2 \nGuipuzcoa 13463,Cadiz,Cadiz
+67a0f8278d8acdc8201d78ca,71535579J,Sarita,Elias,39,7,051-312-410,todo riesgo,910,Audi,Q7,17,Blanco,Vial Calista Roldan 79\nAlava 20932,La Rioja,Calahorra
+67a0f8278d8acdc8201d78cb,52896071G,Alejandra,Bayona,34,11,027-959-709,todo riesgo con franquicia,760,Mini,Paceman,12,Azul,Pasaje Teobaldo Diaz 62\nCiudad 44221,Castellon,Castellon de la Plana
+67a0f8278d8acdc8201d78cc,36671557N,Tono,Bermudez,26,8,942-499-615,todo riesgo con franquicia,490,Alfa Romeo,4C,3,Rojo,Glorieta de Maximiano Mendez 77 Puerta 9 \nCadiz 03855,Albacete,La Roda
+67a0f8278d8acdc8201d78cd,24810093Q,Prudencio,Lorenzo,67,17,255-454-648,todo riesgo con franquicia,430,BMW,X5,1,Rojo,Camino Samu Aparicio 8\nVizcaya 48155,Soria,Soria
+67a0f8278d8acdc8201d78ce,56759436J,Eric,Ferreras,49,20,293-733-168,terceros ampliado,700,Rolls-Royce,Dawn,10,Marron,C de Maria Cristina Rios 842\nCadiz 17500,Burgos,Aranda de Duero
+67a0f8278d8acdc8201d78cf,71192786N,Wilfredo,Leon,28,4,668-135-068,terceros,640,Dacia,Stepway,8,Plata,Urbanizacion de Inocencio Tudela 81\nCadiz 41283,Asturias,Mieres
+67a0f8278d8acdc8201d78d0,10425358X,Rafael,Nevado,19,1,269-008-016,todo riesgo con franquicia,630,Rolls-Royce,Dawn,1,Blanco,Paseo Atilio Mir 93 Puerta 6 \nTarragona 05982,Segovia,Cantalejo
+67a0f8278d8acdc8201d78d1,28505054G,Efrain,Muro,19,1,780-003-785,todo riesgo con franquicia,1140,McLaren,P1,18,Rosa,Glorieta de Jacinto Grande 83\nHuelva 39562,Guipuzcoa,Zarautz
+67a0f8278d8acdc8201d78d2,10563489A,Micaela,Pinol,23,2,532-710-637,todo riesgo,810,McLaren,765LT,7,Beige,Avenida Odalis Aramburu 35\nBarcelona 20516,Burgos,Miranda de Ebro
+67a0f8278d8acdc8201d78d3,48985124T,Gilberto,Pomares,35,3,937-170-182,todo riesgo,580,Bugatti,Bolide,6,Gris,Ronda Celso Camps 629 Apt 33 \nMalaga 09974,Albacete,Hellin
+67a0f8278d8acdc8201d78d4,56096516E,Jose,Cabezas,58,28,154-668-823,todo riesgo con franquicia,790,Opel,Astra,13,Verde,Urbanizacion Aranzazu Planas 60 Apt 58 \nNavarra 11257,Soria,San Esteban de Gormaz
+67a0f8278d8acdc8201d78d5,41376387P,Marcelo,Lujan,39,6,651-146-314,terceros,850,Ford,Mustang,15,Marron,Glorieta Mamen Haro 1\nMalaga 32634,Badajoz,Don Benito
+67a0f8278d8acdc8201d78d6,25121511Z,Noe,Hervas,41,3,268-783-235,todo riesgo,520,Mini,Convertible,4,Azul,Pasaje Samu Barrena 88 Piso 5 \nSevilla 07596,Ourense,Ribadavia
+67a0f8278d8acdc8201d78d7,58693472W,Bautista,Roldan,21,1,223-975-375,terceros,630,Seat,Ateca,1,Azul,Glorieta de Alcides Asensio 58 Apt 38 \nBaleares 30616,Girona,Figueres
+67a0f8278d8acdc8201d78d8,81230236D,Artemio,Vazquez,31,6,853-763-553,terceros ampliado,550,BMW,Serie 3,5,Plata,Glorieta de Asdrubal Saenz 98\nBaleares 19162,Palencia,Villamuriel de Cerrato
+67a0f8278d8acdc8201d78d9,51315116T,Salome,Garriga,51,27,508-527-209,terceros ampliado,970,BMW,X3,19,Rosa,Avenida de Rodrigo Baquero 53 Puerta 5 \nCaceres 06802,Soria,Soria
+67a0f8278d8acdc8201d78da,26168947F,Catalina,Exposito,38,10,052-351-683,terceros ampliado,820,Chevrolet,Bolt,14,Blanco,Ronda Maria Pilar Barroso 62 Apt 26 \nJaen 40414,Cordoba,Lucena
+67a0f8278d8acdc8201d78db,64419904D,Alcides,Millan,56,19,769-628-298,terceros,430,Lamborghini,Urus,1,Gris,Callejon de Romulo Galindo 666\nCiudad 44362,Vizcaya,Portugalete
+67a0f8278d8acdc8201d78dc,51379007C,Jordi,Armas,56,38,917-452-602,terceros ampliado,700,Dacia,Stepway,10,Plata,Pasaje de Jenaro Tirado 873 Piso 5 \nCuenca 52083,Vizcaya,Getxo
+67a0f8278d8acdc8201d78dd,49842240K,Aureliano,Merino,27,8,851-528-690,terceros ampliado,850,Mitsubishi,Lancer,15,Marron,Paseo Heliodoro Acero 274\nNavarra 22073,Burgos,Burgos
+67a0f8278d8acdc8201d78de,97233763K,Pascual,Milla,26,7,822-091-224,terceros,550,Dacia,Sandero,5,Beige,Canada Maria Cristina Roman 52 Puerta 0 \nBurgos 06751,Zaragoza,Tarazona
+67a0f8278d8acdc8201d78df,96111069A,Cristobal,Valero,19,1,671-211-806,todo riesgo,780,Mazda,CX-30,6,Marron,Glorieta de Heriberto Bernat 94\nHuesca 05376,Alicante,Torrevieja
+67a0f8278d8acdc8201d78e0,16378823V,Olivia,Navarro,43,16,315-460-923,todo riesgo,430,Lamborghini,Murcielago,1,Verde,Plaza Aitor Roldan 88 Puerta 6 \nGirona 33064,Cantabria,Castro Urdiales
+67a0f8278d8acdc8201d78e1,14334677L,Marcelo,Nunez,52,1,906-579-369,todo riesgo con franquicia,430,Volkswagen,Passat,1,Blanco,Avenida Juan Bautista Diaz 36\nValencia 48125,Guadalajara,El Casar
+67a0f8278d8acdc8201d78e2,12602071A,Elvira,Madrid,66,18,167-971-066,todo riesgo,970,Mitsubishi,Outlander,19,Marron,Callejon de Eloisa Bolanos 74 Puerta 9 \nSanta Cruz de Tenerife 33586,Cordoba,Lucena
+67a0f8278d8acdc8201d78e3,18123387P,Tania,Menendez,70,33,736-961-436,todo riesgo,640,Jaguar,I-Pace,8,Marron,Pasaje Teodosio Berenguer 36\nGuipuzcoa 08424,Cadiz,Algeciras
+67a0f8278d8acdc8201d78e4,68759826S,Marcia,Catala,20,2,406-399-433,todo riesgo,870,Kia,Rio,9,Azul,Alameda Marcos Campillo 71\nOurense 29560,Alava,Salvatierra/Agurain
+67a0f8278d8acdc8201d78e5,22003284N,Liliana,Alvarado,46,16,894-169-733,todo riesgo con franquicia,520,Aston Martin,Vantage,4,Beige,Avenida de Nando Escribano 78\nAlbacete 21597,Barcelona,Hospitalet de Llobregat
+67a0f8278d8acdc8201d78e6,54255427Z,Virgilio,Rocamora,51,25,733-080-504,terceros,520,BMW,Serie 3,4,Rosa,Pasaje de Bernardita Quintanilla 6 Puerta 6 \nPontevedra 38383,Jaen,Ubeda
+67a0f8278d8acdc8201d78e7,82376485F,Isabela,Andres,35,13,514-218-127,todo riesgo,820,Suzuki,Jimny,14,Beige,Avenida de Ema Mascaro 8 Apt 50 \nBurgos 14020,Segovia,Cantalejo
+67a0f8278d8acdc8201d78e8,15252661G,Beatriz,Chacon,48,16,744-048-563,terceros ampliado,1000,Citroen,C5,20,Plata,Urbanizacion de Hernando Oliver 70 Apt 30 \nZamora 06494,Huelva,Huelva
+67a0f8278d8acdc8201d78e9,97291543W,Agustina,Hidalgo,23,5,138-951-861,todo riesgo,990,Lamborghini,Aventador,13,Verde,Vial Blanca Pozo 263\nCuenca 29177,Albacete,Almansa
+67a0f8278d8acdc8201d78ea,67654280X,Victor Manuel,Peiro,63,21,837-540-098,terceros,1000,Jaguar,XE,20,Negro,Canada de Jacinto Pages 44\nBadajoz 39822,Zaragoza,Tarazona
+67a0f8278d8acdc8201d78eb,93873933P,Africa,Romeu,54,12,041-933-731,terceros,910,Mitsubishi,Pajero,17,Blanco,Camino de Amor Riera 59\nToledo 14484,Caceres,Navalmoral de la Mata
+67a0f8278d8acdc8201d78ec,20834229R,Pablo,Ramon,56,33,694-300-996,terceros ampliado,670,Alfa Romeo,Giulietta,9,Negro,Calle Candelaria Pujol 25\nPalencia 09565,Huesca,Barbastro
+67a0f8278d8acdc8201d78ed,36574590J,Bernardo,Julian,58,3,546-573-705,terceros ampliado,520,Seat,Ibiza,4,Rojo,Pasadizo de Eutimio Huerta 35 Piso 4 \nMurcia 45495,Jaen,Linares
+67a0f8278d8acdc8201d78ee,56615571J,Anastasia,Melero,40,9,740-269-602,todo riesgo,820,Dacia,Logan,14,Beige,Callejon Nilda Abella 8\nMalaga 04642,Murcia,Cartagena
+67a0f8278d8acdc8201d78ef,77661425Q,Pepito,Cortes,56,35,469-822-514,terceros,610,Mazda,MX-5,7,Blanco,Vial de Chelo Rosa 181 Apt 19 \nZamora 26112,Valladolid,Valladolid
+67a0f8278d8acdc8201d78f0,37469779L,Olga,Maestre,54,35,765-785-111,terceros,940,Skoda,Fabia,18,Gris,Acceso Glauco Iglesia 22 Puerta 2 \nValladolid 47317,Palencia,Aguilar de Campoo
+67a0f8278d8acdc8201d78f1,71883471F,Maximo,Muro,49,5,449-023-949,terceros ampliado,460,Mitsubishi,Outlander,2,Azul,Via Adriana Requena 8\nAlmeria 22541,Navarra,Baranain
+67a0f8278d8acdc8201d78f2,54360599F,Camilo,Ariza,68,11,454-788-709,todo riesgo,970,Jeep,Wrangler,19,Verde,Vial de Carolina Santos 690 Apt 41 \nTarragona 39400,Leon,Ponferrada
+67a0f8278d8acdc8201d78f3,62113123J,Cirino,Blasco,42,18,145-806-357,todo riesgo,760,Ferrari,Portofino,12,Plata,Pasadizo Marina Anglada 899\nVizcaya 09744,Lugo,Lugo
+67a0f8278d8acdc8201d78f4,56386159A,Teofilo,Sierra,68,47,451-058-951,todo riesgo,550,Mazda,MX-5,5,Plata,Acceso de Aura Gil 971\nMalaga 32174,Madrid,Fuenlabrada
+67a0f8278d8acdc8201d78f5,21894360Q,Caridad,Estevez,64,46,167-162-616,todo riesgo,880,Skoda,Kodiaq,16,Gris,Urbanizacion de Zoraida Jauregui 623\nAlmeria 18218,Barcelona,Sabadell
+67a0f8278d8acdc8201d78f6,25022091T,Julie,Vigil,40,16,948-172-042,todo riesgo con franquicia,610,Mazda,CX-5,7,Verde,C de Leopoldo Sanmartin 4\nCastellon 08488,Teruel,Calanda
+67a0f8278d8acdc8201d78f7,72981700D,Cirino,Elorza,33,1,501-122-397,todo riesgo,700,Ferrari,488,10,Blanco,Plaza Eladio Vara 12\nLa Rioja 35090,Madrid,Leganes
+67a0f8278d8acdc8201d78f8,56991026Q,Calixta,Lorenzo,31,11,214-123-710,terceros ampliado,880,Alfa Romeo,Giulia,16,Marron,Urbanizacion de Carlos Amores 22\nLa Rioja 51880,Burgos,Briviesca
+67a0f8278d8acdc8201d78f9,24319705B,Matilde,Manso,55,22,311-828-017,todo riesgo,640,Jeep,Cherokee,8,Beige,Vial de Selena Castro 15\nCadiz 14602,Almeria,Almeria
+67a0f8278d8acdc8201d78fa,11595671Z,Teodosio,Malo,24,2,658-752-274,todo riesgo,900,McLaren,GT,10,Rojo,Alameda Almudena Torrijos 94\nTarragona 29838,Cuenca,Mota del Cuervo
+67a0f8278d8acdc8201d78fb,30559966G,Magdalena,Iniesta,44,4,880-973-909,todo riesgo,580,Volvo,XC90,6,Beige,Pasaje de Pilar Marquez 40 Piso 7 \nAlava 28598,Burgos,Briviesca
+67a0f8278d8acdc8201d78fc,87916267D,Nilda,Jaume,41,3,953-750-643,terceros ampliado,820,Kia,Sorento,14,Gris,Plaza Marina Castells 25\nMadrid 09803,Islas Baleares,Llucmajor
+67a0f8278d8acdc8201d78fd,34347871Q,Joel,Benavides,43,24,840-144-831,todo riesgo,1000,Nissan,X-Trail,20,Rojo,Urbanizacion de Teobaldo Casares 36 Apt 94 \nSoria 16326,Sevilla,Ecija
+67a0f8278d8acdc8201d78fe,34115087S,Lorenza,Ochoa,50,29,363-315-367,todo riesgo,640,Hyundai,Tucson,8,Rojo,Acceso Adelia Canet 98\nAlicante 12612,Cordoba,Montilla
+67a0f8278d8acdc8201d78ff,10992292V,Tatiana,Garces,64,8,407-425-897,terceros,820,Audi,Q7,14,Rojo,Canada de Alma Roura 22 Apt 23 \nSevilla 19040,Huelva,Lepe
+67a0f8278d8acdc8201d7900,57185972Z,Saturnino,Alvaro,30,12,100-060-616,todo riesgo,940,Bugatti,Divo,18,Beige,Avenida Inmaculada Arana 99\nLas Palmas 51634,Burgos,Miranda de Ebro
+67a0f8278d8acdc8201d7901,48863968P,Sara,Romeu,18,0,823-662-599,todo riesgo,1020,Audi,A4,14,Negro,Acceso de Eligio Duenas 10 Puerta 5 \nHuesca 28253,Cantabria,Castro Urdiales
+67a0f8278d8acdc8201d7902,72478082E,Aranzazu,Vaquero,65,13,447-284-586,terceros ampliado,550,Bentley,Flying Spur,5,Plata,Callejon de Purificacion Tamayo 505\nGuadalajara 48641,Lugo,Vilalba
+67a0f8278d8acdc8201d7903,86667214V,Teodora,Carmona,54,17,678-659-514,terceros ampliado,550,Kia,Rio,5,Verde,Vial de Ruben Pacheco 502 Piso 3 \nNavarra 42221,Jaen,Andujar
+67a0f8278d8acdc8201d7904,78841638F,Alexandra,Cabo,19,1,393-841-348,terceros ampliado,1110,Honda,HR-V,17,Plata,Avenida Tono Castillo 33 Piso 5 \nCastellon 46539,Islas Baleares,Ibiza
+67a0f8278d8acdc8201d7905,92132740F,Beatriz,Redondo,27,7,270-713-233,terceros ampliado,520,Lexus,ES,4,Rosa,Calle Manuelita Llabres 7\nHuelva 21461,Toledo,Sesena
+67a0f8278d8acdc8201d7906,91306067T,Gonzalo,Leiva,24,1,537-560-086,terceros,960,Suzuki,Swift,12,Gris,Calle Cristian Mancebo 6 Apt 26 \nLas Palmas 33817,Guadalajara,El Casar
+67a0f8288d8acdc8201d7907,58428300C,Jesusa,Bernal,27,2,214-313-247,terceros ampliado,940,Dacia,Stepway,18,Gris,Ronda Raimundo Muniz 37 Puerta 9 \nLas Palmas 16751,Castellon,Almazora
+67a0f8288d8acdc8201d7908,11792231Q,Georgina,Alcazar,26,5,274-700-581,terceros ampliado,970,McLaren,GT,19,Azul,Vial de Pedro Colomer 2 Apt 77 \nAlava 14324,Vizcaya,Bilbao
+67a0f8288d8acdc8201d7909,60222759L,Jose Francisco,Rodriguez,66,42,598-015-431,todo riesgo con franquicia,430,Aston Martin,Rapide,1,Rosa,Cuesta Gregorio Vinas 7 Apt 22 \nPontevedra 19190,Vizcaya,Bilbao
+67a0f8288d8acdc8201d790a,53210238Z,Anastasia,Izaguirre,35,14,112-930-618,terceros ampliado,790,Subaru,Outback,13,Verde,Avenida Inigo Llabres 20\nBaleares 36515,Tarragona,Tortosa
+67a0f8288d8acdc8201d790b,47811763F,Timoteo,Castilla,59,14,611-086-927,terceros ampliado,580,Mercedes-Benz,Clase C,6,Verde,Pasadizo Loreto Duarte 462 Piso 4 \nAlbacete 29316,Guipuzcoa,Irun
+67a0f8288d8acdc8201d790c,99630670Y,Edgar,Serra,63,44,707-215-516,todo riesgo,430,Bentley,Flying Spur,1,Rosa,Canada Mercedes Cabo 35\nValladolid 23272,Granada,Baza
+67a0f8288d8acdc8201d790d,92208770E,Hugo,Merino,48,5,023-022-921,todo riesgo con franquicia,580,Toyota,Yaris,6,Negro,Alameda Ruperta Cazorla 60 Apt 04 \nAlbacete 09981,Segovia,El Espinar
+67a0f8288d8acdc8201d790e,96080004B,Milagros,Priego,63,21,315-387-569,terceros,880,Bugatti,Bolide,16,Plata,Urbanizacion de Dominga Pacheco 6 Piso 1 \nHuelva 35954,Albacete,Villarrobledo
+67a0f8288d8acdc8201d790f,96866438Y,Cosme,Carranza,23,2,597-147-091,todo riesgo,930,Subaru,Ascent,11,Rosa,Via de Pepe Calzada 464\nBarcelona 15779,Huelva,Ayamonte
+67a0f8288d8acdc8201d7910,39481290L,Benigna,Torrent,36,2,790-908-538,todo riesgo,940,Opel,Corsa,18,Verde,Canada de Amador Roda 946 Puerta 5 \nPontevedra 21804,Granada,Granada
+67a0f8288d8acdc8201d7911,68693839S,Pascual,Caparros,24,5,035-456-245,terceros,1170,Fiat,500,19,Rosa,Vial de Alex Santos 48\nCantabria 37656,Castellon,Burriana
+67a0f8288d8acdc8201d7912,50142612J,Elena,Guillen,49,1,531-237-631,todo riesgo con franquicia,730,Kia,Rio,11,Rosa,Camino Mar Montes 845 Puerta 5 \nMadrid 48249,Soria,San Esteban de Gormaz
+67a0f8288d8acdc8201d7913,38924417E,Isabel,Agudo,24,2,636-928-839,terceros,750,Volkswagen,Polo,5,Gris,Glorieta Selena Huertas 81 Piso 4 \nSanta Cruz de Tenerife 43952,Granada,Granada
+67a0f8288d8acdc8201d7914,16441855Y,Fidel,Salcedo,45,7,723-375-723,todo riesgo con franquicia,910,Porsche,Taycan,17,Plata,C de Poncio Pedrero 2\nAvila 32784,Leon,Astorga
+67a0f8288d8acdc8201d7915,12938427F,Eric,Anglada,48,27,581-873-407,todo riesgo con franquicia,670,BMW,Serie 1,9,Gris,Camino Pascuala Cordero 766 Piso 8 \nGranada 06155,Huesca,Jaca
+67a0f8288d8acdc8201d7916,36935051H,Pastor,Rebollo,25,1,411-253-982,todo riesgo con franquicia,460,Lexus,NX,2,Beige,Canada de Luz Merino 5\nSevilla 18918,Alava,Oyon-Oion
+67a0f8288d8acdc8201d7917,23724995N,Pablo,Madrigal,28,9,109-712-253,terceros,1000,Hyundai,Tucson,20,Rosa,Avenida Sebastian Alfaro 210 Puerta 9 \nGuipuzcoa 08121,Burgos,Medina de Pomar
+67a0f8288d8acdc8201d7918,37800660E,Narcisa,Puga,49,7,317-169-809,terceros,910,Alfa Romeo,4C,17,Verde,Cuesta de Custodio Gallego 923\nLa Coruna 31741,Valencia,Torrent
+67a0f8288d8acdc8201d7919,70553145R,Noelia,Chacon,48,19,931-377-197,todo riesgo con franquicia,640,Citroen,C1,8,Gris,Acceso de Macaria Carrion 6\nAlicante 33420,Soria,Olvega
+67a0f8288d8acdc8201d791a,61959423E,Abraham,Alcantara,47,20,150-457-333,terceros,430,Renault,Captur,1,Verde,Avenida Javier Sanchez 24\nPontevedra 22464,Cuenca,San Clemente
+67a0f8288d8acdc8201d791b,42643044D,Morena,Herrero,46,13,212-017-662,todo riesgo con franquicia,550,Jaguar,F-Pace,5,Negro,Via de Simon Gonzalez 59 Apt 32 \nBaleares 44360,Zamora,Benavente
+67a0f8288d8acdc8201d791c,40020488M,Vinicio,Juan,20,2,805-302-794,terceros ampliado,1110,Kia,Sorento,17,Azul,C de Manuel Villa 9 Apt 02 \nHuelva 06095,Huelva,Lepe
+67a0f8288d8acdc8201d791d,14685190N,Pepito,Viana,65,21,274-969-760,terceros ampliado,520,Lamborghini,Murcielago,4,Beige,C de Isidro Guardiola 3\nOurense 47826,Valencia,Valencia
+67a0f8288d8acdc8201d791e,89055449R,Venceslas,Figueroa,62,35,345-256-240,terceros ampliado,1000,Volkswagen,Passat,20,Rosa,Canada Africa Corral 72 Apt 27 \nOurense 24799,Guadalajara,Alovera
+67a0f8288d8acdc8201d791f,91359755Y,Leon,Alcantara,37,3,846-038-917,terceros ampliado,730,Skoda,Kodiaq,11,Marron,Calle de Segismundo Lobo 13 Apt 99 \nAlava 01711,Girona,Olot
+67a0f8288d8acdc8201d7920,40023166S,Celestino,Toledo,50,11,348-871-827,terceros,880,Volvo,XC90,16,Rosa,Avenida Azahar Vazquez 66 Piso 1 \nLas Palmas 07022,Guadalajara,El Casar
+67a0f8288d8acdc8201d7921,24130779F,Feliciano,Sabater,29,9,607-678-551,todo riesgo con franquicia,730,Rolls-Royce,Phantom,11,Marron,Rambla de Silvio Barranco 7 Puerta 9 \nMadrid 37973,Salamanca,Ciudad Rodrigo
+67a0f8288d8acdc8201d7922,75159467K,Lucila,Serra,39,11,193-402-341,terceros ampliado,910,Jeep,Cherokee,17,Rojo,Acceso de Salvador Abril 88\nCaceres 05139,Alava,Vitoria-Gasteiz
+67a0f8288d8acdc8201d7923,18980217L,Maria Pilar,Palacios,48,6,694-711-278,terceros ampliado,430,Mini,Cooper,1,Negro,Plaza de Bernardino Penas 1\nOurense 11180,Toledo,Sesena
+67a0f8288d8acdc8201d7924,92055012L,Nadia,Pena,52,33,035-263-494,terceros,670,Mercedes-Benz,Clase S,9,Verde,Vial Charo Gargallo 57 Puerta 4 \nSanta Cruz de Tenerife 01191,Cuenca,San Clemente
+67a0f8288d8acdc8201d7925,19070894F,Dimas,Alarcon,47,13,523-535-740,terceros ampliado,640,Mini,Convertible,8,Negro,Cuesta de Yolanda Aguila 96\nGuadalajara 31559,Barcelona,Terrassa
+67a0f8288d8acdc8201d7926,38545995L,Liliana,Jurado,65,43,531-301-332,terceros ampliado,910,Skoda,Octavia,17,Negro,C de Angelino Pelaez 6 Piso 9 \nNavarra 05285,Lugo,Monforte de Lemos
+67a0f8288d8acdc8201d7927,38415889R,Samu,Ibarra,67,44,039-518-461,terceros ampliado,850,Ferrari,Roma,15,Azul,Avenida de Jose Miguel Fortuny 99\nLleida 31829,Badajoz,Almendralejo
+67a0f8288d8acdc8201d7928,39546227G,Severino,Rocha,55,13,321-434-612,todo riesgo,790,Mitsubishi,Outlander,13,Gris,Avenida de Xavier Frias 19 Piso 0 \nBaleares 27964,Santa Cruz de Tenerife,Arona
+67a0f8288d8acdc8201d7929,53525544J,Jose Angel,Saez,19,1,536-060-678,terceros,900,Ford,Fiesta,10,Blanco,Glorieta Victoria Aragones 5 Piso 7 \nCaceres 30001,A Coruna,Naron
+67a0f8288d8acdc8201d792a,29856569Q,Herminia,Barrio,70,28,164-794-831,terceros ampliado,760,Honda,CR-V,12,Rosa,Paseo de Crescencia Cuesta 5 Apt 87 \nSegovia 25480,Zaragoza,Calatayud
+67a0f8288d8acdc8201d792b,19146590X,Josep,Vinas,38,17,171-982-312,todo riesgo,760,Mazda,CX-30,12,Gris,Rambla de German Vina 65 Piso 3 \nCaceres 17252,Guipuzcoa,Irun
+67a0f8288d8acdc8201d792c,83492691T,Telmo,Gracia,58,27,159-299-065,todo riesgo,520,Toyota,Prius,4,Rojo,Glorieta de Anibal Anton 34\nHuesca 21650,Alicante,Benidorm
+67a0f8288d8acdc8201d792d,57976233H,Nadia,Ibarra,67,24,510-776-312,todo riesgo,940,Opel,Insignia,18,Azul,Pasadizo Guadalupe Noguera 58 Apt 04 \nGirona 48564,Zaragoza,Utebo
+67a0f8288d8acdc8201d792e,55668370K,Emigdio,Morell,47,14,826-620-701,todo riesgo,760,Lexus,RX,12,Gris,Glorieta de Ricarda Sanchez 39 Apt 29 \nHuesca 34467,Girona,Girona
+67a0f8288d8acdc8201d792f,20851922F,Benita,Salva,51,1,728-350-057,todo riesgo con franquicia,730,Mitsubishi,Mirage,11,Plata,C de Vidal Macias 68 Apt 83 \nToledo 02954,Segovia,Cuellar
+67a0f8288d8acdc8201d7930,43010953X,Aitana,Iniguez,29,2,431-821-174,terceros ampliado,430,Peugeot,208,1,Blanco,Acceso Montserrat Blanch 489\nLa Rioja 40127,Albacete,La Roda
+67a0f8288d8acdc8201d7931,90659573J,Amando,Batalla,38,8,615-764-289,terceros,430,Bugatti,Chiron,1,Gris,Pasaje Ivan Montoya 24\nBadajoz 09009,Vizcaya,Barakaldo
+67a0f8288d8acdc8201d7932,90083294E,Flora,Rodenas,42,24,006-894-347,terceros ampliado,850,Peugeot,508,15,Marron,Camino Carlos Julian 924\nAvila 08576,Cuenca,Quintanar del Rey
+67a0f8288d8acdc8201d7933,25445110A,Gaspar,Valenciano,54,19,385-350-990,todo riesgo,880,Skoda,Fabia,16,Rosa,Pasaje de Lucio Llamas 9 Puerta 6 \nAlava 42597,Jaen,Linares
+67a0f8288d8acdc8201d7934,94864850Q,Georgina,Iborra,46,17,289-722-102,todo riesgo,880,Ferrari,488,16,Rojo,Canada Socorro Santamaria 7\nCastellon 11854,Zaragoza,Utebo
+67a0f8288d8acdc8201d7935,66803973J,Ruben,Arjona,36,4,008-859-295,todo riesgo,670,Toyota,Camry,9,Plata,Urbanizacion de Agueda Pou 46 Puerta 6 \nLa Rioja 30583,Leon,Leon
+67a0f8288d8acdc8201d7936,27042948P,Jeronimo,Aranda,43,23,110-588-527,terceros ampliado,970,Fiat,Punto,19,Gris,Glorieta Nieves Prats 856\nTeruel 28500,A Coruna,Ferrol
+67a0f8288d8acdc8201d7937,30475956J,Evita,Villanueva,70,21,548-392-745,todo riesgo con franquicia,940,Fiat,Tipo,18,Plata,Glorieta de Lorena Lledo 80 Apt 04 \nBurgos 26490,Avila,Las Navas del Marques
+67a0f8288d8acdc8201d7938,34387049W,Yago,Berenguer,23,5,058-605-335,terceros ampliado,870,Hyundai,Kona,9,Azul,Canada Marisa Berrocal 224 Apt 79 \nAsturias 33413,Valladolid,Arroyo de la Encomienda
+67a0f8288d8acdc8201d7939,70564451Z,Luisa,Carro,24,1,413-614-469,terceros ampliado,750,Bentley,Continental GT,5,Negro,Calle Domitila Mas 276 Puerta 5 \nBaleares 03607,Teruel,Teruel
+67a0f8288d8acdc8201d793a,22145438A,Ainoa,Aroca,68,32,323-742-355,todo riesgo con franquicia,850,Aston Martin,DB11,15,Verde,Pasaje de Heliodoro Vilanova 79 Piso 6 \nLa Coruna 44247,Cordoba,Puente Genil
+67a0f8288d8acdc8201d793b,87046066J,Nelida,Tamayo,26,8,030-543-670,terceros ampliado,490,Seat,Leon,3,Blanco,Vial de Jose Manuel Ferrandiz 9 Apt 16 \nMalaga 17112,Malaga,Marbella
+67a0f8288d8acdc8201d793c,63811245E,Rocio,Cobo,53,19,302-623-704,terceros,670,Nissan,Qashqai,9,Blanco,C de Blas Oliveras 460 Apt 84 \nGuadalajara 27394,Sevilla,Ecija
+67a0f8288d8acdc8201d793d,92865615X,Virginia,Ortiz,66,43,163-546-997,todo riesgo con franquicia,760,Seat,Arona,12,Negro,Paseo de Quirino Soriano 3 Puerta 4 \nZaragoza 51482,Castellon,Burriana
+67a0f8288d8acdc8201d793e,68551352J,Joaquina,Pi,22,3,545-131-475,todo riesgo,900,Mazda,3,10,Negro,Alameda Jacinta Figueroa 1 Apt 78 \nCastellon 45706,Teruel,Teruel
+67a0f8288d8acdc8201d793f,24376715G,Daniel,Cordero,18,0,932-422-384,todo riesgo,990,Peugeot,208,13,Verde,Pasadizo de Ramon Villar 41\nAsturias 19371,Santa Cruz de Tenerife,San Cristobal de La Laguna
+67a0f8288d8acdc8201d7940,77077403X,Fernanda,Anglada,47,22,173-488-112,terceros ampliado,790,Skoda,Octavia,13,Negro,Rambla Leocadio Barragan 493\nSalamanca 14268,Cuenca,Cuenca
+67a0f8288d8acdc8201d7941,49568589R,Cecilio,Morata,21,3,935-862-131,todo riesgo,1170,Volkswagen,Golf,19,Gris,Paseo de Jose Luis Trillo 284\nAlmeria 10224,Barcelona,Sabadell
+67a0f8288d8acdc8201d7942,48900474J,Jacinto,Quero,47,4,678-084-696,todo riesgo,700,Toyota,Yaris,10,Blanco,Calle Mario Blanco 88\nBurgos 10963,Cordoba,Montilla
+67a0f8288d8acdc8201d7943,66976338Q,Curro,Coronado,60,17,748-045-220,todo riesgo,640,Peugeot,308,8,Plata,Paseo de Lilia Rebollo 58\nSalamanca 02393,Burgos,Briviesca
+67a0f8288d8acdc8201d7944,45595920F,Gema,Reyes,62,25,753-868-797,terceros,790,Dacia,Duster,13,Azul,Vial Fortunato Chaves 914\nTarragona 20445,Lleida,Lleida
+67a0f8288d8acdc8201d7945,62125566J,Ciriaco,Flores,69,40,921-213-721,terceros,880,Renault,Kadjar,16,Rojo,Vial Petrona Gisbert 3 Apt 38 \nBarcelona 04143,Islas Baleares,Manacor
+67a0f8288d8acdc8201d7946,70781613X,Abigail,Sanjuan,31,12,349-782-286,terceros ampliado,580,Jaguar,XF,6,Azul,Vial de Ema Ramon 51 Puerta 4 \nValencia 44969,Navarra,Pamplona
+67a0f8288d8acdc8201d7947,61275779F,Jesus,Caro,70,32,765-555-759,terceros ampliado,490,Lexus,NX,3,Plata,Pasaje Aranzazu Duenas 93 Puerta 7 \nVizcaya 38271,Alava,Oyon-Oion
+67a0f8288d8acdc8201d7948,84792817M,Valero,Sanabria,60,18,719-950-597,terceros,550,Fiat,Punto,5,Azul,Urbanizacion de Calixto Puig 728\nCuenca 41506,Barcelona,Terrassa
+67a0f8288d8acdc8201d7949,42955545D,Oriana,Anton,51,5,937-436-593,terceros,850,Chevrolet,Bolt,15,Gris,Plaza de Alberto Huguet 24\nSoria 42489,Leon,Villaquilambre
+67a0f8288d8acdc8201d794a,52656223T,Hector,Mas,29,6,627-759-798,todo riesgo,460,Jeep,Wrangler,2,Gris,Plaza de Tere Coello 33 Apt 27 \nCantabria 07650,Caceres,Trujillo
+67a0f8288d8acdc8201d794b,47789897Z,Benita,Sanchez,41,16,353-500-491,todo riesgo con franquicia,490,Bugatti,Bolide,3,Negro,Cuesta Silvestre Mascaro 71\nCordoba 47176,Murcia,Molina de Segura
+67a0f8288d8acdc8201d794c,82538627E,Ester,Peralta,62,11,939-593-453,todo riesgo,670,McLaren,P1,9,Marron,Plaza Inocencio Enriquez 74 Apt 17 \nCiudad 19751,Zamora,Morales del Vino
+67a0f8288d8acdc8201d794d,67857138P,Duilio,Vera,55,3,975-156-869,todo riesgo,520,Mitsubishi,Pajero,4,Negro,Vial de Luis Angel Juan 428\nLeon 44674,Ciudad Real,Valdepenas
+67a0f8288d8acdc8201d794e,23194375W,Abigail,Tenorio,27,7,899-023-999,todo riesgo,640,Ford,Explorer,8,Beige,Urbanizacion Ceferino Rivas 29\nOurense 11062,Huelva,Huelva
+67a0f8288d8acdc8201d794f,30192712Z,Yesica,Galan,34,4,226-495-600,terceros ampliado,430,Ford,Fiesta,1,Verde,Acceso de Juan Carlos Aguirre 4 Piso 8 \nCeuta 16793,Badajoz,Merida
+67a0f8288d8acdc8201d7950,26603640T,Maria Cristina,Araujo,43,11,279-164-951,terceros,970,Volvo,V60,19,Rojo,Pasaje de Hugo Ayuso 4 Puerta 3 \nLa Rioja 44158,Burgos,Briviesca
+67a0f8288d8acdc8201d7951,39224326B,Luis,Lobo,69,36,583-529-772,terceros,820,Bugatti,Chiron,14,Verde,Callejon Fulgencio Exposito 29 Puerta 0 \nJaen 21786,Santa Cruz de Tenerife,Puerto de la Cruz
+67a0f8288d8acdc8201d7952,77364959C,Macaria,Paez,59,22,187-614-862,terceros,610,Lexus,ES,7,Rojo,Pasaje de Juan Antonio Collado 94 Apt 10 \nBaleares 10199,Las Palmas,Las Palmas de Gran Canaria
+67a0f8288d8acdc8201d7953,14638266P,Andres Felipe,Vigil,32,11,058-158-359,todo riesgo,640,Skoda,Superb,8,Rosa,Rambla Ernesto Baro 7\nNavarra 50396,Las Palmas,Arucas
+67a0f8288d8acdc8201d7954,56024780T,Felipa,Martin,59,26,446-312-578,todo riesgo,430,McLaren,720S,1,Plata,Glorieta de Regulo Gamez 18 Apt 44 \nVizcaya 40012,Granada,Motril
+67a0f8288d8acdc8201d7955,33249066J,Delia,Rovira,26,5,524-315-474,todo riesgo con franquicia,820,Aston Martin,DBS Superleggera,14,Rojo,Cuesta de Baldomero Sanabria 113 Piso 6 \nAlicante 36041,Lugo,Monforte de Lemos
+67a0f8288d8acdc8201d7956,68122115W,Dani,Coello,65,8,120-174-348,todo riesgo con franquicia,760,Suzuki,Swift,12,Plata,Paseo Encarnacion Rio 785\nCiudad 05628,Salamanca,Santa Marta de Tormes
+67a0f8288d8acdc8201d7957,67049508T,Fito,Ropero,35,17,877-376-191,todo riesgo con franquicia,880,Nissan,X-Trail,16,Rojo,Plaza Agustina Tello 95 Puerta 9 \nToledo 04914,Teruel,Andorra
+67a0f8288d8acdc8201d7958,17744496L,Roldan,Ferrer,46,19,948-556-102,todo riesgo,610,Suzuki,SX4,7,Beige,Glorieta Jafet Cadenas 95 Piso 0 \nGuadalajara 28916,Asturias,Gijon
+67a0f8288d8acdc8201d7959,73133716H,Cipriano,Ibanez,27,4,137-912-496,todo riesgo con franquicia,520,Mitsubishi,Eclipse Cross,4,Rosa,C de Aurelia Aguilo 40\nTarragona 12147,Leon,San Andres del Rabanedo
+67a0f8288d8acdc8201d795a,26836429Y,Noa,Carrillo,45,19,062-916-666,terceros ampliado,700,Kia,Soul,10,Rojo,Plaza de Francisco Jose Mulet 32\nCeuta 34628,Jaen,Martos
+67a0f8288d8acdc8201d795b,94595984C,Reyes,Duque,23,4,260-180-812,todo riesgo,1020,Seat,Ibiza,14,Beige,Rambla Baldomero Rey 5\nHuesca 13006,Badajoz,Badajoz
+67a0f8288d8acdc8201d795c,51486117L,Marisol,Vara,66,29,128-435-748,terceros,970,Chevrolet,Equinox,19,Plata,Urbanizacion de Chuy Valls 33 Apt 87 \nCaceres 06252,Barcelona,Terrassa
+67a0f8288d8acdc8201d795d,31247935C,Julian,Mascaro,24,2,192-706-571,todo riesgo con franquicia,780,Mazda,MX-5,6,Azul,Via de Corona Gomila 6 Puerta 0 \nVizcaya 49294,Alava,Llodio
+67a0f8288d8acdc8201d795e,68401022B,Miguel,Vicente,35,11,219-701-788,todo riesgo con franquicia,730,Lexus,ES,11,Negro,Pasadizo de Africa Ramirez 35 Apt 53 \nBurgos 18196,Badajoz,Almendralejo
+67a0f8288d8acdc8201d795f,97089091L,Bruno,Quintero,43,23,191-300-695,todo riesgo,700,Audi,A3,10,Rojo,Calle de Lara Amaya 92 Apt 78 \nCadiz 24256,Islas Baleares,Ibiza
+67a0f8288d8acdc8201d7960,50106958D,Lourdes,Romeu,40,16,093-041-638,terceros ampliado,550,Porsche,911,5,Negro,Camino de Angeles Tirado 72\nAlmeria 50202,Guadalajara,Azuqueca de Henares
+67a0f8288d8acdc8201d7961,98416464Q,Melchor,Nogueira,21,1,856-627-045,todo riesgo con franquicia,750,Bugatti,Divo,5,Verde,Glorieta de Jose Miguel Saldana 186 Puerta 8 \nSoria 51402,Malaga,Malaga
+67a0f8288d8acdc8201d7962,90679903B,Catalina,Tellez,19,1,942-320-929,todo riesgo,990,Chevrolet,Malibu,13,Rojo,Calle de Anabel Carmona 42\nHuesca 42408,Soria,Olvega
+67a0f8288d8acdc8201d7963,66627726S,Patricio,Vinas,29,10,189-249-946,todo riesgo,970,Renault,Captur,19,Verde,Glorieta de Ceferino Corral 1 Apt 68 \nCantabria 07277,Sevilla,Utrera
+67a0f8288d8acdc8201d7964,50684741D,Aitor,Portero,30,3,116-832-034,todo riesgo,760,Alfa Romeo,Giulietta,12,Verde,Calle Vanesa Rosa 39\nGirona 32473,Toledo,Illescas
+67a0f8288d8acdc8201d7965,19623191M,Heraclio,Menendez,42,1,820-043-451,todo riesgo,820,Bentley,Arnage,14,Beige,C de Chus Escamilla 2\nCiudad 23151,Lleida,Mollerussa
+67a0f8288d8acdc8201d7966,11240481J,Julie,Velez,20,2,557-225-420,terceros ampliado,780,Mazda,6,6,Rojo,Alameda Jacobo Carlos 616 Piso 9 \nGranada 48402,Navarra,Estella-Lizarra
+67a0f8288d8acdc8201d7967,25770595S,Corona,Bolanos,20,2,567-248-325,todo riesgo con franquicia,1020,Volvo,V60,14,Verde,Ronda de Lupe Tamarit 69 Apt 85 \nGuipuzcoa 13553,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+67a0f8288d8acdc8201d7968,29605686V,Jose Ramon,Aviles,44,26,440-237-493,todo riesgo con franquicia,790,Volvo,XC60,13,Azul,Via Gracia Llanos 96 Puerta 3 \nJaen 52019,Soria,Soria
+67a0f8288d8acdc8201d7969,52140325S,Mariana,Cordoba,45,5,319-875-805,todo riesgo con franquicia,730,Mitsubishi,Mirage,11,Azul,Pasadizo Juan Jose Saez 43\nBurgos 13755,Valladolid,Tordesillas
+67a0f8288d8acdc8201d796a,43794851E,Daniela,Avila,48,26,264-053-092,terceros,670,Ferrari,F8 Tributo,9,Blanco,Alameda Raimundo Casanova 70\nZamora 42373,Badajoz,Villanueva de la Serena
+67a0f8298d8acdc8201d796b,73119233W,Fabiana,Acuna,64,18,198-287-455,todo riesgo,850,Lamborghini,Huracán,15,Plata,Vial Jose Luis Quero 90 Puerta 3 \nGirona 36097,Las Palmas,Telde
+67a0f8298d8acdc8201d796c,68199765G,Ani,Vera,23,4,301-159-429,todo riesgo,660,BMW,Serie 3,2,Rosa,Camino Aurora Marques 45 Piso 6 \nAvila 24026,Almeria,El Ejido
+67a0f8298d8acdc8201d796d,21775840S,Felisa,Arino,35,13,412-210-336,todo riesgo con franquicia,940,Lexus,NX,18,Rojo,Alameda de Macaria Flor 530\nAlicante 24292,A Coruna,Naron
+67a0f8298d8acdc8201d796e,81829101T,Miguel,Torrens,59,18,575-022-498,todo riesgo,670,Peugeot,2008,9,Beige,Camino Adalberto Elorza 1 Puerta 5 \nGirona 20119,Huelva,Huelva
+67a0f8298d8acdc8201d796f,83350438W,Candela,Cuadrado,29,3,723-741-925,terceros,760,Mercedes-Benz,Clase C,12,Rojo,Pasadizo de Adalberto Davila 51\nZamora 18307,Asturias,Oviedo
+67a0f8298d8acdc8201d7970,60533770R,Ruth,Alfonso,52,6,814-726-030,terceros ampliado,670,Renault,Kadjar,9,Plata,Vial Daniel Pallares 6\nToledo 28775,Madrid,Mostoles
+67a0f8298d8acdc8201d7971,37102432M,Rosario,Cobo,19,1,912-132-069,terceros ampliado,690,Aston Martin,DB11,3,Negro,Rambla de Maria Jose Lorenzo 97\nCeuta 18703,Islas Baleares,Llucmajor
+67a0f8298d8acdc8201d7972,90671880S,Dimas,Sandoval,51,11,103-783-778,todo riesgo con franquicia,580,Renault,Megane,6,Rojo,Via Adalberto Paez 898\nLa Rioja 31809,Guipuzcoa,Renteria
+67a0f8298d8acdc8201d7973,79160492N,Ignacia,Jerez,19,1,902-321-734,todo riesgo con franquicia,840,Toyota,RAV4,8,Gris,Urbanizacion de Moises Casals 8 Puerta 2 \nLa Rioja 41767,Burgos,Miranda de Ebro
+67a0f8298d8acdc8201d7974,51524597C,Gil,Pedrero,61,25,092-185-041,terceros,940,Jaguar,XE,18,Gris,Camino Griselda Agullo 772\nOurense 03394,Huesca,Monzon
+67a0f8298d8acdc8201d7975,41293216M,Eligia,Julia,48,20,772-204-627,terceros ampliado,430,Jeep,Compass,1,Gris,Acceso Begona Pellicer 35 Piso 4 \nNavarra 15174,Tarragona,Tortosa
+67a0f8298d8acdc8201d7976,31539113H,Paula,Verdu,42,1,369-372-442,terceros ampliado,880,Ford,Escape,16,Rosa,Rambla de Eleuterio Fonseca 47 Piso 9 \nBadajoz 50644,Asturias,Mieres
+67a0f8298d8acdc8201d7977,71130265M,America,Pages,20,1,865-350-527,terceros ampliado,960,Chevrolet,Equinox,12,Negro,Acceso Basilio Guitart 47\nGuipuzcoa 44039,Badajoz,Almendralejo
+67a0f8298d8acdc8201d7978,61560465E,Donato,Criado,27,6,028-326-237,todo riesgo con franquicia,850,Chevrolet,Malibu,15,Rojo,Pasaje de Romulo Berrocal 36 Piso 9 \nVizcaya 21967,Burgos,Medina de Pomar
+67a0f8298d8acdc8201d7979,18684662Z,Macarena,Colomer,25,3,464-111-746,todo riesgo,850,Lamborghini,Gallardo,15,Gris,Pasaje de Baltasar Marcos 93\nHuelva 16276,Granada,Loja
+67a0f8298d8acdc8201d797a,45601974N,Maite,Tello,33,4,753-793-823,todo riesgo,910,Jaguar,XF,17,Plata,Pasaje de Pio Verdugo 843\nCastellon 48449,Alava,Oyon-Oion
+67a0f8298d8acdc8201d797b,80929373D,Paz,Polo,37,8,007-871-094,terceros ampliado,730,Ford,Mustang,11,Verde,Avenida Herminio Conesa 58\nSoria 16243,Asturias,Mieres
+67a0f8298d8acdc8201d797c,32710022C,Marcia,Nunez,57,28,704-155-131,terceros,790,Nissan,Micra,13,Verde,C Coral Fernandez 6\nCiudad 05609,Zaragoza,Utebo
+67a0f8298d8acdc8201d797d,68087455A,Gabino,Reyes,32,11,246-393-780,terceros ampliado,940,Mercedes-Benz,Clase E,18,Negro,Camino de Tono Salamanca 16\nAlava 01695,Asturias,Mieres
+67a0f8298d8acdc8201d797e,21732840W,Nieves,Angulo,38,13,575-940-456,terceros ampliado,850,Kia,Soul,15,Negro,Calle de Leocadia Teruel 84 Piso 4 \nCordoba 05686,Segovia,El Espinar
+67a0f8298d8acdc8201d797f,87220460K,Cloe,Manuel,45,13,522-549-073,terceros ampliado,910,Bentley,Flying Spur,17,Plata,Canada de Dorita Buendia 4\nLeon 07567,Guadalajara,Molina de Aragon
+67a0f8298d8acdc8201d7980,31526822D,Delfina,Burgos,43,5,563-690-191,todo riesgo con franquicia,460,Dacia,Sandero,2,Azul,C Joan Barrios 55 Apt 09 \nAvila 21594,Granada,Almunecar
+67a0f8298d8acdc8201d7981,46566537R,Sigfrido,Valverde,23,2,415-580-037,terceros,1020,Skoda,Karoq,14,Plata,Urbanizacion Enrique Tomas 2\nLa Rioja 32487,Jaen,Andujar
+67a0f8298d8acdc8201d7982,55272537H,Gabino,Duque,23,5,247-775-110,todo riesgo con franquicia,630,Ferrari,Portofino,1,Negro,Glorieta de Valerio Gallo 64\nMurcia 09736,Lugo,Sarria
+67a0f8298d8acdc8201d7983,90193344V,Jose Luis,Chico,31,13,243-125-646,todo riesgo con franquicia,760,Peugeot,2008,12,Azul,Canada de Francisco Ballester 991\nLleida 22686,Madrid,Madrid
+67a0f8298d8acdc8201d7984,84730773S,Morena,Ferrando,28,2,416-669-781,todo riesgo,850,Porsche,Taycan,15,Rosa,Glorieta Carina Baron 4\nLa Rioja 35859,Lugo,Viveiro
+67a0f8298d8acdc8201d7985,23691653C,Sebastian,Tolosa,47,22,073-152-217,todo riesgo con franquicia,520,Dacia,Stepway,4,Blanco,Pasaje de Marcia Ferrera 81\nLugo 03843,Islas Baleares,Calvia
+67a0f8298d8acdc8201d7986,45771241E,Santos,Gordillo,49,14,350-851-080,terceros ampliado,1000,Mitsubishi,Pajero,20,Negro,Ronda de Mamen Sanmartin 59 Apt 42 \nJaen 37222,Vizcaya,Santurtzi
+67a0f8298d8acdc8201d7987,33666471Z,Loreto,Benavente,65,27,612-893-008,todo riesgo con franquicia,760,Honda,CR-V,12,Rojo,Canada de Faustino Cordero 5 Puerta 0 \nNavarra 22899,Malaga,Marbella
+67a0f8298d8acdc8201d7988,15658935Y,Encarnacion,Carrasco,56,15,282-479-921,todo riesgo,790,Porsche,Taycan,13,Rojo,Calle de Perla Lozano 65 Apt 29 \nCaceres 03711,Barcelona,Barcelona
+67a0f8298d8acdc8201d7989,94479447R,Eutimio,Aragones,41,23,849-690-843,todo riesgo con franquicia,760,Skoda,Superb,12,Verde,Camino Hipolito Zaragoza 46\nSoria 39203,Toledo,Illescas
+67a0f8298d8acdc8201d798a,18459460M,Fausto,Goicoechea,67,34,277-680-010,todo riesgo con franquicia,940,Hyundai,i20,18,Rojo,Pasaje de Jesus Segovia 958 Piso 4 \nCadiz 18055,Pontevedra,Redondela
+67a0f8298d8acdc8201d798b,75241546J,Ruy,Luque,41,19,369-518-251,terceros,550,Jeep,Wrangler,5,Gris,Calle Agata Rozas 21 Piso 7 \nZamora 37095,Salamanca,Santa Marta de Tormes
+67a0f8298d8acdc8201d798c,41043597M,Maria Del Carmen,Pallares,66,14,229-448-505,todo riesgo con franquicia,580,Lamborghini,Aventador,6,Verde,Canada de Cayetana Baro 20\nSanta Cruz de Tenerife 14645,Alava,Salvatierra/Agurain
+67a0f8298d8acdc8201d798d,13517925C,Gabriela,Galiano,42,12,099-714-375,terceros,460,Tesla,Model 3,2,Plata,Calle Luciano Tomas 42 Piso 3 \nCantabria 33982,Leon,Astorga
+67a0f8298d8acdc8201d798e,41394176H,Walter,Reguera,31,11,558-944-815,todo riesgo,820,Subaru,Outback,14,Plata,Plaza Fulgencio Donaire 73\nCuenca 06448,Guadalajara,Guadalajara
+67a0f8298d8acdc8201d798f,87546898C,Gracia,Canas,29,2,550-078-029,terceros,850,Dacia,Duster,15,Rosa,Alameda de Jovita Bermudez 29 Apt 11 \nMelilla 23162,Cuenca,Quintanar del Rey
+67a0f8298d8acdc8201d7990,73205805W,Porfirio,Enriquez,68,32,013-546-270,todo riesgo,520,Mitsubishi,Eclipse Cross,4,Beige,Pasaje Apolinar Casares 99\nCuenca 38790,Guadalajara,Alovera
+67a0f8298d8acdc8201d7991,85228142D,Pepito,Macias,42,13,244-868-220,terceros ampliado,970,Mercedes-Benz,GLE,19,Plata,Glorieta Mohamed Ramos 54 Piso 6 \nJaen 03312,Tarragona,Tarragona
+67a0f8298d8acdc8201d7992,87826269X,Roberta,Mendoza,56,11,766-794-954,todo riesgo,910,Mitsubishi,Pajero,17,Rosa,C de Felicia Julian 96 Apt 70 \nCadiz 11648,Madrid,Fuenlabrada
+67a0f8298d8acdc8201d7993,19965999K,Anunciacion,Amores,55,32,463-657-966,terceros ampliado,580,Seat,Ateca,6,Rosa,Urbanizacion de Luna Coello 20\nLa Rioja 22552,Valladolid,Valladolid
+67a0f8298d8acdc8201d7994,62323983D,Malena,Mascaro,52,2,118-808-918,todo riesgo,1000,Volvo,XC90,20,Marron,Paseo de Amor Isern 11 Piso 1 \nCeuta 11554,Caceres,Plasencia
+67a0f8298d8acdc8201d7995,57639805B,Paloma,Mari,63,35,317-489-823,terceros,520,Kia,Sorento,4,Plata,Acceso Juanita Abella 87\nLa Rioja 16142,Cantabria,Santander
+67a0f8298d8acdc8201d7996,41430815H,Bonifacio,Bonet,68,7,268-795-245,todo riesgo,460,Aston Martin,Vantage,2,Negro,Plaza de Manu Vilanova 20 Puerta 8 \nLugo 22379,Soria,Burgo de Osma-Ciudad de Osma
+67a0f8298d8acdc8201d7997,13043208T,Eulalia,Roura,57,20,879-464-100,terceros,580,Renault,Megane,6,Rosa,Glorieta de Mar Vilar 657\nAlava 13239,Guadalajara,Azuqueca de Henares
+67a0f8298d8acdc8201d7998,85230016C,Pepe,Cueto,62,33,056-223-688,terceros,760,McLaren,765LT,12,Beige,Paseo Belen Rincon 32\nAlbacete 47249,Caceres,Caceres
+67a0f8298d8acdc8201d7999,25599110H,Clara,Azcona,49,16,950-260-573,todo riesgo con franquicia,640,Hyundai,i20,8,Plata,Via de Morena Beltran 99\nMurcia 30547,Madrid,Madrid
+67a0f8298d8acdc8201d799a,16032364F,Quique,Baez,65,38,429-557-908,todo riesgo con franquicia,940,McLaren,P1,18,Verde,Callejon Eusebio Martinez 932 Piso 1 \nBaleares 07074,A Coruna,Oleiros
+67a0f8298d8acdc8201d799b,60854111K,Candelaria,Cabanas,34,10,044-705-639,todo riesgo con franquicia,820,Ferrari,Roma,14,Beige,C Olimpia Alcala 49 Apt 61 \nAlbacete 12278,Burgos,Medina de Pomar
+67a0f8298d8acdc8201d799c,83060604Z,Joan,Galan,70,34,590-630-959,todo riesgo,940,Mini,Countryman,18,Blanco,Urbanizacion Narcisa Losa 2 Apt 57 \nMurcia 20152,Albacete,Villarrobledo
+67a0f8298d8acdc8201d799d,63758007Y,Osvaldo,Losa,64,20,243-481-019,terceros,850,Opel,Insignia,15,Marron,Ronda Rogelio Iniesta 520 Apt 41 \nGuipuzcoa 46461,La Rioja,Haro
+67a0f8298d8acdc8201d799e,24342010Y,Carlito,Iniesta,21,1,955-212-010,todo riesgo,720,Jeep,Renegade,4,Azul,Alameda de Candelario Espana 96\nBarcelona 37759,Alicante,Torrevieja
+67a0f8298d8acdc8201d799f,94710057J,Teresita,Perez,61,26,667-898-280,todo riesgo,430,Toyota,Camry,1,Plata,Avenida Eloisa Diaz 9\nHuesca 35891,Jaen,Andujar
+67a0f8298d8acdc8201d79a0,24605433X,Fernanda,Fabregat,24,6,456-888-030,terceros ampliado,1140,Citroen,C4,18,Marron,Cuesta Iris Pera 38\nMadrid 46882,Teruel,Calanda
+67a0f8298d8acdc8201d79a1,37994534Y,Conrado,Bello,36,18,889-666-653,terceros,430,Nissan,Qashqai,1,Negro,Avenida de Timoteo Hidalgo 745\nZamora 46944,Guipuzcoa,Irun
+67a0f8298d8acdc8201d79a2,50153843C,Gloria,Soriano,49,10,505-258-768,todo riesgo,940,Alfa Romeo,4C,18,Rosa,Avenida de Odalis Amor 12 Apt 25 \nLas Palmas 15750,Leon,Villaquilambre
+67a0f8298d8acdc8201d79a3,52170113H,Isabela,Tomas,44,25,586-387-541,todo riesgo,670,Bugatti,Veyron,9,Azul,Pasadizo de Imelda Cisneros 78\nLeon 17473,Murcia,Murcia
+67a0f8298d8acdc8201d79a4,72936276X,Nilda,Vazquez,19,1,443-883-643,terceros ampliado,1200,Skoda,Fabia,20,Negro,Ronda Emilia Bosch 497 Puerta 3 \nAvila 42657,Leon,San Andres del Rabanedo
+67a0f8298d8acdc8201d79a5,53006634Y,Vanesa,Buendia,45,12,510-665-798,todo riesgo,640,Alfa Romeo,Giulia,8,Beige,Vial de Gaston Santamaria 38\nLa Coruna 29308,Alava,Oyon-Oion
+67a0f8298d8acdc8201d79a6,54986921Q,Concepcion,Hoyos,54,23,783-427-630,terceros,730,Kia,Sportage,11,Rojo,Avenida de Chita Roman 2\nPontevedra 35688,Ourense,Verin
+67a0f8298d8acdc8201d79a7,65790876C,Armida,Chaparro,24,4,047-526-453,terceros,870,Aston Martin,DB9,9,Verde,Alameda Timoteo Ariza 87\nAlbacete 31360,Madrid,Madrid
+67a0f8298d8acdc8201d79a8,42524919N,Yessica,Jimenez,28,9,351-044-237,todo riesgo con franquicia,730,Seat,Alhambra,11,Rosa,Plaza de Juan Manuel Sancho 43\nGuadalajara 30520,Huesca,Huesca
+67a0f8298d8acdc8201d79a9,25249307E,Ofelia,Salom,44,26,676-759-735,terceros ampliado,1000,Mercedes-Benz,GLC,20,Azul,Canada Jose Salazar 13 Apt 06 \nToledo 39146,Alava,Vitoria-Gasteiz
+67a0f8298d8acdc8201d79aa,30203343L,Isabel,Madrigal,65,8,531-859-141,terceros,580,Rolls-Royce,Dawn,6,Rojo,Alameda Sergio Carrera 74\nMalaga 03037,Cordoba,Puente Genil
+67a0f8298d8acdc8201d79ab,40117985M,Duilio,Vallejo,39,5,355-957-029,terceros ampliado,700,Volkswagen,Passat,10,Azul,Pasaje de Blas Gascon 88 Piso 5 \nTarragona 38084,Guadalajara,El Casar
+67a0f8298d8acdc8201d79ac,92973634K,Jose Francisco,Peralta,48,7,702-847-465,todo riesgo con franquicia,970,Mercedes-Benz,GLC,19,Plata,Pasadizo Luis Linares 80\nOurense 05387,Asturias,Oviedo
+67a0f8298d8acdc8201d79ad,16319906A,Isaac,Arnal,44,24,367-650-980,todo riesgo,610,McLaren,570S,7,Rojo,Paseo de Ruben Millan 90 Apt 84 \nMalaga 34940,Soria,Olvega
+67a0f8298d8acdc8201d79ae,46718135Y,Maximiano,Pacheco,34,7,082-796-164,terceros,460,Citroen,C3,2,Negro,Callejon de Bienvenida Aragon 5\nLa Coruna 45298,A Coruna,Oleiros
+67a0f8298d8acdc8201d79af,63506772T,Rafaela,Millan,19,1,324-522-629,todo riesgo con franquicia,1200,Rolls-Royce,Wraith,20,Verde,Alameda de Margarita Roman 74 Apt 49 \nPalencia 29946,Granada,Loja
+67a0f8298d8acdc8201d79b0,70831146R,Rosalia,Azcona,70,10,089-212-378,terceros,610,Subaru,Impreza,7,Rojo,Urbanizacion de Cipriano Belmonte 94 Piso 2 \nGirona 38941,Murcia,Cartagena
+67a0f8298d8acdc8201d79b1,37200497K,Odalys,Calatayud,45,2,149-225-953,todo riesgo con franquicia,730,Bentley,Flying Spur,11,Verde,Ronda Gloria Galvez 7\nOurense 38322,Granada,Baza
+67a0f8298d8acdc8201d79b2,80140491G,Filomena,Posada,24,2,257-923-698,terceros ampliado,780,Alfa Romeo,Tonale,6,Rosa,Ronda de Regulo Pina 379\nToledo 34843,Cuenca,Quintanar del Rey
+67a0f8298d8acdc8201d79b3,35252817G,Albina,Bustamante,39,1,157-581-439,terceros,730,Citroen,Berlingo,11,Marron,Rambla Lucio Nogues 5\nLa Rioja 14486,Lleida,Balaguer
+67a0f8298d8acdc8201d79b4,66718467K,Rosa,Castellanos,45,3,384-939-276,terceros,760,Mini,Convertible,12,Plata,Ronda de Primitivo Bilbao 3\nAvila 45122,Toledo,Toledo
+67a0f8298d8acdc8201d79b5,71388966W,Andres,Lobato,43,7,520-036-582,terceros ampliado,910,Audi,Q5,17,Gris,Plaza Eugenio Lucena 127\nAvila 27638,Valladolid,Medina del Campo
+67a0f8298d8acdc8201d79b6,73426311F,Jeronimo,Miranda,69,34,381-671-484,terceros ampliado,880,Mitsubishi,Mirage,16,Negro,Calle de Ramona Crespo 526 Puerta 2 \nMadrid 02293,Teruel,Calamocha
+67a0f8298d8acdc8201d79b7,62525931V,Marina,Bru,23,1,357-118-674,terceros ampliado,660,Alfa Romeo,Stelvio,2,Verde,Calle de Socorro Nicolas 13\nHuesca 44251,Cadiz,Cadiz
+67a0f8298d8acdc8201d79b8,51164609M,Almudena,Yuste,58,19,373-840-144,todo riesgo,610,Mazda,CX-30,7,Rosa,Cuesta de Trini Barriga 83 Piso 4 \nHuesca 13374,Valladolid,Valladolid
+67a0f8298d8acdc8201d79b9,56486580Y,Baltasar,Arnaiz,45,19,234-570-326,todo riesgo,730,Mercedes-Benz,GLE,11,Negro,Rambla de Jose Francisco Merino 19\nGuipuzcoa 21079,Islas Baleares,Calvia
+67a0f8298d8acdc8201d79ba,76872100M,Abril,Malo,44,2,137-709-821,todo riesgo,790,Skoda,Octavia,13,Verde,Rambla Liliana Cantero 46\nGranada 04728,Castellon,Vinaroz
+67a0f8298d8acdc8201d79bb,85581471N,Carmen,Malo,57,14,885-582-551,todo riesgo con franquicia,550,Bugatti,Divo,5,Verde,Vial de Graciano Alvarado 87 Piso 1 \nToledo 49418,Guipuzcoa,Renteria
+67a0f8298d8acdc8201d79bc,22123135X,Amaya,Cardenas,52,8,799-690-808,todo riesgo,730,Volkswagen,Passat,11,Plata,Avenida Gabino Oliver 80 Puerta 6 \nHuesca 21045,Barcelona,Hospitalet de Llobregat
+67a0f8298d8acdc8201d79bd,15820148N,Amalia,Jimenez,39,2,833-862-708,terceros,760,Jaguar,F-Pace,12,Rojo,Plaza Sarita Escribano 735\nAvila 35451,Avila,Arenas de San Pedro
+67a0f8298d8acdc8201d79be,83894631S,Flavia,Ripoll,59,29,467-758-541,terceros,940,Lexus,NX,18,Gris,Avenida Salomon Gilabert 64\nBaleares 38268,Ciudad Real,Ciudad Real
+67a0f8298d8acdc8201d79bf,63395237S,Macarena,Nebot,47,26,862-090-337,terceros,460,Fiat,Punto,2,Beige,Avenida de Manuel Riera 2\nCordoba 19396,Avila,Arenas de San Pedro
+67a0f8298d8acdc8201d79c0,34886859E,Maxi,Gamez,62,25,771-586-791,terceros,490,Nissan,Juke,3,Azul,Cuesta de Ainoa Agudo 797 Apt 83 \nCaceres 11246,Zamora,Benavente
+67a0f8298d8acdc8201d79c1,38488962A,Eliana,Vera,63,9,125-471-879,todo riesgo,490,Dacia,Sandero,3,Rojo,Paseo de Samanta Alvarado 66 Apt 83 \nMalaga 29663,Segovia,El Espinar
+67a0f8298d8acdc8201d79c2,40373568N,Basilio,Abellan,26,6,907-077-736,todo riesgo con franquicia,520,Mitsubishi,Lancer,4,Blanco,Urbanizacion de Alejandro Pinilla 88\nTarragona 20205,Cuenca,Cuenca
+67a0f8298d8acdc8201d79c3,32595318V,Maria Dolores,Aguilo,45,22,562-251-568,todo riesgo,490,Skoda,Karoq,3,Negro,Acceso de Corona Catalan 9\nAlicante 42898,Cantabria,Camargo
+67a0f8298d8acdc8201d79c4,76371955H,Chelo,Baeza,22,4,832-882-049,todo riesgo con franquicia,690,Ferrari,488,3,Plata,Vial Isidora Gilabert 411\nNavarra 42149,Valencia,Paterna
+67a0f8298d8acdc8201d79c5,42726747S,Haydee,Adan,62,3,040-222-424,terceros ampliado,610,BMW,Serie 1,7,Azul,Plaza Amor Osuna 944\nCuenca 02730,Barcelona,Terrassa
+67a0f8298d8acdc8201d79c6,73793719J,Otilia,Bou,19,1,653-158-102,todo riesgo,780,Fiat,Panda,6,Plata,Rambla de Nicolas Ortega 260\nValladolid 37707,Zamora,Villaralbo
+67a0f8298d8acdc8201d79c7,43768809Q,Bernabe,Parra,46,24,210-376-329,todo riesgo con franquicia,640,Aston Martin,Vantage,8,Negro,Callejon de Ramon Donoso 84\nCastellon 41017,Huesca,Fraga
+67a0f8298d8acdc8201d79c8,26314493D,Amor,Aragones,23,5,966-352-712,todo riesgo,1020,Suzuki,Jimny,14,Beige,C Isa Villalba 88\nCastellon 47087,Navarra,Baranain
+67a0f8298d8acdc8201d79c9,52169857S,Rogelio,Alegre,29,8,185-007-746,terceros ampliado,670,Jaguar,F-Pace,9,Negro,Plaza de Paulina Mata 5\nCeuta 07410,Leon,San Andres del Rabanedo
+67a0f8298d8acdc8201d79ca,59454707Y,Ainara,Serrano,51,29,376-342-616,todo riesgo,490,Mini,Countryman,3,Marron,Callejon Natalio Rey 460 Puerta 7 \nCadiz 19647,Ciudad Real,Valdepenas
+67a0f8298d8acdc8201d79cb,26045446Q,Jesus,Vaquero,58,31,420-418-316,todo riesgo,820,Mini,Convertible,14,Azul,Vial de Lucia Moran 21\nCuenca 49973,Castellon,Vinaroz
+67a0f8298d8acdc8201d79cc,62675051M,Jacobo,Barros,30,1,005-820-355,terceros ampliado,700,Mazda,CX-30,10,Rojo,Camino Raquel Lledo 48 Piso 9 \nMelilla 16726,Ourense,Carballino
+67a0f8298d8acdc8201d79cd,30949288M,Seve,Pinedo,43,22,734-535-058,terceros,730,Nissan,Micra,11,Verde,Glorieta Lisandro Goicoechea 13\nMalaga 29581,Ciudad Real,Valdepenas
+67a0f8298d8acdc8201d79ce,96490793C,Aitana,Tamarit,59,23,715-417-409,todo riesgo con franquicia,700,Mazda,3,10,Plata,Calle de Bernabe Goni 25\nBarcelona 11188,Valencia,Valencia
+67a0f82a8d8acdc8201d79cf,39241461B,Jennifer,Arana,33,14,371-920-608,todo riesgo,940,Mercedes-Benz,GLC,18,Negro,Callejon Purificacion Mosquera 84\nToledo 27428,Almeria,Adra
+67a0f82a8d8acdc8201d79d0,49972342N,Victoria,Borrell,33,10,152-757-266,todo riesgo con franquicia,460,McLaren,765LT,2,Azul,Paseo de Noemi Mascaro 2 Piso 2 \nVizcaya 19375,Castellon,Vinaroz
+67a0f82a8d8acdc8201d79d1,81974774Z,Evelia,Pla,20,2,526-226-568,todo riesgo,960,Tesla,Roadster,12,Rosa,Callejon Adora Mora 42 Apt 60 \nMadrid 27514,Castellon,Villarreal
+67a0f82a8d8acdc8201d79d2,77465389D,Rafaela,Valenciano,52,27,022-763-337,todo riesgo,520,Lamborghini,Aventador,4,Blanco,Urbanizacion Eusebio Silva 84\nMalaga 48914,Sevilla,Alcala de Guadaira
+67a0f82a8d8acdc8201d79d3,62939407E,Leandro,Mateu,45,25,208-524-409,terceros,940,Toyota,Corolla,18,Azul,Alameda Pili Posada 98 Apt 20 \nCeuta 17307,Guipuzcoa,San Sebastian
+67a0f82a8d8acdc8201d79d4,48974407R,Adrian,Morata,67,31,084-702-746,terceros ampliado,1000,Seat,Ateca,20,Verde,Urbanizacion de Victor Gracia 5 Puerta 0 \nLeon 47396,Navarra,Tafalla
+67a0f82a8d8acdc8201d79d5,52288726C,Susana,Soriano,37,19,145-908-140,terceros ampliado,850,Toyota,Prius,15,Plata,Cuesta de Venceslas Giner 921 Puerta 3 \nLas Palmas 13220,Leon,Villaquilambre
+67a0f82a8d8acdc8201d79d6,73720752W,Armando,Armengol,40,5,132-429-533,terceros,700,Skoda,Karoq,10,Azul,Alameda de Marcio Sarmiento 32 Apt 63 \nGranada 20357,Asturias,Oviedo
+67a0f82a8d8acdc8201d79d7,85257423B,Fausto,Silva,50,13,493-539-418,todo riesgo con franquicia,490,Rolls-Royce,Dawn,3,Rosa,Canada de Carmen Botella 82\nSanta Cruz de Tenerife 03761,Granada,Baza
+67a0f82a8d8acdc8201d79d8,53343573H,Segismundo,Sanchez,61,32,037-946-382,terceros ampliado,640,Suzuki,SX4,8,Negro,Canada de Melisa Jove 22 Piso 6 \nLa Coruna 40400,Avila,Arenas de San Pedro
+67a0f82a8d8acdc8201d79d9,16355844S,Leoncio,Osorio,18,0,281-287-011,terceros,900,Mitsubishi,Mirage,10,Rosa,Vial Gilberto Rosell 462 Apt 92 \nOurense 16147,Castellon,Almazora
+67a0f82a8d8acdc8201d79da,76056120L,Bernardino,Parejo,29,10,301-631-957,todo riesgo con franquicia,700,Renault,Twingo,10,Blanco,Glorieta Macaria Elorza 5\nSoria 13975,Leon,Ponferrada
+67a0f82a8d8acdc8201d79db,19382919Z,Florencia,Silva,22,2,279-638-045,todo riesgo,750,Chevrolet,Malibu,5,Blanco,Pasaje Maria Cristina Vargas 23 Puerta 9 \nLugo 21901,Cantabria,El Astillero
+67a0f82a8d8acdc8201d79dc,90251414N,Julio Cesar,Cepeda,19,1,575-211-673,todo riesgo,690,Subaru,Forester,3,Blanco,Rambla de Tania Palmer 54\nCantabria 22349,Valladolid,Valladolid
+67a0f82a8d8acdc8201d79dd,29177437M,Leon,Falcon,25,3,664-260-924,terceros ampliado,850,Subaru,Impreza,15,Negro,Paseo Pelayo Cano 79 Apt 88 \nAsturias 29764,Salamanca,Salamanca
+67a0f82a8d8acdc8201d79de,19328570Z,Violeta,Figuerola,56,18,971-718-217,terceros,550,Land Rover,Range Rover Evoque,5,Gris,Plaza Albino Tur 20 Apt 42 \nZamora 28348,Cadiz,Cadiz
+67a0f82a8d8acdc8201d79df,40179126N,Inmaculada,Palau,65,22,724-134-287,todo riesgo con franquicia,820,Mercedes-Benz,GLE,14,Rojo,C de Eloy Baron 19 Piso 2 \nGranada 04734,Pontevedra,Vilagarcia de Arousa
+67a0f82a8d8acdc8201d79e0,51243741V,Raquel,Barcelo,50,29,465-180-978,todo riesgo,820,Aston Martin,Rapide,14,Beige,Ronda de Zaira Villaverde 8 Puerta 1 \nBaleares 03239,Alava,Salvatierra/Agurain
+67a0f82a8d8acdc8201d79e1,56634560G,Heliodoro,Villaverde,20,2,325-914-506,todo riesgo,840,Mercedes-Benz,GLE,8,Beige,Calle de Ariadna Corbacho 349\nCiudad 47685,Sevilla,Utrera
+67a0f82a8d8acdc8201d79e2,62750242D,Luz,Cano,51,5,512-294-957,terceros,1000,Jaguar,XF,20,Blanco,Calle de Manu Lloret 69\nMelilla 22371,A Coruna,A Coruna
+67a0f82a8d8acdc8201d79e3,53850777A,Chuy,Vall,47,8,270-319-294,terceros,910,Chevrolet,Equinox,17,Rojo,Via Cristina Casado 161\nHuelva 36831,Alava,Amurrio
+67a0f82a8d8acdc8201d79e4,65334011G,Octavia,Romeu,53,33,417-915-471,terceros ampliado,820,Mini,Clubman,14,Plata,Via Flavia Montero 32 Puerta 0 \nBarcelona 30327,Barcelona,Terrassa
+67a0f82a8d8acdc8201d79e5,33712816Z,Epifanio,Gomez,53,35,534-140-122,terceros ampliado,520,Bugatti,Chiron Super Sport,4,Verde,Acceso Fidela Roldan 38\nNavarra 14636,Lugo,Viveiro
+67a0f82a8d8acdc8201d79e6,59026317Z,Epifanio,Villalonga,48,4,627-368-209,todo riesgo,820,Honda,Fit,14,Rojo,Callejon de Aurelio Baez 2\nLeon 11106,Tarragona,El Vendrell
+67a0f82a8d8acdc8201d79e7,19445697W,Magdalena,Lledo,67,40,538-828-524,terceros ampliado,880,Audi,A3,16,Gris,Pasadizo de Jose Bru 156 Puerta 4 \nZamora 37606,Salamanca,Penaranda de Bracamonte
+67a0f82a8d8acdc8201d79e8,84237736Y,Renato,Oller,48,29,133-784-016,terceros ampliado,820,Ford,Mustang,14,Rosa,Pasadizo Ceferino Duque 56 Puerta 1 \nLa Coruna 09166,Almeria,El Ejido
+67a0f82a8d8acdc8201d79e9,11134468F,Brunilda,Anglada,31,4,540-855-131,todo riesgo,580,Audi,A6,6,Verde,Alameda de Mercedes Palomino 317 Puerta 8 \nVizcaya 39029,Cantabria,Castro Urdiales
+67a0f82a8d8acdc8201d79ea,72466028C,Casemiro,Cabo,68,14,663-408-436,terceros ampliado,850,Lexus,ES,15,Rojo,Acceso de Viviana Ferran 85\nAvila 18002,Almeria,Nijar
+67a0f82a8d8acdc8201d79eb,91207516G,Teodora,Sarmiento,21,1,534-854-556,terceros,630,Nissan,Micra,1,Rosa,Acceso Fernanda Pellicer 33\nAsturias 28487,Lugo,Viveiro
+67a0f82a8d8acdc8201d79ec,78529461D,Aura,Benitez,34,5,401-095-858,todo riesgo,460,Lexus,UX,2,Plata,Glorieta Sonia Saldana 38\nCiudad 19720,Islas Baleares,Palma de Mallorca
+67a0f82a8d8acdc8201d79ed,29320822P,Gema,Boada,55,4,033-306-292,todo riesgo,640,Audi,Q7,8,Blanco,C Loida Bolanos 13\nLleida 40019,Zamora,Benavente
+67a0f82a8d8acdc8201d79ee,93492916D,Guiomar,Zamora,70,19,581-336-406,todo riesgo con franquicia,880,Volvo,XC90,16,Gris,Camino Jacinto Gargallo 41 Puerta 3 \nAlmeria 18902,Guipuzcoa,Eibar
+67a0f82a8d8acdc8201d79ef,74734621P,Prudencio,Diaz,22,3,930-591-947,terceros,690,Alfa Romeo,Stelvio,3,Blanco,Canada de Eustaquio Ponce 167 Piso 7 \nAlicante 36655,Cordoba,Lucena
+67a0f82a8d8acdc8201d79f0,72089406T,Gertrudis,Marquez,47,25,673-179-308,todo riesgo,550,Ferrari,Roma,5,Azul,Plaza Candelas Madrid 88 Piso 0 \nCadiz 16212,Teruel,Calamocha
+67a0f82a8d8acdc8201d79f1,69356661T,Flavio,Tejada,22,1,360-891-314,terceros ampliado,810,Peugeot,2008,7,Azul,Alameda Milagros Silva 53 Apt 75 \nCaceres 29219,Murcia,Lorca
+67a0f82a8d8acdc8201d79f2,99158714X,Regulo,Morell,33,1,167-257-212,todo riesgo,700,Hyundai,i20,10,Gris,Urbanizacion de Primitiva Casal 49\nSoria 40683,La Rioja,Calahorra
+67a0f82a8d8acdc8201d79f3,67672232E,Felicidad,Oliva,29,10,684-102-694,todo riesgo con franquicia,760,Lamborghini,Gallardo,12,Rosa,Avenida de Candido Moles 40 Piso 7 \nLa Rioja 48462,Barcelona,Terrassa
+67a0f82a8d8acdc8201d79f4,49996615C,Chuy,Menendez,36,7,731-092-578,todo riesgo,970,Mitsubishi,Outlander,19,Blanco,C de Ignacia Albero 31 Apt 56 \nCadiz 12114,Castellon,Almazora
+67a0f82a8d8acdc8201d79f5,92243059H,Imelda,Simo,39,14,155-447-581,terceros ampliado,520,Rolls-Royce,Cullinan,4,Gris,Paseo Flavio Fernandez 20\nMadrid 13734,Cadiz,Algeciras
+67a0f82a8d8acdc8201d79f6,60937152D,Dora,Seco,42,20,963-100-994,todo riesgo,760,Mitsubishi,Lancer,12,Negro,Rambla de Felix Sancho 894\nAsturias 32928,Soria,Olvega
+67a0f82a8d8acdc8201d79f7,37591637T,Nuria,Cerezo,68,33,059-449-365,todo riesgo,910,Land Rover,Discovery Sport,17,Rosa,Cuesta Angeles Tejero 92 Puerta 6 \nLas Palmas 49406,Vizcaya,Barakaldo
+67a0f82a8d8acdc8201d79f8,96291719B,Efrain,Arnal,35,17,652-065-776,todo riesgo con franquicia,940,Mercedes-Benz,GLE,18,Beige,Glorieta de Eligia Vaquero 4\nCantabria 13338,Almeria,Nijar
+67a0f82a8d8acdc8201d79f9,87219011K,Gisela,Alcazar,60,2,539-819-680,todo riesgo con franquicia,730,Bugatti,Bolide,11,Marron,Canada Jose Luis Girona 95 Puerta 1 \nTarragona 21864,Teruel,Calanda
+67a0f82a8d8acdc8201d79fa,21809790V,Palmira,Rovira,32,11,821-549-327,todo riesgo,790,Ferrari,Roma,13,Gris,Ronda de Teodosio Valverde 51 Apt 45 \nBaleares 38465,Cantabria,El Astillero
+67a0f82a8d8acdc8201d79fb,41799837M,Maria Del Carmen,Garcia,65,25,236-903-891,terceros,430,Land Rover,Discovery,1,Rosa,Camino Fabiana Carballo 40 Apt 33 \nTeruel 03698,Ciudad Real,Alcazar de San Juan
+67a0f82a8d8acdc8201d79fc,24472138T,Maria Cristina,Peral,58,37,193-212-988,todo riesgo,760,Suzuki,Swift,12,Plata,Paseo de Rosaura Barroso 14\nAlmeria 09484,La Rioja,Calahorra
+67a0f82a8d8acdc8201d79fd,59076884G,Fermin,Andres,60,4,111-113-599,terceros ampliado,460,Peugeot,208,2,Gris,Avenida Josefina Segura 47\nPalencia 12821,Alicante,Orihuela
+67a0f82a8d8acdc8201d79fe,95443813T,Amado,Cantero,62,16,520-883-113,todo riesgo,640,Kia,Soul,8,Beige,Ronda Noe Milla 3 Puerta 7 \nZaragoza 08075,Tarragona,El Vendrell
+67a0f82a8d8acdc8201d79ff,93591211W,Jose,Llorente,39,13,959-459-549,todo riesgo con franquicia,490,Land Rover,Range Rover,3,Plata,Avenida Malena Alvarado 33 Puerta 3 \nSegovia 19687,Caceres,Trujillo
+67a0f82a8d8acdc8201d7a00,64314082X,Nazaret,Sacristan,38,13,765-814-726,todo riesgo con franquicia,760,Volkswagen,Arteon,12,Plata,Pasaje de Joel Fiol 78\nZamora 16048,Burgos,Burgos
+67a0f82a8d8acdc8201d7a01,38170840V,Tania,Bustamante,49,27,622-879-901,todo riesgo,850,Hyundai,i10,15,Rosa,Rambla de Oscar Gaya 7\nSevilla 20875,Cantabria,Torrelavega
+67a0f82a8d8acdc8201d7a02,89318874F,Teofilo,Galan,38,7,103-915-183,todo riesgo con franquicia,430,Suzuki,SX4,1,Beige,Paseo de Lorenzo Gonzalez 940 Apt 58 \nSanta Cruz de Tenerife 27369,Pontevedra,Cangas
+67a0f82a8d8acdc8201d7a03,56893256L,Natanael,Cruz,50,12,388-160-854,todo riesgo,610,Ferrari,F8 Tributo,7,Azul,Pasaje de Atilio Ledesma 50 Apt 25 \nCiudad 05715,Cuenca,Cuenca
+67a0f82a8d8acdc8201d7a04,62294407B,Ligia,Bayona,65,11,326-204-731,terceros,490,Porsche,Cayenne,3,Beige,Pasadizo Veronica Frutos 85\nAvila 13889,Cadiz,Cadiz
+67a0f82a8d8acdc8201d7a05,27379632H,Amada,Galvan,27,9,474-740-991,todo riesgo con franquicia,940,Citroen,C5,18,Verde,Urbanizacion de Lazaro Donoso 28\nLa Coruna 13807,Ciudad Real,Alcazar de San Juan
+67a0f82a8d8acdc8201d7a06,35410642A,Santiago,Diez,25,6,677-743-232,terceros ampliado,940,Kia,Sportage,18,Beige,Urbanizacion de Delia Codina 623\nNavarra 24556,Granada,Almunecar
+67a0f82a8d8acdc8201d7a07,85167210G,Jose Luis,Solis,50,19,367-618-965,terceros ampliado,460,Fiat,500,2,Blanco,Acceso Consuelo Higueras 83\nLeon 27198,Girona,Blanes
+67a0f82a8d8acdc8201d7a08,66999464G,Mayte,Rincon,51,20,133-497-102,terceros,550,Lexus,RX,5,Beige,Vial Candelario Diez 54\nSalamanca 28776,A Coruna,A Coruna
+67a0f82a8d8acdc8201d7a09,60729825G,Tere,Guardia,50,5,204-167-451,terceros,490,Alfa Romeo,Giulietta,3,Blanco,Vial de Manola Segovia 72\nGirona 22098,Cantabria,Santander
+67a0f82a8d8acdc8201d7a0a,46253172B,Bonifacio,Bejarano,60,39,248-182-935,terceros,910,Tesla,Model X,17,Negro,Calle de Maria Jose Sanmiguel 39\nToledo 45805,Avila,Arevalo
+67a0f82a8d8acdc8201d7a0b,62416968M,Venceslas,Vicente,23,4,719-394-552,todo riesgo con franquicia,1200,Mitsubishi,Outlander,20,Marron,Plaza de Angel Alcala 42 Piso 6 \nCordoba 39193,Caceres,Navalmoral de la Mata
+67a0f82a8d8acdc8201d7a0c,26799729Z,Desiderio,Rivera,69,9,511-790-773,terceros,820,Nissan,Micra,14,Negro,Acceso Manuelita Beltran 8\nBurgos 41123,Caceres,Caceres
+67a0f82a8d8acdc8201d7a0d,76748148T,Emma,Sales,57,33,347-099-044,todo riesgo con franquicia,910,Fiat,Punto,17,Gris,Acceso Zoraida Gimenez 65 Puerta 0 \nBurgos 50580,Burgos,Briviesca
+67a0f82a8d8acdc8201d7a0e,15432123C,Moises,Arana,66,21,035-004-402,todo riesgo,610,Jeep,Grand Cherokee,7,Rosa,Cuesta de Maria Dolores Gonzalez 997 Puerta 3 \nLa Rioja 26191,Soria,Soria
+67a0f82a8d8acdc8201d7a0f,61825556S,Natalio,Zurita,32,8,352-333-529,terceros,610,Honda,Civic,7,Azul,Ronda Vasco Calvo 64\nToledo 51464,Palencia,Venta de Banos
+67a0f82a8d8acdc8201d7a10,94780033T,Cintia,Espana,20,2,299-213-998,terceros,1110,Kia,Sportage,17,Marron,Callejon de Emma Casanovas 8 Puerta 7 \nVizcaya 51268,Valencia,Valencia
+67a0f82a8d8acdc8201d7a11,58028873B,Celestino,Ochoa,60,4,789-648-244,terceros ampliado,460,Volkswagen,Passat,2,Rosa,Urbanizacion de Maria Manuela Barragan 42 Piso 3 \nAvila 06285,Palencia,Aguilar de Campoo
+67a0f82a8d8acdc8201d7a12,68247942L,Juan Luis,Gibert,35,15,827-888-083,terceros,670,Citroen,C3,9,Blanco,C de Mayte Ojeda 5 Puerta 8 \nPontevedra 19378,Castellon,Castellon de la Plana
+67a0f82a8d8acdc8201d7a13,66998414N,Abigail,Sevillano,32,12,303-901-646,terceros,760,Honda,Fit,12,Rosa,Pasaje de Consuelo Caballero 67\nSanta Cruz de Tenerife 42746,La Rioja,Haro
+67a0f82a8d8acdc8201d7a14,71963672F,Rogelio,Canete,37,5,305-191-417,todo riesgo con franquicia,610,Mini,Cooper,7,Azul,Urbanizacion de Martirio Urena 74\nAsturias 22823,Alava,Oyon-Oion
+67a0f82a8d8acdc8201d7a15,19210653H,Andres Felipe,Campos,28,8,351-994-945,terceros,730,Kia,Sportage,11,Negro,Glorieta de Telmo Fonseca 9 Puerta 5 \nTeruel 30009,Islas Baleares,Palma de Mallorca
+67a0f82a8d8acdc8201d7a16,43207092M,Leoncio,Palacio,30,12,285-192-546,todo riesgo,490,Jeep,Compass,3,Marron,Urbanizacion Victor Badia 70\nBaleares 32142,Guadalajara,El Casar
+67a0f82a8d8acdc8201d7a17,96259250H,Bernardino,Daza,35,17,896-757-111,todo riesgo con franquicia,520,Volvo,XC90,4,Plata,Plaza de Regulo Urrutia 982 Piso 9 \nPontevedra 33852,Cadiz,Algeciras
+67a0f82a8d8acdc8201d7a18,51690921P,Marta,Luque,23,1,235-843-584,todo riesgo,1110,Audi,A6,17,Verde,Ronda Ariadna Correa 47\nSanta Cruz de Tenerife 46332,Avila,Las Navas del Marques
+67a0f82a8d8acdc8201d7a19,12944328C,Elba,Taboada,67,8,437-426-545,terceros,430,Seat,Arona,1,Azul,Cuesta Lina Santamaria 94\nBurgos 39891,Murcia,Murcia
+67a0f82a8d8acdc8201d7a1a,25414154M,Catalina,Cabanillas,61,42,138-653-440,terceros,760,Renault,Clio,12,Rosa,Cuesta Bartolome Casal 20\nAlmeria 46706,Vizcaya,Portugalete
+67a0f82a8d8acdc8201d7a1b,13857426H,Maxi,Larranaga,59,21,226-928-314,terceros ampliado,700,Kia,Rio,10,Blanco,Vial de Manola Pont 66\nBaleares 16090,Cadiz,Jerez de la Frontera
+67a0f82a8d8acdc8201d7a1c,78083501L,Nadia,Royo,30,7,208-257-288,todo riesgo con franquicia,790,Mitsubishi,Eclipse Cross,13,Beige,Pasaje Aitana Bustos 3 Puerta 2 \nSanta Cruz de Tenerife 26542,Zaragoza,Ejea de los Caballeros
+67a0f82a8d8acdc8201d7a1d,65864615K,Lola,Herranz,49,27,733-063-753,terceros,700,BMW,X3,10,Rosa,Via Manuela Barranco 68\nGranada 28956,Cadiz,San Fernando
+67a0f82a8d8acdc8201d7a1e,93612573C,Maria Jesus,Bernal,38,7,035-945-463,terceros,670,Kia,Optima,9,Rojo,Callejon Rita Casal 4\nCordoba 40357,Burgos,Miranda de Ebro
+67a0f82a8d8acdc8201d7a1f,71640964N,Esther,Bustamante,23,3,616-119-185,terceros ampliado,900,Renault,Clio,10,Beige,Via Isabela Ramon 768 Puerta 9 \nToledo 43690,Cuenca,Quintanar del Rey
+67a0f82a8d8acdc8201d7a20,50285368P,Gabino,Jerez,18,0,753-256-220,todo riesgo,930,McLaren,765LT,11,Plata,Callejon de Marita Seco 5 Puerta 5 \nZamora 35684,Toledo,Illescas
+67a0f82a8d8acdc8201d7a21,59656877Y,Gertrudis,Palau,65,31,305-452-616,todo riesgo,430,Chevrolet,Equinox,1,Rosa,Plaza Nadia Penas 6 Apt 63 \nCadiz 18760,Santa Cruz de Tenerife,Adeje
+67a0f82a8d8acdc8201d7a22,66914708A,Aurora,Solera,41,17,092-364-997,terceros ampliado,970,Renault,Twingo,19,Gris,Avenida de Lorenzo Carranza 19 Puerta 3 \nLa Rioja 41127,Sevilla,Dos Hermanas
+67a0f82a8d8acdc8201d7a23,46960990G,Regina,Calderon,56,12,385-919-528,todo riesgo con franquicia,430,Bugatti,Bolide,1,Verde,Camino de Olivia Arroyo 33\nCiudad 01835,Murcia,Alcantarilla
+67a0f82a8d8acdc8201d7a24,45413148Q,Ursula,Gil,53,35,986-070-654,todo riesgo,880,Skoda,Fabia,16,Plata,Callejon Alejandra Ayala 34\nBurgos 16234,Teruel,Andorra
+67a0f82a8d8acdc8201d7a25,94333632Y,Amaro,Cordoba,64,2,240-999-200,terceros,430,Subaru,Legacy,1,Marron,Calle Eliana Baquero 13\nLas Palmas 15063,Cuenca,Quintanar del Rey
+67a0f82a8d8acdc8201d7a26,43428172D,Estela,Taboada,20,1,105-888-529,terceros ampliado,1020,Peugeot,3008,14,Rojo,Ronda Abilio Chamorro 985 Apt 18 \nHuesca 37428,Las Palmas,Puerto del Rosario
+67a0f82a8d8acdc8201d7a27,77503456B,Hector,Canton,26,4,668-988-877,terceros ampliado,880,Mazda,3,16,Verde,Canada Maribel Mayol 48\nTarragona 02219,Leon,Astorga
+67a0f82a8d8acdc8201d7a28,45852193Z,Agueda,Luis,52,19,482-372-940,terceros ampliado,670,Land Rover,Range Rover Evoque,9,Rosa,Urbanizacion de Azahar Millan 21\nAlava 15017,Soria,Burgo de Osma-Ciudad de Osma
+67a0f82a8d8acdc8201d7a29,48084102A,Ale,Nicolau,50,31,983-185-495,todo riesgo,880,Mini,Clubman,16,Verde,Via Rosa Maria Moran 474 Apt 93 \nLa Rioja 35616,Navarra,Tafalla
+67a0f82a8d8acdc8201d7a2a,17643080X,Dionisia,Falcon,28,7,725-663-743,todo riesgo,790,Ferrari,812 Superfast,13,Blanco,Ronda Gerardo Campillo 1 Puerta 1 \nSegovia 20003,Jaen,Andujar
+67a0f82a8d8acdc8201d7a2b,60044698R,Edelmiro,Ballester,22,3,257-504-191,todo riesgo,1110,Mini,Cooper,17,Plata,Plaza de Heriberto Pages 41 Piso 6 \nLugo 24268,Ourense,Ourense
+67a0f82a8d8acdc8201d7a2c,45398735R,America,Barral,29,7,608-338-261,terceros ampliado,610,Subaru,Impreza,7,Gris,Ronda de Carmela Pinto 74 Apt 13 \nMadrid 30954,Alicante,Orihuela
+67a0f82a8d8acdc8201d7a2d,96363065B,Bartolome,Villegas,31,3,423-542-689,terceros ampliado,580,Audi,A6,6,Beige,Camino de Coral Pascual 596 Puerta 0 \nSalamanca 05383,Ciudad Real,Tomelloso
+67a0f82a8d8acdc8201d7a2e,88662466L,Cipriano,Palmer,25,5,833-539-383,terceros ampliado,880,Jeep,Renegade,16,Rosa,Acceso de Walter Valcarcel 5 Apt 82 \nSoria 40578,Huesca,Monzon
+67a0f82a8d8acdc8201d7a2f,78059862R,Abilio,Bosch,65,14,424-384-506,todo riesgo con franquicia,1000,Porsche,Panamera,20,Plata,Avenida Luis Pinedo 69 Puerta 4 \nCadiz 10701,Valladolid,Tordesillas
+67a0f82a8d8acdc8201d7a30,90666673Y,Pelayo,Galiano,30,11,956-559-608,terceros,640,Land Rover,Defender,8,Blanco,Alameda de Silvestre Puente 99 Piso 8 \nGranada 44691,Lugo,Vilalba
+67a0f82a8d8acdc8201d7a31,51997167D,Fausto,Cisneros,24,1,129-231-319,todo riesgo,1050,Jaguar,XF,15,Azul,Alameda de Maria Jose Peral 6\nLa Coruna 09663,Jaen,Martos
+67a0f82a8d8acdc8201d7a32,31587431J,Abilio,Tello,60,30,018-912-946,terceros ampliado,1000,Dacia,Duster,20,Beige,Callejon Clemente Miralles 3\nCeuta 16470,Barcelona,Badalona
+67a0f82b8d8acdc8201d7a33,32111823M,Graciana,Tamarit,70,34,675-812-018,todo riesgo,640,Honda,Fit,8,Negro,Glorieta de Rafaela Zamorano 68\nMalaga 44503,Caceres,Coria
+67a0f82b8d8acdc8201d7a34,38293217B,David,Moya,51,10,379-774-384,todo riesgo,520,Chevrolet,Bolt,4,Plata,Urbanizacion de Jenaro Jaume 67 Puerta 2 \nMurcia 10117,Lugo,Viveiro
+67a0f82b8d8acdc8201d7a35,44389348S,Enrique,Ripoll,22,3,696-943-395,todo riesgo con franquicia,1200,Suzuki,Swift,20,Marron,C Blanca Capdevila 62\nLugo 05629,Asturias,Oviedo
+67a0f82b8d8acdc8201d7a36,45873692P,Emilio,Tudela,34,12,647-602-739,terceros,550,Opel,Crossland X,5,Beige,Glorieta de Zoraida Escobar 6\nZaragoza 07621,Leon,San Andres del Rabanedo
+67a0f82b8d8acdc8201d7a37,38991426D,Heliodoro,Sotelo,56,21,562-801-458,todo riesgo con franquicia,730,Subaru,Legacy,11,Gris,Ronda Jose Maria Marin 84\nGuadalajara 16478,Huelva,Ayamonte
+67a0f82b8d8acdc8201d7a38,26788473M,Adrian,Pereira,26,5,683-373-805,terceros ampliado,790,Honda,Civic,13,Blanco,Calle Timoteo Ayllon 74 Puerta 4 \nLeon 22284,Badajoz,Villanueva de la Serena
+67a0f82b8d8acdc8201d7a39,70763213X,Vinicio,Lorenzo,39,10,570-140-666,terceros ampliado,790,Tesla,Model Y,13,Rojo,Via de Juan Carlos Amor 70 Apt 01 \nLas Palmas 43111,Ourense,Barbadas
+67a0f82b8d8acdc8201d7a3a,50490162X,Emilia,Montesinos,21,2,717-705-719,terceros ampliado,1170,Honda,HR-V,19,Rosa,Pasadizo de Abril Bayo 2\nHuesca 26677,La Rioja,Arnedo
+67a0f82b8d8acdc8201d7a3b,43370898M,Jose Antonio,Castrillo,61,30,667-423-893,todo riesgo,430,Lamborghini,Gallardo,1,Negro,Urbanizacion de Goyo Pino 70\nCadiz 29400,Soria,San Esteban de Gormaz
+67a0f82b8d8acdc8201d7a3c,66866635T,Eutimio,Cid,23,2,034-231-128,todo riesgo,990,Jeep,Cherokee,13,Marron,Cuesta de Gervasio Sacristan 4 Apt 40 \nCiudad 43419,Alicante,Alicante
+67a0f82b8d8acdc8201d7a3d,11913811H,Arsenio,Segui,58,38,239-870-162,terceros ampliado,610,Renault,Captur,7,Gris,Callejon de Aurora Escribano 63 Puerta 0 \nCeuta 51523,Sevilla,Sevilla
+67a0f82b8d8acdc8201d7a3e,70868131W,Chita,Vega,49,19,743-121-783,todo riesgo,460,Toyota,Corolla,2,Rosa,Plaza de Leon Novoa 1\nLeon 15699,Guipuzcoa,San Sebastian
+67a0f82b8d8acdc8201d7a3f,71631044M,Alonso,Fernandez,25,4,485-233-115,todo riesgo con franquicia,760,Mazda,MX-5,12,Verde,C Omar Escobar 59\nCastellon 36468,Lleida,Cervera
+67a0f82b8d8acdc8201d7a40,62369881E,Eleuterio,Solano,29,9,859-131-574,todo riesgo con franquicia,910,Alfa Romeo,Stelvio,17,Negro,Canada Blas Ramirez 8\nMelilla 08137,Asturias,Langreo
+67a0f82b8d8acdc8201d7a41,82163483P,Javiera,Saenz,24,2,282-369-863,todo riesgo,780,Mini,Convertible,6,Rosa,Urbanizacion de Erasmo Aroca 138 Apt 95 \nNavarra 14857,Castellon,Villarreal
+67a0f82b8d8acdc8201d7a42,98381007W,Marco,Bernad,22,2,839-174-582,terceros,780,Fiat,500X,6,Plata,Plaza de Manu Giralt 23\nZaragoza 13983,Burgos,Aranda de Duero
+67a0f82b8d8acdc8201d7a43,70439593T,Severiano,Valcarcel,64,35,555-710-420,terceros,520,Mitsubishi,Pajero,4,Gris,Canada de Joaquin Manjon 70 Piso 4 \nVizcaya 38711,Cantabria,Torrelavega
+67a0f82b8d8acdc8201d7a44,97719425S,Eli,Garces,30,5,092-560-440,terceros ampliado,730,Mini,Clubman,11,Azul,Pasaje Lucio Sanabria 5 Puerta 4 \nAvila 01493,Murcia,Alcantarilla
+67a0f82b8d8acdc8201d7a45,76201547V,Alfredo,Sarmiento,41,22,416-640-091,terceros ampliado,790,Volvo,XC90,13,Rosa,Pasaje de Maxima Pozuelo 66 Apt 82 \nLleida 38660,Tarragona,Tarragona
+67a0f82b8d8acdc8201d7a46,71880269W,Daniela,Angulo,42,18,264-587-171,terceros,1000,Land Rover,Range Rover,20,Rojo,Cuesta Noa Juarez 81\nToledo 35695,Badajoz,Almendralejo
+67a0f82b8d8acdc8201d7a47,32952247D,Ciriaco,Busquets,30,5,420-220-339,todo riesgo con franquicia,580,Lexus,IS,6,Verde,C Maria Fernanda Abascal 9 Apt 98 \nCeuta 03350,Zaragoza,Zaragoza
+67a0f82b8d8acdc8201d7a48,64917879B,Renata,Piquer,69,29,076-897-346,todo riesgo,760,Mercedes-Benz,Clase E,12,Azul,Pasaje Severino Riera 18 Puerta 3 \nCadiz 39907,Teruel,Andorra
+67a0f82b8d8acdc8201d7a49,69566907A,Ruth,Santana,42,21,688-458-233,terceros,610,Audi,Q7,7,Blanco,Alameda Hilario Mariscal 39 Apt 12 \nCaceres 30629,Barcelona,Badalona
+67a0f82b8d8acdc8201d7a4a,82836866C,Sara,Castillo,29,11,742-314-070,todo riesgo con franquicia,580,Rolls-Royce,Phantom,6,Blanco,Cuesta Mireia Franco 408\nToledo 41153,Teruel,Alcaniz
+67a0f82b8d8acdc8201d7a4b,23282985Q,Primitiva,Gaya,58,12,475-677-119,terceros ampliado,880,Lexus,RX,16,Marron,Canada de Ligia Becerra 94 Puerta 0 \nTarragona 38368,Lleida,Cervera
+67a0f82b8d8acdc8201d7a4c,63134669Z,Herberto,Calleja,31,7,189-704-604,terceros,430,Kia,Soul,1,Blanco,Canada Patricio Gonzalez 42\nNavarra 32438,Tarragona,Cambrils
+67a0f82b8d8acdc8201d7a4d,31836272V,Tamara,Ferrandez,25,4,559-476-842,todo riesgo,730,Opel,Insignia,11,Beige,Plaza de Oriana Pont 9 Piso 0 \nAlicante 18964,Zaragoza,Zaragoza
+67a0f82b8d8acdc8201d7a4e,96901219B,Leire,Arino,36,1,892-619-610,terceros,550,Bugatti,Bolide,5,Azul,Plaza Amilcar Soria 15\nPontevedra 36365,Burgos,Miranda de Ebro
+67a0f82b8d8acdc8201d7a4f,26292632K,Vinicio,Alegre,29,4,718-086-811,todo riesgo,700,Land Rover,Discovery Sport,10,Rosa,Alameda de Azahar Fabregas 20\nSegovia 23131,Toledo,Talavera de la Reina
+67a0f82b8d8acdc8201d7a50,42590788D,Debora,Manuel,24,4,713-634-687,terceros ampliado,1020,Skoda,Karoq,14,Rojo,Plaza de Modesto Carro 331\nPalencia 23799,Valladolid,Valladolid
+67a0f82b8d8acdc8201d7a51,58284369T,Casandra,Benet,50,9,151-211-624,todo riesgo con franquicia,550,Lamborghini,Gallardo,5,Verde,Via Juan Luis Daza 2 Puerta 4 \nSevilla 22574,Valladolid,Tordesillas
+67a0f82b8d8acdc8201d7a52,36838558X,Morena,Terron,56,31,972-684-003,todo riesgo con franquicia,430,Hyundai,i20,1,Beige,Pasaje de Alma Mosquera 53\nAlava 26045,Girona,Girona
+67a0f82b8d8acdc8201d7a53,60108247R,Ernesto,Rico,45,22,191-327-462,todo riesgo,490,Volvo,XC90,3,Marron,Cuesta de Elodia Cases 6\nPalencia 15427,A Coruna,Santiago de Compostela
+67a0f82b8d8acdc8201d7a54,84508367L,Arsenio,Alvarado,61,28,309-906-906,terceros ampliado,820,Fiat,500,14,Plata,Acceso Rosalia Barragan 28 Apt 54 \nCiudad 44865,Alava,Llodio
+67a0f82b8d8acdc8201d7a55,28294238Y,Teresita,Talavera,18,0,892-610-342,todo riesgo con franquicia,1080,Jeep,Cherokee,16,Rojo,Avenida Vinicio Godoy 23\nLeon 02519,Ourense,Carballino
+67a0f82b8d8acdc8201d7a56,51684064M,Ascension,Castells,37,18,889-470-344,terceros ampliado,760,Skoda,Karoq,12,Verde,Glorieta de Ana Sofia Matas 4\nZamora 43913,Salamanca,Santa Marta de Tormes
+67a0f82b8d8acdc8201d7a57,52029836H,Jose Luis,Pacheco,32,9,109-827-147,todo riesgo,730,Alfa Romeo,4C,11,Negro,Avenida Beatriz Solana 99\nValencia 35966,Guadalajara,Guadalajara
+67a0f82b8d8acdc8201d7a58,17267072Y,Toni,Pina,59,12,095-993-004,todo riesgo con franquicia,850,Alfa Romeo,Tonale,15,Verde,Paseo de Rafael Diaz 5 Piso 6 \nVizcaya 42556,Cuenca,Tarancón
+67a0f82b8d8acdc8201d7a59,35881084A,Fabio,Huertas,31,2,000-879-518,terceros,730,Ferrari,Roma,11,Blanco,Alameda Danilo Perales 27 Apt 02 \nMurcia 24725,Huelva,Isla Cristina
+67a0f82b8d8acdc8201d7a5a,92658449M,Timoteo,Cerdan,28,8,850-736-543,terceros,490,Jaguar,I-Pace,3,Blanco,Canada Inocencio Hernandez 58\nAlbacete 45602,Huesca,Monzon
+67a0f82b8d8acdc8201d7a5b,95798688P,Tono,Nieto,42,16,229-825-076,terceros ampliado,670,BMW,Serie 5,9,Plata,Alameda Alberto Sotelo 15\nMelilla 22468,Cordoba,Cordoba
+67a0f82b8d8acdc8201d7a5c,86868633W,Maxi,Lerma,37,3,417-121-844,terceros,670,Mercedes-Benz,Clase C,9,Plata,Camino de Jose Antonio Losa 82\nSalamanca 25807,Tarragona,Tarragona
+67a0f82b8d8acdc8201d7a5d,61345581G,Dorita,Marco,31,11,632-467-926,terceros ampliado,820,Subaru,Impreza,14,Azul,Paseo de Roman Aller 66 Apt 80 \nCuenca 29051,Alicante,Orihuela
+67a0f82b8d8acdc8201d7a5e,56797549S,Teofilo,Almeida,57,13,604-004-173,todo riesgo,490,Kia,Sportage,3,Marron,Cuesta Viviana Crespo 39 Puerta 3 \nSanta Cruz de Tenerife 13899,Ourense,Verin
+67a0f82b8d8acdc8201d7a5f,77145010C,Nicolas,Porras,33,14,372-845-351,terceros,850,Volkswagen,Arteon,15,Negro,Avenida de Eloy Tello 97 Puerta 3 \nCadiz 13107,Toledo,Illescas
+67a0f82b8d8acdc8201d7a60,82906448G,Felipa,Plana,45,15,191-713-739,todo riesgo con franquicia,910,Nissan,X-Trail,17,Azul,Cuesta Virgilio Serra 86 Piso 2 \nSanta Cruz de Tenerife 21307,Guadalajara,El Casar
+67a0f82b8d8acdc8201d7a61,29814689L,Lola,Cardona,43,15,463-345-155,terceros,760,Mitsubishi,Eclipse Cross,12,Gris,Pasadizo de Bienvenida Matas 96 Puerta 2 \nGuadalajara 44926,Tarragona,Reus
+67a0f82b8d8acdc8201d7a62,43034807J,America,Calvo,43,9,966-420-276,todo riesgo con franquicia,490,Volvo,XC40,3,Gris,Canada Angelina Izaguirre 792 Piso 2 \nBaleares 24200,Leon,Leon
+67a0f82b8d8acdc8201d7a63,97184525A,Paulino,Bautista,68,4,109-986-933,terceros ampliado,1000,Ferrari,488,20,Gris,Camino Lilia Jaume 73 Piso 8 \nHuesca 35654,Almeria,El Ejido
+67a0f82b8d8acdc8201d7a64,81715768B,Olimpia,Canete,19,1,556-124-521,terceros ampliado,990,Hyundai,i10,13,Beige,Plaza de Dafne Manjon 33 Puerta 9 \nZamora 41299,Barcelona,Sabadell
+67a0f82b8d8acdc8201d7a65,99060738Z,Beatriz,Montes,34,13,735-671-892,terceros ampliado,670,Mazda,MX-5,9,Verde,Avenida Araceli Calderon 9\nMadrid 02520,Salamanca,Bejar
+67a0f82b8d8acdc8201d7a66,16228496H,Gabino,Caro,44,2,133-327-969,todo riesgo con franquicia,820,Skoda,Superb,14,Azul,Alameda de Teodoro Baro 494 Piso 1 \nSoria 26277,Cordoba,Montilla
+67a0f82b8d8acdc8201d7a67,27644920R,Severo,Rico,47,20,009-048-615,terceros,970,Kia,Optima,19,Plata,Rambla Clemente Arjona 9\nCeuta 10751,Madrid,Leganes
+67a0f82b8d8acdc8201d7a68,28698795Q,Marcial,Heras,54,21,568-980-176,terceros,610,BMW,X3,7,Blanco,Plaza Felipa Salgado 6\nGuadalajara 13773,Valladolid,Medina del Campo
+67a0f82b8d8acdc8201d7a69,86385329C,Teodosio,Vall,19,1,161-172-257,terceros ampliado,930,Chevrolet,Malibu,11,Rosa,C de Carmina Alcaraz 48\nCuenca 18524,Teruel,Teruel
+67a0f82b8d8acdc8201d7a6a,14618887H,Melania,Vicente,57,5,453-445-694,todo riesgo con franquicia,850,Jaguar,XE,15,Verde,Rambla de Tere Sales 31\nCaceres 27934,Barcelona,Badalona
+67a0f82b8d8acdc8201d7a6b,42359707D,Danilo,Vega,27,3,620-721-621,terceros,520,Rolls-Royce,Wraith,4,Azul,Ronda Juan Carlos Gallart 6 Puerta 1 \nMelilla 52081,Valencia,Torrent
+67a0f82b8d8acdc8201d7a6c,73049531J,Lucas,Penas,24,3,475-262-722,terceros,1020,Suzuki,Ciaz,14,Marron,Avenida de Tiburcio Fernandez 4 Apt 81 \nLa Coruna 26239,Las Palmas,Telde
+67a0f82b8d8acdc8201d7a6d,51799573P,Coral,Baron,48,10,976-000-652,todo riesgo,520,Ford,Focus,4,Beige,Cuesta de Maite Cantero 63\nBadajoz 23307,Valencia,Gandia
+67a0f82b8d8acdc8201d7a6e,94668697F,Alejandro,Ponce,56,11,957-033-893,terceros,520,McLaren,570S,4,Rojo,Plaza de Samanta Guillen 34 Piso 7 \nHuesca 16655,Madrid,Mostoles
+67a0f82b8d8acdc8201d7a6f,44672421G,Jose Antonio,Alemany,27,6,329-293-446,todo riesgo,670,Hyundai,i20,9,Rojo,Rambla de Adoracion Ayala 668\nAvila 42548,Valencia,Valencia
+67a0f82b8d8acdc8201d7a70,72531925E,Odalys,Cobos,26,7,521-685-596,todo riesgo con franquicia,640,Alfa Romeo,Tonale,8,Verde,Cuesta Rosalva Pujadas 36\nCastellon 04544,Leon,San Andres del Rabanedo
+67a0f82b8d8acdc8201d7a71,42149849A,Tomasa,Santiago,41,15,266-580-423,terceros,1000,Fiat,Tipo,20,Marron,Paseo de Angelina Colom 77\nHuelva 05168,Cadiz,San Fernando
+67a0f82b8d8acdc8201d7a72,14083073N,Camila,Benito,39,20,916-520-488,terceros ampliado,460,Tesla,Roadster,2,Gris,Via Ursula Ferrando 37\nSanta Cruz de Tenerife 13908,Cuenca,Mota del Cuervo
+67a0f82b8d8acdc8201d7a73,47564123P,Encarnita,Exposito,59,17,182-640-707,todo riesgo con franquicia,700,Ford,Focus,10,Plata,Via de Jafet Peiro 6 Puerta 3 \nZamora 18972,Malaga,Marbella
+67a0f82b8d8acdc8201d7a74,29107307W,Yessica,Catalan,69,45,425-294-547,terceros ampliado,970,Jaguar,XF,19,Rojo,Paseo de Marisa Pera 6 Apt 14 \nCaceres 25750,Segovia,San Ildefonso
+67a0f82b8d8acdc8201d7a75,92528815E,Calixto,Rivas,27,9,586-725-291,terceros,820,Hyundai,Santa Fe,14,Marron,Plaza de Bonifacio Tur 4 Piso 6 \nBurgos 25170,Valencia,Paterna
+67a0f82b8d8acdc8201d7a76,87774212W,Emelina,Trillo,52,34,967-759-057,todo riesgo con franquicia,490,Chevrolet,Malibu,3,Blanco,Acceso Jose Muro 779\nGuadalajara 17750,Ciudad Real,Valdepenas
+67a0f82b8d8acdc8201d7a77,95261137J,Feliciano,Calvet,48,15,705-387-391,terceros ampliado,670,Ferrari,Roma,9,Blanco,Plaza de Berto Rodriguez 53\nJaen 24333,Islas Baleares,Ibiza
+67a0f82b8d8acdc8201d7a78,16452281J,Pancho,Casal,47,14,284-709-288,terceros,700,Mitsubishi,Mirage,10,Plata,Paseo Gonzalo Saez 649\nMurcia 35054,A Coruna,Santiago de Compostela
+67a0f82b8d8acdc8201d7a79,76644325E,Bernardita,Gutierrez,61,17,663-740-685,todo riesgo,640,McLaren,720S,8,Beige,Glorieta Nicanor Mulet 42\nTeruel 12496,Teruel,Andorra
+67a0f82b8d8acdc8201d7a7a,90087835D,Donato,Maldonado,54,23,671-551-821,terceros ampliado,700,Jaguar,XE,10,Marron,Urbanizacion Heliodoro Atienza 35 Piso 6 \nMelilla 17211,Badajoz,Don Benito
+67a0f82b8d8acdc8201d7a7b,36471845D,Cristina,Lopez,59,27,230-780-184,terceros,820,Audi,A3,14,Marron,Rambla Tania Yanez 3\nBaleares 42789,Guadalajara,Alovera
+67a0f82b8d8acdc8201d7a7c,11780168M,Cosme,Nicolau,37,16,908-624-422,terceros,430,Subaru,Ascent,1,Verde,Acceso de Balduino Espana 29\nAlbacete 47769,Avila,Arevalo
+67a0f82b8d8acdc8201d7a7d,40722154X,Jesusa,Castaneda,60,37,137-285-843,terceros ampliado,1000,Toyota,Corolla,20,Negro,Cuesta Isidora Blazquez 15\nLleida 10475,A Coruna,Ferrol
+67a0f82b8d8acdc8201d7a7e,79140646S,Jose,Cuadrado,42,7,059-182-475,todo riesgo,790,Kia,Sorento,13,Marron,Ronda de Ivan Carrion 283 Piso 3 \nCastellon 33736,Castellon,Vinaroz
+67a0f82b8d8acdc8201d7a7f,96840993E,Dalila,Beltran,41,12,174-677-626,todo riesgo con franquicia,430,Toyota,Camry,1,Beige,Acceso Leon Osuna 82\nLa Coruna 49892,Alava,Vitoria-Gasteiz
+67a0f82b8d8acdc8201d7a80,85327457X,Bruno,Campos,31,7,306-391-222,todo riesgo,730,Subaru,Forester,11,Blanco,Rambla de Crescencia Garmendia 910 Apt 22 \nGranada 26881,Ciudad Real,Ciudad Real
+67a0f82b8d8acdc8201d7a81,72097154C,Abilio,Valle,67,37,017-773-440,terceros,460,Volvo,XC60,2,Marron,Plaza de Ines Aguado 6 Puerta 8 \nMalaga 46352,Cordoba,Cordoba
+67a0f82b8d8acdc8201d7a82,80227198R,Angela,Coll,23,2,680-600-291,terceros,1170,Suzuki,Swift,19,Plata,Via de Maximo Juarez 86\nMurcia 16214,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+67a0f82b8d8acdc8201d7a83,73839976V,Ana Sofia,Benitez,33,9,156-634-020,todo riesgo con franquicia,820,Peugeot,2008,14,Rosa,Alameda de Candida Galiano 13\nLugo 06239,Sevilla,Utrera
+67a0f82b8d8acdc8201d7a84,62319421R,Ariel,Avila,61,16,258-049-979,terceros ampliado,580,Honda,Fit,6,Gris,Pasadizo Teobaldo Atienza 6 Apt 44 \nSanta Cruz de Tenerife 10147,Granada,Granada
+67a0f82b8d8acdc8201d7a85,11965178A,Severino,Linares,49,19,752-880-824,todo riesgo,1000,Audi,A4,20,Azul,Rambla Aitana Ferreras 51 Piso 9 \nHuelva 04519,Alicante,Alicante
+67a0f82b8d8acdc8201d7a86,34466527S,Amanda,Gabaldon,58,21,083-614-518,terceros,850,Porsche,Panamera,15,Verde,Rambla Calixta Roda 64 Piso 2 \nBadajoz 17782,Guipuzcoa,Zarautz
+67a0f82b8d8acdc8201d7a87,92794605R,Paulina,Cruz,36,17,950-600-503,terceros ampliado,580,Lamborghini,Aventador,6,Rosa,Glorieta Rosalina Carrera 9 Apt 16 \nPontevedra 18036,Valladolid,Medina del Campo
+67a0f82b8d8acdc8201d7a88,19911935F,Juan Francisco,Pedrero,56,17,793-944-237,todo riesgo con franquicia,430,Ford,Fiesta,1,Verde,Via de Arcelia Cortina 2\nLa Rioja 29541,Granada,Baza
+67a0f82b8d8acdc8201d7a89,74822559V,Chus,Simo,25,4,881-281-480,terceros,700,Nissan,Micra,10,Gris,Paseo de Otilia Vinas 779\nCaceres 03875,Lugo,Monforte de Lemos
+67a0f82b8d8acdc8201d7a8a,51067743S,Luis,Barranco,62,38,919-853-471,todo riesgo,520,Opel,Insignia,4,Beige,Avenida Leopoldo Rubio 622\nSegovia 05633,Alava,Llodio
+67a0f82b8d8acdc8201d7a8b,98545875Y,Sarita,Mora,65,45,156-691-250,terceros ampliado,910,Rolls-Royce,Phantom,17,Blanco,Paseo Ileana Nebot 52 Puerta 9 \nCantabria 02657,Soria,Olvega
+67a0f82b8d8acdc8201d7a8c,47858567Y,Ignacia,Cerro,68,2,883-977-418,todo riesgo con franquicia,460,Rolls-Royce,Ghost,2,Marron,Camino Teresita Ballester 32 Apt 16 \nLa Coruna 06661,Caceres,Trujillo
+67a0f82b8d8acdc8201d7a8d,51585696P,Petrona,Carlos,59,3,444-991-910,terceros ampliado,580,Rolls-Royce,Dawn,6,Plata,Canada de Sancho Boada 86\nToledo 31438,Cantabria,Santander
+67a0f82b8d8acdc8201d7a8e,26812526T,Gala,Rubio,45,22,850-429-668,terceros,640,Rolls-Royce,Phantom,8,Plata,Pasaje Gracia Vilanova 1\nAlava 03118,Zaragoza,Calatayud
+67a0f82b8d8acdc8201d7a8f,91539510Q,Jennifer,Manso,32,3,484-746-581,terceros,580,Alfa Romeo,Tonale,6,Marron,Ronda de Esther Rius 55 Puerta 3 \nSevilla 05676,Cuenca,San Clemente
+67a0f82b8d8acdc8201d7a90,15171570B,Saturnino,Amaya,69,35,772-280-509,todo riesgo,520,Kia,Rio,4,Rojo,Avenida de Marta Gutierrez 859\nAlava 41624,Huelva,Almonte
+67a0f82b8d8acdc8201d7a91,54439409L,Luis Miguel,Saavedra,26,6,805-462-654,terceros,940,Opel,Insignia,18,Negro,Cuesta Nieves Jordan 48 Puerta 5 \nLa Rioja 13511,Guadalajara,Azuqueca de Henares
+67a0f82b8d8acdc8201d7a92,25248197Q,Flavio,Fuentes,61,16,210-547-834,todo riesgo,820,Volvo,V60,14,Blanco,Vial Jeronimo Roman 86 Apt 29 \nHuesca 27178,Badajoz,Villanueva de la Serena
+67a0f82b8d8acdc8201d7a93,71452712S,Gabriela,Alfaro,24,2,773-446-548,todo riesgo con franquicia,810,Ferrari,Portofino,7,Marron,Rambla de Cruz Cazorla 54\nLleida 03758,Asturias,Gijon
+67a0f82b8d8acdc8201d7a94,31071090E,Maria Dolores,Borras,43,6,675-229-007,terceros ampliado,820,Mazda,6,14,Plata,Callejon Gabino Alcala 7 Piso 7 \nLugo 24818,Granada,Loja
+67a0f82b8d8acdc8201d7a95,38938652C,Ursula,Barragan,30,7,926-715-294,todo riesgo,880,Opel,Insignia,16,Rosa,Glorieta Cleto Yanez 98\nPontevedra 08338,Cordoba,Lucena
+67a0f82b8d8acdc8201d7a96,69977906S,Consuelo,Roca,47,3,951-166-732,todo riesgo con franquicia,940,Volkswagen,Tiguan,18,Rojo,Ronda de Santiago Cordero 6 Puerta 7 \nGuadalajara 03127,Navarra,Estella-Lizarra
+67a0f82c8d8acdc8201d7a97,46547245Y,Manuelita,Isern,43,23,084-619-297,todo riesgo con franquicia,1000,Renault,Clio,20,Rosa,Calle de Victor Cuevas 68 Piso 5 \nCaceres 19734,Albacete,La Roda
+67a0f82c8d8acdc8201d7a98,76105633J,Corona,Gilabert,38,3,712-561-906,terceros,850,Jaguar,XE,15,Verde,Callejon de Hector Gilabert 6\nPontevedra 28987,Soria,Soria
+67a0f82c8d8acdc8201d7a99,79344956Q,Poncio,Villalobos,45,9,758-950-876,todo riesgo,790,Land Rover,Defender,13,Blanco,Vial Abigail Pinilla 829\nSalamanca 08956,Asturias,Mieres
+67a0f82c8d8acdc8201d7a9a,22418695C,Beatriz,Cadenas,30,1,799-207-788,terceros,430,Peugeot,308,1,Rojo,Vial Cayetano Valenciano 2\nLugo 29887,Jaen,Martos
+67a0f82c8d8acdc8201d7a9b,45731569W,Jafet,Fernandez,44,21,123-458-387,terceros,700,Porsche,Panamera,10,Marron,Urbanizacion Ildefonso Carrera 20 Apt 60 \nJaen 20835,Vizcaya,Portugalete
+67a0f82c8d8acdc8201d7a9c,76573740R,Xavier,Amador,38,12,030-050-106,terceros ampliado,610,Jeep,Grand Cherokee,7,Marron,Urbanizacion de Maria Angeles Pedraza 82 Apt 96 \nLa Coruna 12890,Badajoz,Villanueva de la Serena
+67a0f82c8d8acdc8201d7a9d,70867456V,Anita,Coloma,19,1,175-528-833,terceros,1170,Mercedes-Benz,Clase S,19,Azul,C de Teobaldo Boada 21\nLleida 07199,Lugo,Sarria
+67a0f82c8d8acdc8201d7a9e,27854534Q,Saturnino,Segovia,22,4,871-409-376,terceros,1200,Toyota,Camry,20,Blanco,Calle Consuela Garces 307 Apt 34 \nAsturias 37967,Barcelona,Hospitalet de Llobregat
+67a0f82c8d8acdc8201d7a9f,44279831R,Conrado,Bello,23,4,781-500-200,todo riesgo,870,Mazda,CX-30,9,Negro,Glorieta de Mar Serrano 73 Apt 62 \nPontevedra 04857,Zamora,Toro
+67a0f82c8d8acdc8201d7aa0,52834838C,Filomena,Arino,23,5,076-524-087,todo riesgo,1170,Renault,Captur,19,Plata,Cuesta de Matias Mendizabal 72\nHuesca 07556,Segovia,Cuellar
+67a0f82c8d8acdc8201d7aa1,14236233S,Zacarias,Llabres,38,13,037-242-658,terceros ampliado,790,Mercedes-Benz,Clase E,13,Gris,Callejon de Tadeo Isern 962 Piso 5 \nLas Palmas 05545,Alicante,Benidorm
+67a0f82c8d8acdc8201d7aa2,27979476E,Romulo,Vila,19,1,182-146-931,todo riesgo con franquicia,960,Hyundai,Kona,12,Blanco,Acceso de Georgina Montero 21 Puerta 7 \nVizcaya 28919,Burgos,Burgos
+67a0f82c8d8acdc8201d7aa3,39565701C,Cosme,Serna,64,2,169-385-271,terceros,940,Volvo,S60,18,Verde,Canada de Maria Dolores Sanchez 7\nTarragona 45227,Burgos,Medina de Pomar
+67a0f82c8d8acdc8201d7aa4,28240140G,Tere,Francisco,60,6,389-688-772,todo riesgo,670,Aston Martin,DB9,9,Rosa,Calle Trini Peralta 42\nTeruel 45774,Palencia,Aguilar de Campoo
+67a0f82c8d8acdc8201d7aa5,10015163C,Gervasio,Ribes,18,0,344-145-050,terceros ampliado,1170,Land Rover,Discovery Sport,19,Verde,Plaza de Jacinto Pujadas 346 Puerta 6 \nLugo 25399,Guadalajara,El Casar
+67a0f82c8d8acdc8201d7aa6,18931401D,Natividad,Acuna,28,2,490-753-290,todo riesgo con franquicia,580,Kia,Optima,6,Plata,Camino de Roman Julian 701\nCastellon 33027,Cadiz,El Puerto de Santa Maria
+67a0f82c8d8acdc8201d7aa7,69236288D,Cosme,Esteban,62,36,696-008-467,todo riesgo,700,Audi,Q7,10,Marron,Alameda Yaiza Maestre 30\nLa Coruna 26294,Zamora,Morales del Vino
+67a0f82c8d8acdc8201d7aa8,24475600N,Demetrio,Gual,48,9,554-442-862,terceros,550,Suzuki,Jimny,5,Blanco,Canada Florinda Franco 387\nLeon 08391,Albacete,Villarrobledo
+67a0f82c8d8acdc8201d7aa9,62194916H,Luz,Reig,27,6,612-642-754,terceros,1000,Rolls-Royce,Dawn,20,Rosa,Ronda Silvestre Campillo 15\nToledo 08433,Caceres,Navalmoral de la Mata
+67a0f82c8d8acdc8201d7aaa,52412826N,Carla,Mascaro,39,4,453-108-724,todo riesgo con franquicia,700,Ford,Escape,10,Plata,C de Gaspar Cobo 12\nMalaga 15368,Valencia,Torrent
+67a0f82c8d8acdc8201d7aab,64512944Z,Conrado,Miranda,66,36,832-442-271,terceros,550,Chevrolet,Equinox,5,Plata,C de Domitila Jaume 466 Piso 2 \nBurgos 36797,Jaen,Martos
+67a0f82c8d8acdc8201d7aac,11834285A,Artemio,Carro,35,13,993-161-906,todo riesgo con franquicia,610,Tesla,Model 3,7,Rojo,Canada de Rocio Jauregui 50 Puerta 5 \nHuesca 03551,Vizcaya,Santurtzi
+67a0f82c8d8acdc8201d7aad,19344659A,Yesica,Arnau,29,10,249-875-288,todo riesgo,970,Honda,CR-V,19,Rosa,Paseo Lino Hervia 958\nAlicante 03412,Sevilla,Ecija
+67a0f82c8d8acdc8201d7aae,95274882G,Anastasia,Leon,44,22,280-461-245,todo riesgo,610,Tesla,Model 3,7,Rojo,Alameda Javi Rocamora 20\nHuelva 23596,Pontevedra,Vilagarcia de Arousa
+67a0f82c8d8acdc8201d7aaf,21374199T,Patricia,Blazquez,38,17,739-927-638,terceros ampliado,520,Volkswagen,Tiguan,4,Blanco,Vial de Abel Gargallo 22 Puerta 7 \nCantabria 19380,Murcia,Cartagena
+67a0f82c8d8acdc8201d7ab0,32462239Q,Armando,Clavero,22,2,612-675-918,terceros ampliado,900,Nissan,Micra,10,Gris,Rambla Abril Cordero 7\nLas Palmas 18086,Segovia,San Ildefonso
+67a0f82c8d8acdc8201d7ab1,65930316B,Marino,Arevalo,39,17,070-664-547,terceros ampliado,910,Subaru,Forester,17,Rosa,Pasadizo Reyna Poza 703 Apt 70 \nGranada 02105,A Coruna,Oleiros
+67a0f82c8d8acdc8201d7ab2,68550436V,Ivan,Sedano,30,1,003-170-874,terceros,670,Nissan,Juke,9,Plata,Pasadizo de Guadalupe Aragones 78\nSoria 19964,Santa Cruz de Tenerife,Adeje
+67a0f82c8d8acdc8201d7ab3,71887161V,Evaristo,Alberdi,50,15,836-946-993,terceros,610,Kia,Soul,7,Rojo,C Herminio Vergara 44\nSalamanca 23512,Malaga,Velez-Malaga
+67a0f82c8d8acdc8201d7ab4,92869728Y,Carmelo,Alarcon,26,8,102-535-116,todo riesgo con franquicia,760,Nissan,Qashqai,12,Azul,Glorieta de Febe Rebollo 8\nToledo 40183,Santa Cruz de Tenerife,Puerto de la Cruz
+67a0f82c8d8acdc8201d7ab5,38643379K,Narciso,Pomares,18,0,124-149-802,terceros,660,Renault,Kadjar,2,Beige,Avenida Mireia Alonso 3 Piso 6 \nZaragoza 19741,Navarra,Tudela
+67a0f82c8d8acdc8201d7ab6,46897873E,Rodrigo,Reguera,60,6,501-329-587,todo riesgo con franquicia,490,Volkswagen,Polo,3,Beige,Calle de Mateo Valderrama 4 Piso 6 \nAlava 41475,Lugo,Viveiro
+67a0f82c8d8acdc8201d7ab7,64250387W,Ceferino,Baquero,39,12,925-013-455,todo riesgo con franquicia,580,Toyota,Yaris,6,Marron,Cuesta Eva Maria Vigil 7 Piso 9 \nCuenca 20804,Sevilla,Sevilla
+67a0f82c8d8acdc8201d7ab8,35756803Z,Hilda,Alvaro,58,25,300-736-134,terceros,820,Mercedes-Benz,GLE,14,Rosa,Callejon Climaco Solana 30 Piso 4 \nTarragona 14962,Toledo,Torrijos
+67a0f82c8d8acdc8201d7ab9,85858377K,Rafaela,Conesa,27,3,970-262-626,todo riesgo con franquicia,520,Ferrari,Portofino,4,Beige,Canada de Toribio Carrillo 71\nAlbacete 24521,Guadalajara,Molina de Aragon
+67a0f82c8d8acdc8201d7aba,82956366N,Juliana,Enriquez,50,15,186-796-222,terceros ampliado,550,Ford,Explorer,5,Azul,Acceso Gaspar Lopez 85 Piso 9 \nLleida 03955,Granada,Almunecar
+67a0f82c8d8acdc8201d7abb,84014172W,Hernando,Mendez,36,12,947-889-468,terceros ampliado,880,Bentley,Continental GT,16,Gris,Canada de Pacifica Rivera 32\nMadrid 33696,Lugo,Viveiro
+67a0f82c8d8acdc8201d7abc,82331672K,Jovita,Mugica,57,16,375-843-609,terceros ampliado,850,Ford,Mustang,15,Rosa,Ronda Angelica Mena 59\nHuelva 29073,Asturias,Aviles
+67a0f82c8d8acdc8201d7abd,13137184K,Flor,Anguita,19,1,872-414-323,todo riesgo con franquicia,1200,Lamborghini,Murcielago,20,Blanco,Vial de Nadia Montenegro 95\nCantabria 11743,Jaen,Jaen
+67a0f82c8d8acdc8201d7abe,65954557X,Dionisio,Gordillo,33,12,552-024-517,todo riesgo,580,Suzuki,SX4,6,Marron,Cuesta Cebrian Daza 87 Piso 6 \nHuelva 05407,Alicante,Alicante
+67a0f82c8d8acdc8201d7abf,44237950A,Anselma,Gamez,39,1,783-058-243,todo riesgo,580,Seat,Leon,6,Rojo,Camino de Roldan Oliveras 5\nTarragona 36823,Albacete,Hellin
+67a0f82c8d8acdc8201d7ac0,21880951Q,Danilo,Salinas,34,6,649-584-275,terceros ampliado,460,Seat,Ibiza,2,Negro,Plaza de Juanito Vilanova 85\nGuadalajara 31001,Ciudad Real,Valdepenas
+67a0f82c8d8acdc8201d7ac1,22024416F,Prudencia,Pedraza,40,1,872-993-598,terceros,1000,Aston Martin,DB9,20,Plata,Pasaje Marina Carranza 53\nZamora 42053,Lleida,Lleida
+67a0f82c8d8acdc8201d7ac2,21842653J,Haroldo,Ugarte,24,2,106-391-750,todo riesgo con franquicia,870,BMW,X5,9,Azul,Glorieta de Armando Ayala 12\nJaen 12129,Badajoz,Don Benito
+67a0f82c8d8acdc8201d7ac3,94699283A,Alejo,Salcedo,45,13,608-267-467,todo riesgo con franquicia,910,Subaru,Impreza,17,Plata,Via Maria Orozco 682\nPalencia 04316,Las Palmas,Arrecife
+67a0f82c8d8acdc8201d7ac4,68054895B,Adora,Lillo,34,4,068-042-751,todo riesgo con franquicia,520,Rolls-Royce,Wraith,4,Gris,Acceso Josep Bru 5 Piso 1 \nBarcelona 36267,Valencia,Valencia
+67a0f82c8d8acdc8201d7ac5,31656207L,Albert,Cabo,44,11,305-157-923,terceros ampliado,940,Land Rover,Discovery Sport,18,Plata,Acceso de Florencia Moran 67\nHuesca 02833,Badajoz,Villanueva de la Serena
+67a0f82c8d8acdc8201d7ac6,38835683E,Evita,Palacio,70,42,069-032-336,terceros ampliado,820,Toyota,Corolla,14,Verde,Acceso Virginia Canizares 93\nCeuta 44933,Cantabria,El Astillero
+67a0f82c8d8acdc8201d7ac7,14544181Q,Maria Fernanda,Suarez,20,2,881-529-324,terceros,1110,Toyota,Corolla,17,Rojo,Via de Julieta Posada 41\nToledo 02097,Caceres,Coria
+67a0f82c8d8acdc8201d7ac8,30850674S,Vilma,Galan,53,31,022-484-556,todo riesgo con franquicia,700,McLaren,765LT,10,Rosa,Camino Maximiliano Cueto 93\nZaragoza 43375,Cordoba,Montilla
+67a0f82c8d8acdc8201d7ac9,17296555A,Hilario,Batalla,52,15,388-774-446,todo riesgo con franquicia,820,Ford,Fiesta,14,Beige,Ronda Lourdes Mateu 8\nAvila 51618,Teruel,Alcaniz
+67a0f82c8d8acdc8201d7aca,63414083R,Visitacion,Barrera,59,32,121-105-210,todo riesgo,460,Hyundai,i20,2,Verde,Glorieta Ligia Perez 34\nBurgos 06158,Lleida,Cervera
+67a0f82c8d8acdc8201d7acb,17291401R,Ovidio,Girona,41,7,155-035-250,todo riesgo con franquicia,490,Kia,Rio,3,Beige,Plaza Maxi Ferreras 8 Puerta 1 \nTeruel 15683,Girona,Lloret de Mar
+67a0f82c8d8acdc8201d7acc,94462338G,Anunciacion,Lobo,38,9,939-577-140,todo riesgo con franquicia,700,Lexus,RX,10,Azul,Pasadizo de Julio Cesar Velasco 96\nNavarra 01917,Valladolid,Arroyo de la Encomienda
+67a0f82c8d8acdc8201d7acd,29268278L,Delia,Villaverde,44,7,785-809-690,todo riesgo,790,Audi,A4,13,Verde,Pasadizo Mariana Martinez 260\nAvila 35709,Toledo,Toledo
+67a0f82c8d8acdc8201d7ace,54011329S,Pascuala,Criado,25,6,675-328-641,terceros ampliado,970,Renault,Kadjar,19,Gris,Ronda Silvestre Corbacho 66 Apt 57 \nCadiz 06866,Sevilla,Ecija
+67a0f82c8d8acdc8201d7acf,43170559L,Lourdes,Paez,52,26,254-701-237,todo riesgo con franquicia,790,Nissan,Micra,13,Plata,Glorieta de Luis Rosado 85\nAsturias 35447,Caceres,Trujillo
+67a0f82c8d8acdc8201d7ad0,16978210R,Dan,Salcedo,41,16,293-990-052,terceros,520,Seat,Ibiza,4,Plata,Ronda Miguel Maza 69 Piso 9 \nLa Coruna 48061,Cadiz,Jerez de la Frontera
+67a0f82c8d8acdc8201d7ad1,93809151V,Carla,Revilla,54,12,358-413-400,todo riesgo,970,Honda,HR-V,19,Rosa,Glorieta Miguel Bernat 13\nCadiz 01235,Alicante,Alicante
+67a0f82c8d8acdc8201d7ad2,54073526C,Raul,Arevalo,47,28,965-148-849,terceros ampliado,490,Alfa Romeo,Stelvio,3,Beige,C Gabino Riera 53\nSegovia 07117,Vizcaya,Santurtzi
+67a0f82c8d8acdc8201d7ad3,51330753C,Araceli,Jara,55,11,689-111-010,terceros,760,Volkswagen,Arteon,12,Plata,Glorieta Reyes Ibanez 4\nLleida 49278,Valencia,Torrent
+67a0f82c8d8acdc8201d7ad4,86356857E,Consuelo,Ribera,27,6,784-527-134,todo riesgo,430,Bugatti,Bolide,1,Verde,Cuesta de Baltasar Pacheco 53 Puerta 9 \nZamora 31886,Granada,Loja
+67a0f82c8d8acdc8201d7ad5,12145568G,Rocio,Avila,27,3,738-423-602,todo riesgo,940,Jaguar,XE,18,Marron,Plaza de Guillermo Aguilo 444\nCordoba 38586,Valencia,Valencia
+67a0f82c8d8acdc8201d7ad6,56145883P,Beatriz,Puente,45,6,834-588-632,terceros ampliado,820,Renault,Megane,14,Rosa,Pasadizo de Micaela Agudo 61 Puerta 0 \nLeon 20119,Sevilla,Alcala de Guadaira
+67a0f82c8d8acdc8201d7ad7,22160613K,Onofre,Fonseca,47,1,791-597-218,terceros ampliado,790,Aston Martin,Vantage,13,Verde,Glorieta Reyna Ibanez 45 Puerta 8 \nVizcaya 38101,Lleida,Mollerussa
+67a0f82c8d8acdc8201d7ad8,48622854A,Dora,Morell,40,5,970-596-382,terceros ampliado,460,Jeep,Cherokee,2,Verde,Paseo Maria Carrasco 26 Puerta 8 \nGirona 19657,Valencia,Valencia
+67a0f82c8d8acdc8201d7ad9,38178389E,Susana,Hidalgo,63,7,153-797-328,terceros,790,Toyota,Corolla,13,Plata,Ronda Olegario Blasco 81\nSegovia 16465,Leon,Villaquilambre
+67a0f82c8d8acdc8201d7ada,31800668V,Eli,Valencia,49,6,287-489-200,terceros,430,Chevrolet,Bolt,1,Rosa,Avenida Maxima Llano 13\nLeon 15326,Jaen,Jaen
+67a0f82c8d8acdc8201d7adb,20106616Q,Flora,Fabregat,60,12,174-341-311,todo riesgo,760,Audi,A6,12,Plata,Canada de Rico Macias 569\nLa Coruna 15180,Teruel,Andorra
+67a0f82c8d8acdc8201d7adc,49968767W,Ezequiel,Nicolau,29,3,831-986-295,terceros,580,Fiat,500X,6,Negro,Urbanizacion Vinicio Madrid 51\nZaragoza 16231,Teruel,Calanda
+67a0f82c8d8acdc8201d7add,43552557X,Flavia,Martorell,49,21,815-939-554,terceros,610,Mini,Paceman,7,Negro,Calle de Inocencio Burgos 108 Puerta 3 \nLugo 41261,Zaragoza,Zaragoza
+67a0f82c8d8acdc8201d7ade,60828185Q,Geronimo,Iglesia,25,5,338-161-010,terceros,790,Ferrari,488,13,Blanco,Pasadizo Julieta Andres 4 Piso 1 \nTeruel 40207,Huesca,Monzon
+67a0f82c8d8acdc8201d7adf,88547287R,Herberto,Alvarez,31,3,311-535-878,terceros ampliado,700,Audi,A3,10,Gris,Acceso de Ruy Rivas 10 Apt 76 \nZaragoza 09116,Malaga,Mijas
+67a0f82c8d8acdc8201d7ae0,27301618C,Palmira,Pons,47,7,978-997-200,terceros ampliado,490,Alfa Romeo,Giulietta,3,Plata,Plaza Ale Valdes 341\nNavarra 42646,Salamanca,Salamanca
+67a0f82c8d8acdc8201d7ae1,50480902L,Jose Ignacio,Paniagua,18,0,180-611-599,terceros ampliado,1200,Mercedes-Benz,GLE,20,Gris,Canada de Cristian Beltran 7\nValencia 07393,Tarragona,Tortosa
+67a0f82c8d8acdc8201d7ae2,33329364H,Hilario,Mesa,69,26,017-799-875,todo riesgo con franquicia,430,Jeep,Grand Cherokee,1,Verde,Via Sabas Pont 7\nSoria 15231,Avila,Arevalo
+67a0f82c8d8acdc8201d7ae3,41199183L,Consuelo,Rovira,55,37,756-390-726,terceros,490,Seat,Ibiza,3,Beige,C Dionisio Lobato 511\nPalencia 33856,Avila,Candeleda
+67a0f82c8d8acdc8201d7ae4,74515901H,Reyes,Marquez,49,4,546-985-374,todo riesgo con franquicia,460,Porsche,Taycan,2,Marron,Via Marcela Pinto 87\nGuipuzcoa 07702,Granada,Loja
+67a0f82c8d8acdc8201d7ae5,77192603A,Albano,Escolano,24,3,653-868-355,terceros ampliado,1170,Jaguar,XE,19,Verde,Plaza Lorenzo Vilar 221 Puerta 0 \nLa Rioja 22702,Palencia,Aguilar de Campoo
+67a0f82c8d8acdc8201d7ae6,97618483C,Humberto,Oliva,67,25,371-188-639,terceros ampliado,1000,Tesla,Model S,20,Rosa,Glorieta Emigdio Fernandez 78 Apt 41 \nCastellon 03969,Alava,Salvatierra/Agurain
+67a0f82c8d8acdc8201d7ae7,24732413F,Apolinar,Molins,66,25,460-115-722,todo riesgo con franquicia,940,Honda,Fit,18,Azul,Cuesta de Diana Mas 83\nSegovia 37471,Albacete,La Roda
+67a0f82c8d8acdc8201d7ae8,13859994X,Chuy,Guillen,68,9,055-373-237,todo riesgo con franquicia,940,Suzuki,Swift,18,Verde,Pasadizo de Vidal Duarte 896 Apt 94 \nCadiz 14268,Palencia,Venta de Banos
+67a0f82c8d8acdc8201d7ae9,83162795Q,Paco,Ferran,54,18,439-929-663,todo riesgo,820,Mini,Countryman,14,Marron,Rambla de Nicodemo Barrera 59 Apt 12 \nPontevedra 12115,Castellon,Villarreal
+67a0f82c8d8acdc8201d7aea,81353516D,Maria Carmen,Castello,69,8,857-736-320,terceros,970,Opel,Crossland X,19,Rojo,Glorieta de Pablo Ruano 1 Piso 6 \nTeruel 06157,Badajoz,Don Benito
+67a0f82c8d8acdc8201d7aeb,62129008M,Primitivo,Malo,28,1,133-146-264,terceros ampliado,700,Jaguar,E-Pace,10,Verde,Alameda de Urbano Casares 55\nSalamanca 40661,Madrid,Fuenlabrada
+67a0f82c8d8acdc8201d7aec,38285582N,Olimpia,Agusti,23,4,962-158-434,terceros,660,Seat,Arona,2,Rosa,Acceso de Rosario Rosello 37\nLeon 12621,Vizcaya,Barakaldo
+67a0f82c8d8acdc8201d7aed,91136471Y,Amado,Folch,35,3,848-573-019,terceros,880,Suzuki,SX4,16,Blanco,Calle de Felicia Pina 9 Puerta 8 \nPalencia 14261,Zamora,Morales del Vino
+67a0f82c8d8acdc8201d7aee,42892244G,Javi,Juarez,41,12,566-571-505,todo riesgo,610,Mazda,CX-30,7,Plata,Urbanizacion de Pastor Pascual 97\nJaen 36712,Asturias,Aviles
+67a0f82c8d8acdc8201d7aef,58712431D,Andres,Leiva,58,22,646-843-995,terceros ampliado,610,Ferrari,Roma,7,Rosa,Canada Jose Angel Jorda 95\nMelilla 47464,Segovia,Cuellar
+67a0f82c8d8acdc8201d7af0,28587142M,Chelo,Segovia,68,4,685-844-858,todo riesgo,910,Subaru,Ascent,17,Blanco,Cuesta Gil Lopez 503 Puerta 4 \nBarcelona 45542,Murcia,Murcia
+67a0f82c8d8acdc8201d7af1,44096015R,Consuelo,Crespi,55,13,754-460-097,todo riesgo,520,Ford,Explorer,4,Azul,Glorieta Ximena Pavon 4\nGuipuzcoa 11888,Huelva,Isla Cristina
+67a0f82c8d8acdc8201d7af2,32334557F,Manu,Amo,31,1,180-957-282,terceros,520,Tesla,Model Y,4,Rojo,Vial de Dolores Sastre 19\nBadajoz 42539,Huelva,Ayamonte
+67a0f82c8d8acdc8201d7af3,59229060N,Priscila,Bustamante,46,25,152-443-918,todo riesgo con franquicia,970,Chevrolet,Malibu,19,Marron,Cuesta de Hilario Esteve 81 Apt 66 \nBadajoz 48284,Toledo,Sesena
+67a0f82c8d8acdc8201d7af4,26454902A,David,Piquer,30,1,013-641-016,todo riesgo con franquicia,820,Ford,Focus,14,Marron,Callejon Albino Padilla 219\nCordoba 10984,Malaga,Mijas
+67a0f82c8d8acdc8201d7af5,54530486Q,Azahara,Abascal,47,14,386-712-097,todo riesgo con franquicia,580,Subaru,Outback,6,Azul,Cuesta de Ruth Ruano 6 Apt 18 \nSalamanca 41331,Cadiz,Cadiz
+67a0f82c8d8acdc8201d7af6,32057689J,Cristian,Cabeza,26,8,103-349-660,todo riesgo,610,Dacia,Stepway,7,Plata,Plaza de Georgina Mendizabal 44\nValencia 19780,Sevilla,Sevilla
+67a0f82c8d8acdc8201d7af7,42913634G,Judith,Barroso,69,18,215-653-687,terceros,940,Mazda,CX-30,18,Verde,Pasadizo Teodosio Vilaplana 75 Apt 67 \nVizcaya 07597,Guadalajara,Alovera
+67a0f82c8d8acdc8201d7af8,47910550D,Iris,Tamarit,70,42,592-709-697,terceros,880,Skoda,Kodiaq,16,Marron,Calle Aranzazu Gaya 84\nSoria 15479,Salamanca,Ciudad Rodrigo
+67a0f82c8d8acdc8201d7af9,78443867K,Juan Francisco,Oliver,47,7,166-487-054,terceros ampliado,460,Skoda,Karoq,2,Plata,Rambla de Felisa Abad 1 Piso 7 \nLas Palmas 12328,Granada,Loja
+67a0f82c8d8acdc8201d7afa,72582005P,Encarnacion,Valbuena,56,12,270-302-867,terceros ampliado,730,Aston Martin,Rapide,11,Marron,Plaza Anastasia Galindo 39 Puerta 6 \nBarcelona 36944,Valladolid,Laguna de Duero

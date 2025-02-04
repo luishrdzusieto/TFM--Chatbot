@@ -1,0 +1,301 @@
+_id,id_chatbot,resultado_modelo,fecha_consulta,nombre,apellido,ciudad,marca_vehiculo,modelo_vehiculo,componente,prima,coste_material,coste_mano_obra,coste_total
+67a10dc87a29442621553179,1,acierto,01/09/2024,Otilia,Santamaria,Villamuriel de Cerrato,Jaguar,XE,Puerta,750,218.15,239.97,458.12
+67a10dc87a2944262155317a,1,acierto,01/09/2024,Otilia,Santamaria,Villamuriel de Cerrato,Jaguar,XE,Parabrisas,750,144.77,166.49,311.26
+67a10dc87a2944262155317b,1,fallido,02/09/2024,Otilia,Santamaria,Villamuriel de Cerrato,Jaguar,XE,Faro,750,130.81,137.35,268.16
+67a10dc87a2944262155317c,2,fallido,02/09/2024,Lorena,Ibanez,Arrecife,BMW,X3,Parabrisas,940,146.38,168.34,314.72
+67a10dc87a2944262155317d,3,fallido,03/09/2024,Segismundo,Baena,Arona,Renault,Megane,Parabrisas,580,213.23,245.21,458.44
+67a10dc87a2944262155317e,4,fallido,03/09/2024,Leopoldo,Aramburu,Naron,Citroen,C3,Faro,1000,50.36,52.88,103.24
+67a10dc87a2944262155317f,4,fallido,04/09/2024,Leopoldo,Aramburu,Naron,Citroen,C3,Luna,1000,122.56,134.82,257.38
+67a10dc87a29442621553180,5,fallido,05/09/2024,Juana,Torre,Almonte,Fiat,Punto,Ventana,640,75.02,78.77,153.79
+67a10dc87a29442621553181,6,fallido,06/09/2024,Rodrigo,Contreras,Cangas,Renault,Megane,Ventana,820,127.33,133.7,261.03
+67a10dc87a29442621553182,7,fallido,06/09/2024,Carmelita,Vilar,Las Palmas de Gran Canaria,Mitsubishi,Mirage,Techo,550,130.82,150.44,281.26
+67a10dc87a29442621553183,7,fallido,07/09/2024,Carmelita,Vilar,Las Palmas de Gran Canaria,Mitsubishi,Mirage,Rueda,550,68.23,68.23,136.46
+67a10dc87a29442621553184,8,fallido,08/09/2024,Bonifacio,Alegria,Lorca,Toyota,Corolla,Parachoques,580,114.35,125.79,240.14
+67a10dc87a29442621553185,9,fallido,09/09/2024,Ricardo,Cuesta,Cartagena,Jeep,Compass,Guardabarros,1080,72.72,76.36,149.08
+67a10dc87a29442621553186,10,fallido,10/09/2024,Sol,Suarez,Toledo,Renault,Kadjar,Capo,970,95.94,105.53,201.47
+67a10dc87a29442621553187,10,fallido,10/09/2024,Sol,Suarez,Toledo,Renault,Kadjar,Guardabarros,970,83.9,88.1,172
+67a10dc87a29442621553188,11,fallido,11/09/2024,Vidal,Lluch,Getxo,Volvo,XC60,Maletero,640,94.73,104.2,198.93
+67a10dc87a29442621553189,12,fallido,12/09/2024,Erasmo,Arco,Talavera de la Reina,Tesla,Roadster,Motor,970,158.07,205.49,363.56
+67a10dc87a2944262155318a,13,fallido,13/09/2024,Calista,Carretero,Benidorm,Kia,Soul,Motor,1000,222.34,289.04,511.38
+67a10dc87a2944262155318b,13,fallido,13/09/2024,Calista,Carretero,Benidorm,Kia,Soul,Ventana,1000,52.64,55.27,107.91
+67a10dc87a2944262155318c,14,fallido,14/09/2024,Florinda,Sarabia,Merida,Lamborghini,Urus,Techo,720,247.29,284.38,531.67
+67a10dc87a2944262155318d,14,fallido,14/09/2024,Florinda,Sarabia,Merida,Lamborghini,Urus,Rueda,720,82.67,82.67,165.34
+67a10dc87a2944262155318e,14,fallido,15/09/2024,Florinda,Sarabia,Merida,Lamborghini,Urus,Ventana,720,116.8,122.64,239.44
+67a10dc87a2944262155318f,15,fallido,16/09/2024,Moreno,Ortuno,Torrelavega,Honda,Civic,Parabrisas,660,168.82,194.14,362.96
+67a10dc87a29442621553190,16,fallido,17/09/2024,Ofelia,Belmonte,Elche,Jeep,Wrangler,Luna,850,116.33,127.96,244.29
+67a10dc87a29442621553191,17,fallido,17/09/2024,Desiderio,Puga,Molina de Segura,Subaru,Impreza,Rueda,610,91.21,91.21,182.42
+67a10dc87a29442621553192,17,fallido,18/09/2024,Desiderio,Puga,Molina de Segura,Subaru,Impreza,Faro,610,110.27,115.78,226.05
+67a10dc87a29442621553193,17,fallido,19/09/2024,Desiderio,Puga,Molina de Segura,Subaru,Impreza,Ventana,610,73.4,77.07,150.47
+67a10dc87a29442621553194,17,fallido,20/09/2024,Desiderio,Puga,Molina de Segura,Subaru,Impreza,Guardabarros,610,152.48,160.1,312.58
+67a10dc87a29442621553195,18,fallido,20/09/2024,Victoria,Jaume,Cantalejo,Ferrari,Portofino,Faro,580,131.55,138.13,269.68
+67a10dc87a29442621553196,18,fallido,20/09/2024,Victoria,Jaume,Cantalejo,Ferrari,Portofino,Ventana,580,96.8,101.64,198.44
+67a10dc87a29442621553197,19,fallido,21/09/2024,Adela,Acero,Gandia,Volkswagen,Passat,Techo,940,133.25,153.24,286.49
+67a10dc87a29442621553198,20,fallido,22/09/2024,Ana Belen,Delgado,Ubeda,Jeep,Compass,Rueda,630,83.56,83.56,167.12
+67a10dc87a29442621553199,21,fallido,23/09/2024,Isidora,Gutierrez,Mostoles,Peugeot,2008,Maletero,1000,81.02,89.12,170.14
+67a10dc87a2944262155319a,21,fallido,24/09/2024,Isidora,Gutierrez,Mostoles,Peugeot,2008,Rueda,1000,51.95,51.95,103.9
+67a10dc87a2944262155319b,22,fallido,25/09/2024,Narcisa,Canovas,Castro Urdiales,Lexus,UX,Parabrisas,730,148.84,171.17,320.01
+67a10dc87a2944262155319c,23,fallido,25/09/2024,Adora,Minguez,Getxo,Suzuki,Jimny,Ventana,990,73.37,77.04,150.41
+67a10dc87a2944262155319d,23,fallido,25/09/2024,Adora,Minguez,Getxo,Suzuki,Jimny,Maletero,990,100.96,111.06,212.02
+67a10dc87a2944262155319e,23,fallido,25/09/2024,Adora,Minguez,Getxo,Suzuki,Jimny,Rueda,990,89.18,89.18,178.36
+67a10dc87a2944262155319f,24,fallido,26/09/2024,Nando,Quevedo,Fraga,Mini,Cooper,Ventana,490,101.49,106.56,208.05
+67a10dc87a294426215531a0,25,fallido,27/09/2024,Amando,Acedo,Toledo,Lamborghini,Urus,Guardabarros,700,125.63,131.91,257.54
+67a10dc87a294426215531a1,26,fallido,28/09/2024,Rico,Bravo,Alcantarilla,Alfa Romeo,Giulia,Rueda,910,56.42,56.42,112.84
+67a10dc87a294426215531a2,27,fallido,29/09/2024,Arcelia,Alberto,Santa Cruz de Tenerife,Tesla,Model 3,Motor,580,505.29,656.88,1162.17
+67a10dc87a294426215531a3,28,fallido,30/09/2024,Aitor,Contreras,Sagunto,Porsche,Panamera,Ventana,580,113.64,119.32,232.96
+67a10dc87a294426215531a4,28,fallido,01/10/2024,Aitor,Contreras,Sagunto,Porsche,Panamera,Luna,580,152.88,168.17,321.05
+67a10dc87a294426215531a5,28,fallido,01/10/2024,Aitor,Contreras,Sagunto,Porsche,Panamera,Rueda,580,109.34,109.34,218.68
+67a10dc87a294426215531a6,28,fallido,01/10/2024,Aitor,Contreras,Sagunto,Porsche,Panamera,Motor,580,498.37,647.88,1146.25
+67a10dc87a294426215531a7,29,fallido,01/10/2024,Victor,Buendia,Eibar,Subaru,Outback,Ventana,490,45.34,47.61,92.95
+67a10dc87a294426215531a8,30,fallido,02/10/2024,Sancho,Palau,La Roda,Subaru,Outback,Faro,460,57.15,60.01,117.16
+67a10dc87a294426215531a9,31,fallido,03/10/2024,Adelia,Gimenez,San Esteban de Gormaz,Nissan,X-Trail,Luna,1020,118.57,130.43,249
+67a10dc87a294426215531aa,31,fallido,04/10/2024,Adelia,Gimenez,San Esteban de Gormaz,Nissan,X-Trail,Ventana,1020,65.09,68.34,133.43
+67a10dc87a294426215531ab,32,fallido,05/10/2024,Ovidio,Salcedo,Santiago de Compostela,Mercedes-Benz,Clase C,Techo,850,124.46,143.13,267.59
+67a10dc87a294426215531ac,33,acierto,06/10/2024,Vilma,Navarro,Reus,Bentley,Bentayga,Techo,660,240.74,276.85,517.59
+67a10dc87a294426215531ad,34,acierto,06/10/2024,Emma,Sebastian,Fraga,Skoda,Octavia,Rueda,550,81.26,81.26,162.52
+67a10dc87a294426215531ae,34,acierto,07/10/2024,Emma,Sebastian,Fraga,Skoda,Octavia,Techo,550,142.83,164.25,307.08
+67a10dc87a294426215531af,35,acierto,08/10/2024,Rico,Montesinos,Pamplona,Kia,Optima,Puerta,670,125.85,138.44,264.29
+67a10dc87a294426215531b0,36,acierto,08/10/2024,Andrea,Viana,Telde,Nissan,Micra,Faro,490,124.39,130.61,255
+67a10dc87a294426215531b1,37,acierto,09/10/2024,Xavier,Vera,Tordesillas,Dacia,Sandero,Parabrisas,910,101.82,117.09,218.91
+67a10dc87a294426215531b2,37,acierto,10/10/2024,Xavier,Vera,Tordesillas,Dacia,Sandero,Luna,910,90.1,99.11,189.21
+67a10dc87a294426215531b3,38,fallido,11/10/2024,Lupita,Padilla,Mijas,Audi,Q7,Ventana,760,106.42,111.74,218.16
+67a10dc87a294426215531b4,39,fallido,12/10/2024,Oriana,Flor,Jaca,Jeep,Wrangler,Techo,490,104.21,119.84,224.05
+67a10dc87a294426215531b5,39,fallido,13/10/2024,Oriana,Flor,Jaca,Jeep,Wrangler,Rueda,490,47.29,47.29,94.58
+67a10dc87a294426215531b6,39,fallido,14/10/2024,Oriana,Flor,Jaca,Jeep,Wrangler,Parachoques,490,96.56,106.22,202.78
+67a10dc87a294426215531b7,40,fallido,15/10/2024,Dan,Baeza,Murcia,Dacia,Stepway,Guardabarros,870,130.96,137.51,268.47
+67a10dc87a294426215531b8,41,fallido,16/10/2024,Primitivo,Baron,Barbadas,Renault,Twingo,Capo,610,121.09,133.2,254.29
+67a10dc87a294426215531b9,41,fallido,17/10/2024,Primitivo,Baron,Barbadas,Renault,Twingo,Maletero,610,173.85,191.24,365.09
+67a10dc87a294426215531ba,42,fallido,18/10/2024,Noe,Poza,Jerez de la Frontera,Renault,Kadjar,Motor,460,277.12,360.26,637.38
+67a10dc87a294426215531bb,42,fallido,19/10/2024,Noe,Poza,Jerez de la Frontera,Renault,Kadjar,Puerta,460,121.58,133.74,255.32
+67a10dc87a294426215531bc,42,fallido,20/10/2024,Noe,Poza,Jerez de la Frontera,Renault,Kadjar,Faro,460,59.04,61.99,121.03
+67a10dc87a294426215531bd,42,fallido,21/10/2024,Noe,Poza,Jerez de la Frontera,Renault,Kadjar,Parabrisas,460,98.28,113.02,211.3
+67a10dc87a294426215531be,42,fallido,22/10/2024,Noe,Poza,Jerez de la Frontera,Renault,Kadjar,Parachoques,460,80.2,88.22,168.42
+67a10dc87a294426215531bf,43,fallido,23/10/2024,Carmelo,Rey,Monzon,Land Rover,Discovery Sport,Capo,1140,125.02,137.52,262.54
+67a10dc87a294426215531c0,43,fallido,24/10/2024,Carmelo,Rey,Monzon,Land Rover,Discovery Sport,Maletero,1140,92.85,102.14,194.99
+67a10dc87a294426215531c1,43,fallido,25/10/2024,Carmelo,Rey,Monzon,Land Rover,Discovery Sport,Techo,1140,141.55,162.78,304.33
+67a10dc87a294426215531c2,43,fallido,26/10/2024,Carmelo,Rey,Monzon,Land Rover,Discovery Sport,Rueda,1140,48.53,48.53,97.06
+67a10dc87a294426215531c3,44,fallido,27/10/2024,Maria Jesus,Balaguer,Soria,Mazda,3,Puerta,580,162.62,178.88,341.5
+67a10dc87a294426215531c4,44,fallido,28/10/2024,Maria Jesus,Balaguer,Soria,Mazda,3,Parachoques,580,122.83,135.11,257.94
+67a10dc87a294426215531c5,44,fallido,29/10/2024,Maria Jesus,Balaguer,Soria,Mazda,3,Capo,580,206.95,227.65,434.6
+67a10dc87a294426215531c6,45,fallido,30/10/2024,Noelia,Verdu,Jaen,Audi,Q5,Maletero,870,143.96,158.36,302.32
+67a10dc87a294426215531c7,46,fallido,31/10/2024,Lope,Santamaria,San Sebastian,Ford,Focus,Techo,880,120.66,138.76,259.42
+67a10dc87a294426215531c8,47,fallido,01/11/2024,Espiridion,Amo,Getxo,Fiat,Punto,Rueda,760,64,64,128
+67a10dc87a294426215531c9,47,fallido,02/11/2024,Espiridion,Amo,Getxo,Fiat,Punto,Maletero,760,96.14,105.75,201.89
+67a10dc87a294426215531ca,47,fallido,03/11/2024,Espiridion,Amo,Getxo,Fiat,Punto,Techo,760,213.9,245.98,459.88
+67a10dc87a294426215531cb,48,fallido,04/11/2024,Maria,Lastra,Arroyo de la Encomienda,Land Rover,Range Rover,Techo,610,208.72,240.03,448.75
+67a10dc87a294426215531cc,49,fallido,05/11/2024,Mario,Blanco,Velez-Malaga,BMW,Serie 3,Parachoques,970,172.37,189.61,361.98
+67a10dc87a294426215531cd,49,fallido,06/11/2024,Mario,Blanco,Velez-Malaga,BMW,Serie 3,Puerta,970,159.35,175.28,334.63
+67a10dc87a294426215531ce,49,fallido,07/11/2024,Mario,Blanco,Velez-Malaga,BMW,Serie 3,Faro,970,76.84,80.68,157.52
+67a10dc87a294426215531cf,50,fallido,08/11/2024,Narciso,Gallardo,Utrera,Porsche,Panamera,Parabrisas,430,157.64,181.29,338.93
+67a10dc87a294426215531d0,51,fallido,08/11/2024,Olalla,Guzman,Ciudad Real,Citroen,C4,Parachoques,720,106.14,116.75,222.89
+67a10dc87a294426215531d1,52,fallido,08/11/2024,Roldan,Yanez,Alicante,Volvo,XC60,Puerta,850,190.49,209.54,400.03
+67a10dc87a294426215531d2,52,fallido,08/11/2024,Roldan,Yanez,Alicante,Volvo,XC60,Faro,850,122.23,128.34,250.57
+67a10dc87a294426215531d3,53,fallido,09/11/2024,Luciano,Miranda,Arenas de San Pedro,BMW,Serie 1,Luna,490,192.75,212.03,404.78
+67a10dc87a294426215531d4,54,fallido,10/11/2024,Evelia,Tudela,Oviedo,Lamborghini,Aventador,Ventana,660,113.7,119.39,233.09
+67a10dc87a294426215531d5,55,fallido,11/11/2024,Alexandra,Gisbert,Arenas de San Pedro,Bugatti,Divo,Techo,880,90.11,103.63,193.74
+67a10dc87a294426215531d6,55,acierto,12/11/2024,Alexandra,Gisbert,Arenas de San Pedro,Bugatti,Divo,Rueda,880,81.04,81.04,162.08
+67a10dc87a294426215531d7,55,fallido,13/11/2024,Alexandra,Gisbert,Arenas de San Pedro,Bugatti,Divo,Parachoques,880,87.35,96.09,183.44
+67a10dc87a294426215531d8,56,fallido,14/11/2024,Elisabet,Varela,Palma del Rio,Bugatti,Chiron,Techo,520,202.25,232.59,434.84
+67a10dc87a294426215531d9,56,fallido,14/11/2024,Elisabet,Varela,Palma del Rio,Bugatti,Chiron,Guardabarros,520,160.89,168.93,329.82
+67a10dc87a294426215531da,57,acierto,15/11/2024,Eustaquio,Carnero,A Coruna,Volvo,XC90,Capo,790,118.83,130.71,249.54
+67a10dc87a294426215531db,58,fallido,16/11/2024,Horacio,Suarez,Coria,Peugeot,3008,Maletero,550,201.51,221.66,423.17
+67a10dc87a294426215531dc,59,fallido,17/11/2024,Viviana,Cornejo,Baranain,Ferrari,F8 Tributo,Maletero,520,136.66,150.33,286.99
+67a10dc87a294426215531dd,60,fallido,17/11/2024,Carmela,Castell,Arnedo,Bugatti,Chiron Super Sport,Motor,820,274.14,356.38,630.52
+67a10dc87a294426215531de,61,acierto,18/11/2024,Paloma,Manrique,Roquetas de Mar,Hyundai,i10,Parabrisas,430,155.85,179.23,335.08
+67a10dc87a294426215531df,62,acierto,19/11/2024,Ariel,Diaz,Alcaniz,Opel,Mokka,Luna,780,129.58,142.54,272.12
+67a10dc87a294426215531e0,63,fallido,20/11/2024,Evelia,Contreras,Jaca,Bugatti,Chiron,Ventana,870,101.7,106.79,208.49
+67a10dc87a294426215531e1,63,fallido,21/11/2024,Evelia,Contreras,Jaca,Bugatti,Chiron,Parabrisas,870,229.02,263.37,492.39
+67a10dc87a294426215531e2,63,fallido,21/11/2024,Evelia,Contreras,Jaca,Bugatti,Chiron,Luna,870,157.7,173.47,331.17
+67a10dc87a294426215531e3,64,fallido,21/11/2024,Diana,Jurado,San Ildefonso,Nissan,Leaf,Ventana,760,79.48,83.45,162.93
+67a10dc87a294426215531e4,65,fallido,21/11/2024,Pili,Boada,Velez-Malaga,Bentley,Flying Spur,Parachoques,910,101.74,111.91,213.65
+67a10dc87a294426215531e5,66,fallido,22/11/2024,Bibiana,Gallego,Calahorra,Bugatti,Chiron Super Sport,Guardabarros,910,108.46,113.88,222.34
+67a10dc87a294426215531e6,67,fallido,23/11/2024,Jose,Huguet,Alcala de Henares,Opel,Astra,Capo,670,154.16,169.58,323.74
+67a10dc87a294426215531e7,68,fallido,24/11/2024,Matias,Pina,Almazora,Lexus,ES,Maletero,880,84.01,92.41,176.42
+67a10dc87a294426215531e8,69,fallido,25/11/2024,Amarilis,Cortina,Arnedo,Bentley,Flying Spur,Motor,1000,291.43,378.86,670.29
+67a10dc87a294426215531e9,70,acierto,26/11/2024,Jeremias,Alvarez,El Puerto de Santa Maria,Mercedes-Benz,Clase S,Maletero,460,97.1,106.81,203.91
+67a10dc87a294426215531ea,71,acierto,26/11/2024,Luciana,Matas,Alcaniz,Mini,Clubman,Motor,670,422.2,548.86,971.06
+67a10dc87a294426215531eb,72,acierto,26/11/2024,Rene,Marquez,Alcala de Henares,Citroen,C5,Parachoques,700,164.81,181.29,346.1
+67a10dc87a294426215531ec,73,acierto,27/11/2024,Serafina,Iglesias,Lepe,Nissan,Leaf,Guardabarros,790,137.52,144.4,281.92
+67a10dc87a294426215531ed,74,fallido,28/11/2024,Mayte,Casanova,Cadiz,Ferrari,Portofino,Rueda,580,118.15,118.15,236.3
+67a10dc87a294426215531ee,75,acierto,29/11/2024,Julia,Guerra,Tarazona,Honda,HR-V,Puerta,430,155.76,171.34,327.1
+67a10dc87a294426215531ef,76,fallido,30/11/2024,Moises,Bautista,Merida,Audi,A3,Parachoques,430,133.62,146.98,280.6
+67a10dc87a294426215531f0,77,fallido,01/12/2024,Pepito,Iriarte,Puertollano,Audi,Q7,Capo,820,85.68,94.25,179.93
+67a10dc87a294426215531f1,78,fallido,02/12/2024,Modesta,Feliu,Zaragoza,Bugatti,Divo,Maletero,820,137.42,151.16,288.58
+67a10dc87a294426215531f2,79,acierto,03/12/2024,Urbano,Perez,Telde,Subaru,Forester,Techo,760,183.59,211.13,394.72
+67a10dc87a294426215531f3,80,fallido,04/12/2024,Manuelita,Batlle,Reus,Alfa Romeo,4C,Rueda,430,48.79,48.79,97.58
+67a10dc87a294426215531f4,81,acierto,05/12/2024,Amarilis,Casals,Aguilar de Campoo,Rolls-Royce,Phantom,Rueda,520,94.07,94.07,188.14
+67a10dc87a294426215531f5,81,acierto,06/12/2024,Amarilis,Casals,Aguilar de Campoo,Rolls-Royce,Phantom,Maletero,520,205.55,226.11,431.66
+67a10dc87a294426215531f6,82,acierto,06/12/2024,Valero,Cervantes,Manacor,Chevrolet,Camaro,Techo,910,177.99,204.69,382.68
+67a10dc87a294426215531f7,83,acierto,06/12/2024,Jordana,Galvez,Camargo,Seat,Ateca,Rueda,550,107.08,107.08,214.16
+67a10dc87a294426215531f8,83,acierto,06/12/2024,Jordana,Galvez,Camargo,Seat,Ateca,Parachoques,550,85.37,93.91,179.28
+67a10dc87a294426215531f9,84,fallido,07/12/2024,Debora,Chaparro,Torrevieja,Renault,Captur,Techo,730,97.19,111.77,208.96
+67a10dc87a294426215531fa,85,fallido,08/12/2024,Soledad,Navas,Olot,Bugatti,Divo,Parachoques,430,87.35,96.09,183.44
+67a10dc87a294426215531fb,85,fallido,09/12/2024,Soledad,Navas,Olot,Bugatti,Divo,Puerta,430,122.24,134.46,256.7
+67a10dc87a294426215531fc,85,acierto,10/12/2024,Soledad,Navas,Olot,Bugatti,Divo,Faro,430,94.3,99.02,193.32
+67a10dc87a294426215531fd,86,acierto,11/12/2024,Lupita,Campos,Alcaniz,Alfa Romeo,4C,Luna,550,121.05,133.16,254.21
+67a10dc87a294426215531fe,87,fallido,12/12/2024,Pia,Bejarano,Ibiza,Lexus,IS,Techo,1170,132.29,152.13,284.42
+67a10dc87a294426215531ff,88,fallido,13/12/2024,Agustin,Ibarra,Cervera,Alfa Romeo,4C,Techo,490,105.41,121.22,226.63
+67a10dc87a29442621553200,88,fallido,13/12/2024,Agustin,Ibarra,Cervera,Alfa Romeo,4C,Rueda,490,48.79,48.79,97.58
+67a10dc87a29442621553201,89,acierto,14/12/2024,Amarilis,Gallart,Benidorm,Land Rover,Discovery Sport,Parachoques,880,58.28,64.11,122.39
+67a10dc87a29442621553202,89,fallido,15/12/2024,Amarilis,Gallart,Benidorm,Land Rover,Discovery Sport,Guardabarros,880,85.44,89.71,175.15
+67a10dc87a29442621553203,90,fallido,16/12/2024,Estefania,Pino,Logrono,Fiat,Tipo,Capo,690,161.3,177.43,338.73
+67a10dc87a29442621553204,91,fallido,17/12/2024,Tecla,Cabo,Laguna de Duero,Subaru,Forester,Capo,870,154.35,169.78,324.13
+67a10dc87a29442621553205,91,fallido,17/12/2024,Tecla,Cabo,Laguna de Duero,Subaru,Forester,Maletero,870,149.52,164.47,313.99
+67a10dc87a29442621553206,92,fallido,18/12/2024,Roberta,Pineda,Santurtzi,BMW,Serie 3,Motor,760,312.23,405.9,718.13
+67a10dc87a29442621553207,93,fallido,19/12/2024,Santiago,Herrero,Molina de Segura,Lamborghini,Murcielago,Parabrisas,820,249.85,287.33,537.18
+67a10dc87a29442621553208,93,acierto,20/12/2024,Santiago,Herrero,Molina de Segura,Lamborghini,Murcielago,Maletero,820,163.25,179.58,342.83
+67a10dc87a29442621553209,94,fallido,21/12/2024,Julie,Espana,Torrevieja,Land Rover,Discovery,Maletero,730,87.8,96.58,184.38
+67a10dc87a2944262155320a,95,fallido,21/12/2024,Nayara,Pavon,Penaranda de Bracamonte,McLaren,P1,Motor,640,476.11,618.94,1095.05
+67a10dc87a2944262155320b,96,fallido,22/12/2024,Ruy,Elias,Tarazona,Renault,Twingo,Parachoques,460,145.76,160.34,306.1
+67a10dc87a2944262155320c,96,fallido,23/12/2024,Ruy,Elias,Tarazona,Renault,Twingo,Guardabarros,460,92.03,96.63,188.66
+67a10dc87a2944262155320d,96,fallido,24/12/2024,Ruy,Elias,Tarazona,Renault,Twingo,Rueda,460,102.69,102.69,205.38
+67a10dc87a2944262155320e,97,fallido,25/12/2024,Marianela,Alcalde,Pontevedra,Opel,Mokka,Guardabarros,640,119.46,125.43,244.89
+67a10dc87a2944262155320f,98,fallido,25/12/2024,Pedro,Alonso,Ourense,Hyundai,Kona,Capo,640,162.15,178.37,340.52
+67a10dc87a29442621553210,99,fallido,26/12/2024,Baltasar,Falco,Leon,Mini,Convertible,Maletero,630,135.65,149.22,284.87
+67a10dc87a29442621553211,100,fallido,27/12/2024,Maximiliano,Gimeno,El Astillero,Renault,Kadjar,Techo,1170,120.68,138.78,259.46
+67a10dc87a29442621553212,101,fallido,27/12/2024,Bernardo,Luque,Plasencia,Nissan,Qashqai,Rueda,960,59.24,59.24,118.48
+67a10dc87a29442621553213,102,fallido,28/12/2024,Camilo,Gonzalez,Roquetas de Mar,Subaru,Ascent,Rueda,1140,96.97,96.97,193.94
+67a10dc87a29442621553214,103,fallido,29/12/2024,Tadeo,Maestre,Vinaroz,Lamborghini,Gallardo,Rueda,1140,55.6,55.6,111.2
+67a10dc87a29442621553215,104,fallido,30/12/2024,Herminio,Franch,Manacor,Citroen,C4,Parachoques,970,106.14,116.75,222.89
+67a10dc87a29442621553216,105,fallido,31/12/2024,Jaime,Medina,Salvatierra/Agurain,Ford,Escape,Parachoques,850,120.45,132.5,252.95
+67a10dc87a29442621553217,106,fallido,31/12/2024,Primitiva,Jaume,Tafalla,Dacia,Duster,Puerta,1000,71.21,78.33,149.54
+67a10dc87a29442621553218,107,fallido,01/01/2025,Angela,Torre,Roquetas de Mar,Ferrari,488,Luna,630,208.84,229.72,438.56
+67a10dc87a29442621553219,108,fallido,02/01/2025,Duilio,Roca,Loja,Volvo,V60,Techo,430,71.77,82.54,154.31
+67a10dc87a2944262155321a,109,fallido,03/01/2025,Juan Luis,Saavedra,San Esteban de Gormaz,Suzuki,SX4,Capo,970,121.35,133.49,254.84
+67a10dc87a2944262155321b,110,fallido,04/01/2025,Lidia,Pina,A Coruna,Bentley,Arnage,Techo,640,120.45,138.52,258.97
+67a10dc87a2944262155321c,110,fallido,04/01/2025,Lidia,Pina,A Coruna,Bentley,Arnage,Parabrisas,640,144.85,166.58,311.43
+67a10dc87a2944262155321d,111,fallido,05/01/2025,Vicenta,Jara,Llodio,Citroen,C5,Maletero,870,146.45,161.09,307.54
+67a10dc87a2944262155321e,112,fallido,06/01/2025,Florentino,Pol,Torrelavega,Chevrolet,Equinox,Guardabarros,850,124.98,131.23,256.21
+67a10dc87a2944262155321f,113,acierto,07/01/2025,Estela,Carpio,Puerto del Rosario,Suzuki,Swift,Guardabarros,610,132.31,138.93,271.24
+67a10dc87a29442621553220,113,acierto,07/01/2025,Estela,Carpio,Puerto del Rosario,Suzuki,Swift,Maletero,610,179.91,197.9,377.81
+67a10dc87a29442621553221,113,acierto,08/01/2025,Estela,Carpio,Puerto del Rosario,Suzuki,Swift,Capo,610,170.31,187.34,357.65
+67a10dc87a29442621553222,114,acierto,08/01/2025,Maria Del Carmen,Marti,Albacete,Porsche,911,Maletero,790,106.43,117.07,223.5
+67a10dc87a29442621553223,115,acierto,09/01/2025,Ligia,Cases,Valladolid,Mitsubishi,Outlander,Rueda,880,69.15,69.15,138.3
+67a10dc87a29442621553224,116,acierto,10/01/2025,Espiridion,Ros,San Cristobal de La Laguna,Jeep,Renegade,Parachoques,790,153.7,169.07,322.77
+67a10dc87a29442621553225,117,fallido,10/01/2025,Lupita,Montoya,Murcia,Ford,Explorer,Parabrisas,730,219.35,252.25,471.6
+67a10dc87a29442621553226,117,fallido,10/01/2025,Lupita,Montoya,Murcia,Ford,Explorer,Maletero,730,117.07,128.78,245.85
+67a10dc87a29442621553227,118,fallido,10/01/2025,Lalo,Lucena,Castro Urdiales,Mazda,MX-5,Rueda,790,63.98,63.98,127.96
+67a10dc87a29442621553228,119,fallido,10/01/2025,Mar,Sanjuan,Lugo,Jaguar,XF,Puerta,820,190.19,209.21,399.4
+67a10dc87a29442621553229,120,acierto,10/01/2025,Remedios,Guillen,Candeleda,Alfa Romeo,Stelvio,Techo,610,165.6,190.44,356.04
+67a10dc87a2944262155322a,120,fallido,10/01/2025,Remedios,Guillen,Candeleda,Alfa Romeo,Stelvio,Puerta,610,138.85,152.74,291.59
+67a10dc87a2944262155322b,120,fallido,10/01/2025,Remedios,Guillen,Candeleda,Alfa Romeo,Stelvio,Capo,610,120.35,132.38,252.73
+67a10dc87a2944262155322c,121,fallido,10/01/2025,Julie,Tenorio,Camargo,Subaru,Forester,Rueda,940,110.75,110.75,221.5
+67a10dc87a2944262155322d,121,fallido,10/01/2025,Julie,Tenorio,Camargo,Subaru,Forester,Puerta,940,141.76,155.94,297.7
+67a10dc87a2944262155322e,122,fallido,10/01/2025,Ingrid,Milla,Andorra,Nissan,Micra,Techo,640,230.14,264.66,494.8
+67a10dc87a2944262155322f,123,fallido,11/01/2025,Anastasio,Bellido,Barcelona,Aston Martin,DBS Superleggera,Maletero,460,171.25,188.38,359.63
+67a10dc87a29442621553230,124,acierto,11/01/2025,Flor,Montalban,Merida,Subaru,Outback,Guardabarros,1080,83.04,87.19,170.23
+67a10dc87a29442621553231,124,acierto,11/01/2025,Flor,Montalban,Merida,Subaru,Outback,Capo,1080,132.29,145.52,277.81
+67a10dc87a29442621553232,125,fallido,11/01/2025,Valeria,Pulido,Villanueva de la Serena,Chevrolet,Equinox,Maletero,880,91.55,100.7,192.25
+67a10dc87a29442621553233,126,acierto,11/01/2025,Maria Jose,Rebollo,San Fernando,Volkswagen,Tiguan,Maletero,1000,127.87,140.66,268.53
+67a10dc87a29442621553234,127,acierto,11/01/2025,Natalia,Vera,Amurrio,Mercedes-Benz,Clase E,Motor,460,166.13,215.97,382.1
+67a10dc87a29442621553235,128,fallido,11/01/2025,Chema,Ferrer,Ourense,Rolls-Royce,Phantom,Parabrisas,490,188.86,217.19,406.05
+67a10dc87a29442621553236,129,acierto,11/01/2025,Amparo,Reyes,Zarautz,Audi,A3,Parachoques,670,133.62,146.98,280.6
+67a10dc87a29442621553237,130,fallido,11/01/2025,Teresa,Galvez,Linares,Skoda,Octavia,Rueda,520,81.26,81.26,162.52
+67a10dc87a29442621553238,131,fallido,11/01/2025,Joan,Elias,Ponferrada,Peugeot,2008,Techo,1080,100.58,115.67,216.25
+67a10dc87a29442621553239,132,acierto,11/01/2025,Primitivo,Juarez,Fraga,Bentley,Bentayga,Capo,880,219.24,241.16,460.4
+67a10dc87a2944262155323a,133,acierto,11/01/2025,Marino,Corominas,Arnedo,Tesla,Roadster,Maletero,550,60.69,66.76,127.45
+67a10dc87a2944262155323b,134,fallido,12/01/2025,Estela,Pera,Gandia,Chevrolet,Malibu,Techo,550,143.28,164.77,308.05
+67a10dc87a2944262155323c,135,fallido,12/01/2025,Armida,Vega,Vinaroz,Bugatti,Bolide,Rueda,520,108.32,108.32,216.64
+67a10dc87a2944262155323d,136,fallido,13/01/2025,Onofre,Hurtado,A Coruna,Suzuki,Ciaz,Parabrisas,1200,173.83,199.9,373.73
+67a10dc87a2944262155323e,137,fallido,13/01/2025,Obdulia,Verdejo,La Roda,Alfa Romeo,Giulia,Parachoques,940,81.43,89.57,171
+67a10dc87a2944262155323f,138,fallido,14/01/2025,Luisa,Uria,Elche,Mini,Clubman,Parabrisas,670,146.72,168.73,315.45
+67a10dc87a29442621553240,139,fallido,15/01/2025,Azahar,Pol,Cuellar,Lexus,NX,Parachoques,610,99.57,109.53,209.1
+67a10dc87a29442621553241,140,fallido,16/01/2025,Veronica,Galindo,Arroyo de la Encomienda,Renault,Kadjar,Capo,670,95.94,105.53,201.47
+67a10dc87a29442621553242,140,acierto,16/01/2025,Veronica,Galindo,Arroyo de la Encomienda,Renault,Kadjar,Techo,670,120.68,138.78,259.46
+67a10dc87a29442621553243,141,acierto,16/01/2025,Ani,Otero,Balaguer,Tesla,Model S,Puerta,790,167.06,183.77,350.83
+67a10dc87a29442621553244,142,fallido,16/01/2025,Bienvenida,Solis,El Espinar,Ford,Escape,Faro,670,71.71,75.3,147.01
+67a10dc87a29442621553245,142,fallido,16/01/2025,Bienvenida,Solis,El Espinar,Ford,Escape,Puerta,670,70.52,77.57,148.09
+67a10dc87a29442621553246,143,fallido,16/01/2025,Caridad,Reyes,Segovia,Peugeot,508,Faro,970,122.89,129.03,251.92
+67a10dc87a29442621553247,144,fallido,16/01/2025,Marcos,Aznar,Arrecife,Lexus,NX,Techo,490,195.17,224.45,419.62
+67a10dc87a29442621553248,144,acierto,16/01/2025,Marcos,Aznar,Arrecife,Lexus,NX,Parachoques,490,99.57,109.53,209.1
+67a10dc87a29442621553249,145,fallido,16/01/2025,Jeronimo,Gallardo,Loja,Rolls-Royce,Cullinan,Motor,580,362.39,471.11,833.5
+67a10dc87a2944262155324a,146,acierto,16/01/2025,Rogelio,Sanabria,Morales del Vino,Opel,Crossland X,Maletero,520,78.34,86.17,164.51
+67a10dc87a2944262155324b,147,acierto,16/01/2025,Nicanor,Moran,Marbella,Ferrari,F8 Tributo,Parachoques,790,87.34,96.07,183.41
+67a10dc87a2944262155324c,147,acierto,16/01/2025,Nicanor,Moran,Marbella,Ferrari,F8 Tributo,Maletero,790,136.66,150.33,286.99
+67a10dc87a2944262155324d,148,fallido,16/01/2025,Carlito,Berenguer,El Casar,Land Rover,Range Rover Evoque,Rueda,660,133.24,133.24,266.48
+67a10dc87a2944262155324e,149,fallido,16/01/2025,Chelo,Maldonado,Marbella,Mercedes-Benz,Clase S,Rueda,910,76.12,76.12,152.24
+67a10dc87a2944262155324f,149,fallido,16/01/2025,Chelo,Maldonado,Marbella,Mercedes-Benz,Clase S,Parachoques,910,84.65,93.12,177.77
+67a10dc87a29442621553250,149,acierto,16/01/2025,Chelo,Maldonado,Marbella,Mercedes-Benz,Clase S,Capo,910,132.91,146.2,279.11
+67a10dc87a29442621553251,150,acierto,16/01/2025,Lucho,Belmonte,Las Palmas de Gran Canaria,Suzuki,Swift,Capo,640,170.31,187.34,357.65
+67a10dc87a29442621553252,150,acierto,16/01/2025,Lucho,Belmonte,Las Palmas de Gran Canaria,Suzuki,Swift,Maletero,640,179.91,197.9,377.81
+67a10dc87a29442621553253,151,acierto,16/01/2025,Anacleto,Gascon,Leganes,Peugeot,208,Techo,690,205.55,236.38,441.93
+67a10dc87a29442621553254,152,fallido,17/01/2025,Isa,Sanabria,Alcala de Guadaira,Ford,Fiesta,Capo,1200,116.41,128.05,244.46
+67a10dc87a29442621553255,153,fallido,17/01/2025,Rocio,Barriga,Girona,Citroen,C1,Motor,1000,497.8,647.14,1144.94
+67a10dc87a29442621553256,154,acierto,18/01/2025,Maximiliano,Pelayo,Navalmoral de la Mata,Audi,A4,Maletero,780,160.1,176.11,336.21
+67a10dc87a29442621553257,154,acierto,19/01/2025,Maximiliano,Pelayo,Navalmoral de la Mata,Audi,A4,Motor,780,527.31,685.5,1212.81
+67a10dc87a29442621553258,155,acierto,19/01/2025,Hipolito,Iniesta,Ubeda,Land Rover,Discovery,Capo,580,175.02,192.52,367.54
+67a10dc87a29442621553259,156,fallido,20/01/2025,Consuela,Vinas,Valencia,Mini,Cooper,Parachoques,820,185.23,203.75,388.98
+67a10dc87a2944262155325a,157,fallido,21/01/2025,Fortunata,Jurado,Ferrol,Chevrolet,Bolt,Parachoques,520,107.56,118.32,225.88
+67a10dc87a2944262155325b,158,fallido,22/01/2025,Victor Manuel,Barrios,Villaralbo,Aston Martin,Vantage,Capo,820,105.75,116.33,222.08
+67a10dc87a2944262155325c,158,fallido,23/01/2025,Victor Manuel,Barrios,Villaralbo,Aston Martin,Vantage,Techo,820,115.35,132.65,248
+67a10dc87a2944262155325d,159,acierto,24/01/2025,Palmira,Pino,Portugalete,Volvo,XC40,Motor,580,457.13,594.27,1051.4
+67a10dc87a2944262155325e,160,acierto,25/01/2025,Saturnina,Sandoval,Coria,Seat,Arona,Techo,940,105.66,121.51,227.17
+67a10dc87a2944262155325f,161,fallido,25/01/2025,Anselmo,Tejada,Oleiros,Ford,Explorer,Capo,1140,236.15,259.77,495.92
+67a10dc87a29442621553260,162,fallido,25/01/2025,Climaco,Feijoo,Fuengirola,Lexus,IS,Techo,780,132.29,152.13,284.42
+67a10dc87a29442621553261,163,acierto,25/01/2025,Sonia,Gras,Alcala de Guadaira,Toyota,RAV4,Parabrisas,520,189,217.35,406.35
+67a10dc87a29442621553262,164,acierto,25/01/2025,Dafne,Palomo,Lepe,Jeep,Wrangler,Maletero,910,118.19,130.01,248.2
+67a10dc87a29442621553263,165,acierto,25/01/2025,Jose Miguel,Muniz,Molina de Aragon,Rolls-Royce,Wraith,Guardabarros,760,145.38,152.65,298.03
+67a10dc87a29442621553264,166,acierto,25/01/2025,Marino,Bru,Lugo,Lexus,ES,Capo,490,115.48,127.03,242.51
+67a10dc87a29442621553265,167,acierto,25/01/2025,Narcisa,Vara,Linares,Mitsubishi,Eclipse Cross,Capo,490,139.05,152.96,292.01
+67a10dc87a29442621553266,168,fallido,25/01/2025,Jose Luis,Murillo,San Esteban de Gormaz,Kia,Rio,Rueda,730,69.02,69.02,138.04
+67a10dc87a29442621553267,169,fallido,25/01/2025,Humberto,Nicolau,Estella-Lizarra,Mini,Paceman,Capo,1170,115.09,126.6,241.69
+67a10dc87a29442621553268,170,acierto,25/01/2025,Mirta,Puente,Calahorra,Mazda,CX-5,Techo,520,187.01,215.06,402.07
+67a10dc87a29442621553269,171,acierto,25/01/2025,Regina,Pinol,Almendralejo,Peugeot,2008,Parachoques,630,64.11,70.52,134.63
+67a10dc87a2944262155326a,172,fallido,25/01/2025,Cecilio,Quevedo,Torrijos,Land Rover,Defender,Parachoques,520,113.35,124.69,238.04
+67a10dc87a2944262155326b,173,fallido,25/01/2025,Mauricio,Albero,Oleiros,Hyundai,Santa Fe,Motor,790,305.03,396.54,701.57
+67a10dc87a2944262155326c,173,fallido,25/01/2025,Mauricio,Albero,Oleiros,Hyundai,Santa Fe,Parabrisas,790,125.01,143.76,268.77
+67a10dc87a2944262155326d,174,fallido,25/01/2025,Natalio,Puig,Loja,Fiat,Panda,Parachoques,880,60.54,66.59,127.13
+67a10dc87a2944262155326e,174,fallido,26/01/2025,Natalio,Puig,Loja,Fiat,Panda,Maletero,880,120.74,132.81,253.55
+67a10dc87a2944262155326f,175,fallido,26/01/2025,Mariano,Gaya,Oleiros,Volvo,S60,Parachoques,940,162.11,178.32,340.43
+67a10dc87a29442621553270,176,fallido,27/01/2025,Antonio,Calvet,Cadiz,Porsche,Macan,Capo,850,116.97,128.67,245.64
+67a10dc87a29442621553271,177,fallido,28/01/2025,Marcia,Catala,Salvatierra/Agurain,Kia,Rio,Rueda,870,69.02,69.02,138.04
+67a10dc87a29442621553272,178,fallido,29/01/2025,Liliana,Alvarado,Hospitalet de Llobregat,Aston Martin,Vantage,Puerta,520,132.65,145.92,278.57
+67a10dc87a29442621553273,179,acierto,30/01/2025,Virgilio,Rocamora,Ubeda,BMW,Serie 3,Techo,520,134.88,155.11,289.99
+67a10dc87a29442621553274,180,fallido,31/01/2025,Isabela,Andres,Cantalejo,Suzuki,Jimny,Capo,820,137.35,151.09,288.44
+67a10dc87a29442621553275,181,fallido,31/01/2025,Beatriz,Chacon,Huelva,Citroen,C5,Rueda,1000,112.39,112.39,224.78
+67a10dc87a29442621553276,182,acierto,01/02/2025,Agustina,Hidalgo,Almansa,Lamborghini,Aventador,Puerta,990,151.6,166.76,318.36
+67a10dc87a29442621553277,182,acierto,01/02/2025,Agustina,Hidalgo,Almansa,Lamborghini,Aventador,Techo,990,259.56,298.49,558.05
+67a10dc87a29442621553278,183,fallido,02/02/2025,Victor Manuel,Peiro,Tarazona,Jaguar,XE,Maletero,1000,89.83,98.81,188.64
+67a10dc87a29442621553279,184,fallido,02/02/2025,Africa,Romeu,Navalmoral de la Mata,Mitsubishi,Pajero,Guardabarros,910,141.43,148.5,289.93
+67a10dc87a2944262155327a,185,fallido,02/02/2025,Pablo,Ramon,Barbastro,Alfa Romeo,Giulietta,Maletero,670,150.7,165.77,316.47
+67a10dc87a2944262155327b,185,fallido,02/02/2025,Pablo,Ramon,Barbastro,Alfa Romeo,Giulietta,Guardabarros,670,84,88.2,172.2
+67a10dc87a2944262155327c,185,fallido,02/02/2025,Pablo,Ramon,Barbastro,Alfa Romeo,Giulietta,Parachoques,670,157.13,172.84,329.97
+67a10dc87a2944262155327d,186,fallido,02/02/2025,Maximo,Muro,Baranain,Mitsubishi,Outlander,Capo,460,106.72,117.39,224.11
+67a10dc87a2944262155327e,187,fallido,02/02/2025,Camilo,Ariza,Ponferrada,Jeep,Wrangler,Maletero,970,118.19,130.01,248.2
+67a10dc87a2944262155327f,188,fallido,02/02/2025,Cirino,Blasco,Lugo,Ferrari,Portofino,Techo,760,234.67,269.87,504.54
+67a10dc87a29442621553280,189,fallido,02/02/2025,Teofilo,Sierra,Fuenlabrada,Mazda,MX-5,Techo,550,90.05,103.56,193.61
+67a10dc87a29442621553281,189,fallido,02/02/2025,Teofilo,Sierra,Fuenlabrada,Mazda,MX-5,Parachoques,550,67.89,74.68,142.57
+67a10dc87a29442621553282,190,fallido,02/02/2025,Caridad,Estevez,Sabadell,Skoda,Kodiaq,Techo,880,109.12,125.49,234.61
+67a10dc87a29442621553283,191,acierto,02/02/2025,Julie,Vigil,Calanda,Mazda,CX-5,Maletero,610,136.57,150.23,286.8
+67a10dc87a29442621553284,192,acierto,02/02/2025,Calixta,Lorenzo,Briviesca,Alfa Romeo,Giulia,Techo,880,143.73,165.29,309.02
+67a10dc87a29442621553285,192,fallido,03/02/2025,Calixta,Lorenzo,Briviesca,Alfa Romeo,Giulia,Capo,880,113.2,124.52,237.72
+67a10dc87a29442621553286,193,acierto,03/02/2025,Matilde,Manso,Almeria,Jeep,Cherokee,Techo,640,166.49,191.46,357.95
+67a10dc87a29442621553287,193,acierto,03/02/2025,Matilde,Manso,Almeria,Jeep,Cherokee,Motor,640,391.95,509.54,901.49
+67a10dc87a29442621553288,194,fallido,03/02/2025,Teodosio,Malo,Mota del Cuervo,McLaren,GT,Motor,900,288.44,374.97,663.41
+67a10dc87a29442621553289,195,fallido,03/02/2025,Magdalena,Iniesta,Briviesca,Volvo,XC90,Rueda,580,80.03,80.03,160.06
+67a10dc87a2944262155328a,196,fallido,03/02/2025,Nilda,Jaume,Llucmajor,Kia,Sorento,Techo,820,154.35,177.5,331.85
+67a10dc87a2944262155328b,197,fallido,03/02/2025,Joel,Benavides,Ecija,Nissan,X-Trail,Capo,1000,161.19,177.31,338.5
+67a10dc87a2944262155328c,198,fallido,03/02/2025,Lorenza,Ochoa,Montilla,Hyundai,Tucson,Capo,640,124.08,136.49,260.57
+67a10dc87a2944262155328d,199,fallido,03/02/2025,Tatiana,Garces,Lepe,Audi,Q7,Rueda,820,103.84,103.84,207.68
+67a10dc87a2944262155328e,200,fallido,03/02/2025,Saturnino,Alvaro,Miranda de Ebro,Bugatti,Divo,Capo,940,142.28,156.51,298.79
+67a10dc87a2944262155328f,201,fallido,03/02/2025,Sara,Romeu,Castro Urdiales,Audi,A4,Parachoques,1020,140.04,154.04,294.08
+67a10dc87a29442621553290,202,fallido,03/02/2025,Aranzazu,Vaquero,Vilalba,Bentley,Flying Spur,Rueda,550,124.64,124.64,249.28
+67a10dc87a29442621553291,203,fallido,03/02/2025,Teodora,Carmona,Andujar,Kia,Rio,Capo,550,150.75,165.83,316.58
+67a10dc87a29442621553292,204,fallido,03/02/2025,Alexandra,Cabo,Ibiza,Honda,HR-V,Puerta,1110,155.76,171.34,327.1
+67a10dc87a29442621553293,205,fallido,03/02/2025,Gonzalo,Leiva,El Casar,Suzuki,Swift,Parachoques,960,124.28,136.71,260.99
+67a10dc87a29442621553294,206,acierto,03/02/2025,Jesusa,Bernal,Almazora,Dacia,Stepway,Puerta,940,90.68,99.75,190.43
+67a10dc87a29442621553295,207,fallido,03/02/2025,Georgina,Alcazar,Bilbao,McLaren,GT,Luna,970,63.34,69.67,133.01
+67a10dc87a29442621553296,208,acierto,03/02/2025,Jose Francisco,Rodriguez,Bilbao,Aston Martin,Rapide,Maletero,430,195.88,215.47,411.35
+67a10dc87a29442621553297,209,acierto,03/02/2025,Anastasia,Izaguirre,Tortosa,Subaru,Outback,Guardabarros,790,83.04,87.19,170.23
+67a10dc87a29442621553298,210,fallido,03/02/2025,Timoteo,Castilla,Irun,Mercedes-Benz,Clase C,Puerta,580,133.11,146.42,279.53
+67a10dc87a29442621553299,211,fallido,03/02/2025,Edgar,Serra,Baza,Bentley,Flying Spur,Maletero,430,120.26,132.29,252.55
+67a10dc87a2944262155329a,212,fallido,03/02/2025,Hugo,Merino,El Espinar,Toyota,Yaris,Guardabarros,580,88.91,93.36,182.27
+67a10dc87a2944262155329b,213,fallido,03/02/2025,Milagros,Priego,Villarrobledo,Bugatti,Bolide,Parachoques,880,97.51,107.26,204.77
+67a10dc87a2944262155329c,214,fallido,03/02/2025,Cosme,Carranza,Ayamonte,Subaru,Ascent,Capo,930,191.27,210.4,401.67
+67a10dc87a2944262155329d,215,fallido,03/02/2025,Benigna,Torrent,Granada,Opel,Corsa,Parachoques,940,114.61,126.07,240.68
+67a10dc87a2944262155329e,216,fallido,03/02/2025,Pascual,Caparros,Burriana,Fiat,500,Maletero,1170,98.85,108.73,207.58
+67a10dc87a2944262155329f,217,fallido,03/02/2025,Elena,Guillen,San Esteban de Gormaz,Kia,Rio,Parachoques,730,127.02,139.72,266.74
+67a10dc87a294426215532a0,218,fallido,03/02/2025,Isabel,Agudo,Granada,Volkswagen,Polo,Guardabarros,750,56.69,59.52,116.21
+67a10dc87a294426215532a1,219,acierto,04/02/2025,Jeronimo,Aranda,Ferrol,Fiat,Punto,Capo,970,122.83,135.11,257.94
+67a10dc87a294426215532a2,220,acierto,04/02/2025,Evita,Villanueva,Las Navas del Marques,Fiat,Tipo,Rueda,940,92.84,92.84,185.68
+67a10dc87a294426215532a3,221,acierto,04/02/2025,Yago,Berenguer,Arroyo de la Encomienda,Hyundai,Kona,Guardabarros,870,93.54,98.22,191.76
+67a10dc87a294426215532a4,222,acierto,04/02/2025,Gil,Pedrero,Monzon,Jaguar,XE,Capo,940,118.54,130.39,248.93
